@@ -8,3 +8,5 @@ description: Remodeler project showing proof and process.
 - Highlight: Before/after photos plus two homeowner quotes
 - Result: 22% lift in booked consultations after publishing
 
+
+

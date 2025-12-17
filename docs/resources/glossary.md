@@ -8,3 +8,5 @@ description: Quick definitions for shared language.
 - Service Area: Cities/neighborhoods explicitly served
 - Nurture: Follow-up emails or ads that build trust over time
 
+
+

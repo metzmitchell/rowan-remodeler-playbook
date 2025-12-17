@@ -8,3 +8,5 @@ description: Good patterns worth reusing.
 - Proof stack: gallery, testimonials, certifications
 - Neighborhood-specific landing pages for high-intent traffic
 
+
+

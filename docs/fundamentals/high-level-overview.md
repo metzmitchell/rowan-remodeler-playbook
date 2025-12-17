@@ -8,3 +8,5 @@ description: Snapshot of the remodeler marketing system.
 - Channels: search + local SEO, paid search, paid social retargeting, email nurture
 - Conversions: book a consultation, request a quote, download a style guide
 
+
+
