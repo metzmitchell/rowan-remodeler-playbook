@@ -9,3 +9,4 @@ Welcome to the Rowan Remodeler Playbook. Use this guide to align marketing, sale
 - Tasks: repeatable marketing actions
 - Examples & References: real-world inspiration
 - Resources: quick definitions and supporting links
+

@@ -16,7 +16,7 @@ npm install
 npm start
 ```
 - Opens http://localhost:3000
-- Site is served under the configured base path: http://localhost:3000/playbook/remodeler/
+- Site is served at the root: http://localhost:3000/
 
 ## Build
 ```bash
@@ -33,8 +33,8 @@ Serves the production build (defaults to http://localhost:3000).
 ## Deployment (Vercel)
 - Build Command: `npm run build`
 - Output Directory: `build`
-- Site assumes `baseUrl = /playbook/remodeler/`
-- If hosting at `https://rowan.build/playbook/remodeler/`, configure a rewrite/route for that subpath (or a project-level base path) in Vercel.
+- Site assumes `baseUrl = /`
+- If hosting at `https://playbook.rowan.build/`, no subpath rewrite is needed—just point the domain to this Vercel project.
 
 ## Notes
 - Docs live at the site root via `routeBasePath: '/'`.

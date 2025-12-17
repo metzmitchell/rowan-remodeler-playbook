@@ -5,7 +5,7 @@ Build a **Docusaurus v3** docs-only knowledge base for construction marketing cl
 
 ## REPO + DEPLOYMENT TARGET
 - **Repo name**: `rowan-playbook` (fresh start)
-- **Deploy via Vercel to**: `https://rowan.build/playboook/remodeler/` (confirm spelling; `baseUrl` must end with `/`)
+- **Deploy via Vercel to**: `https://rowan.build/playboook/remodeler/` )
 - **Docs live at the site root** (no `/docs` path)
 
 ## SCOPE (DO / DON’T)
@@ -135,6 +135,3 @@ Content here...
 - Git is initialized with a single initial commit
 
 ---
-
-**Status:** Ready to paste into Cursor. Ensure `static/img/rowan-favicon.png` and the “South Korea Serif” font file exist before setup.
-

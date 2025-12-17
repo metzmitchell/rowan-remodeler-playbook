@@ -7,3 +7,4 @@ description: Quick definitions for shared language.
 - Proof Stack: Photos, testimonials, certifications, and awards clustered together
 - Service Area: Cities/neighborhoods explicitly served
 - Nurture: Follow-up emails or ads that build trust over time
+

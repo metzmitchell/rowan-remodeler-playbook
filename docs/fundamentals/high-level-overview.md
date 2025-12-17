@@ -7,3 +7,4 @@ description: Snapshot of the remodeler marketing system.
 - Positioning: trustworthy craft, clear pricing signals, proof-heavy stories
 - Channels: search + local SEO, paid search, paid social retargeting, email nurture
 - Conversions: book a consultation, request a quote, download a style guide
+

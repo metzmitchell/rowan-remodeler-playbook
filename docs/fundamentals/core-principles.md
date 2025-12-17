@@ -8,3 +8,4 @@ description: Guardrails for every tactic and asset.
 3) Match intent: pages and ads map to buyer stage.
 4) Stay local: service area clarity and geo cues on every page.
 5) Measure everything: source tracking and post-lead follow-up.
+

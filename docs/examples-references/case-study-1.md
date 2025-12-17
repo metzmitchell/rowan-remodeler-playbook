@@ -7,3 +7,4 @@ description: Remodeler project showing proof and process.
 - Location: Primary service area
 - Highlight: Before/after photos plus two homeowner quotes
 - Result: 22% lift in booked consultations after publishing
+
