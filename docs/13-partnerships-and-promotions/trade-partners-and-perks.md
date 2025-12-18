@@ -1,6 +1,11 @@
-# Referral Partners & client Perks
+---
+title: "Trade Partners and Perks"
+description: "Guide for creating mutually beneficial referral relationships and perks with local trade partners."
+tags: ["partnerships", "guide", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Promotions & Partnerships
+# Trade Partners and Perks
 
 Create relationships with local businesses to refer clients both ways, perhaps at a slight discount.
 

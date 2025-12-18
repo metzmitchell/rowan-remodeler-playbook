@@ -1,14 +1,13 @@
 ---
-type: sop
-status: draft
-created: 2025-12-14
-updated: 2025-12-14
-notes: Built while running Scroggs offboarding.
+title: "Offboarding SOP"
+description: "Standard operating procedure for cleanly ending a client engagement, including asset handoff and access removal."
+tags: ["systems", "sop", "active"]
+last_updated: "2025-12-18"
 ---
 
 # Offboarding SOP
 
-> **Work-in-progress note (Scroggs):** This SOP is being created **in real time while I go through the Scroggs offboarding**. Add/adjust steps as they happen, and capture exact links, owners, dates, and screenshots where helpful.
+> **Work-in-progress note:** This SOP is being created **in real time during a client offboarding**. Add/adjust steps as they happen, and capture exact links, owners, dates, and screenshots where helpful.
 
 ## Goal
 End the engagement cleanly: deliver the final handoff, preserve the work, remove access appropriately, close billing, and leave a good last impression.
@@ -77,7 +76,7 @@ End the engagement cleanly: deliver the final handoff, preserve the work, remove
 - [ ] Capture “what I’d do differently next time” bullets
 - [ ] Add reusable learnings to relevant SOPs/templates
 
-## Scroggs-specific notes (build as you go)
+## [Client]-specific notes (build as you go)
 - **Engagement end date**:
 - **Primary contact**:
 - **Admin/technical contact**:

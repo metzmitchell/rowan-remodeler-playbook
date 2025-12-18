@@ -1,11 +1,11 @@
 ---
-Priority: 2 (High)
-Content Type: Manual
-Last Updated: 2025-01-28
-Usage: Voice for personal and casual content creation
+title: "Casual Writing Voice Template"
+description: "A guide for a personal and casual writing voice: simple beauty with complex depth and subtle, dry humor."
+tags: ["copywriting", "reference", "active"]
+last_updated: "2025-12-18"
 ---
 
-# Mitch's Personal & Casual Writing Voice
+# Casual Writing Voice Template
 
 ## Core Philosophy: Simple Beauty, Complex Depth
 
@@ -36,28 +36,27 @@ Example: "The computer exists to compute. But then again, don't we all exist to.
 - **Big picture focus** - relate details to larger purpose
 - **Hint at existential questions** - without using the word "existential"
 
-## Personal Context for Natural References
+## Personal Context for Natural References (Customize This)
 
 ### Life Details
-- **Location:** Asheville, NC - beautiful mountain summers, rainy winters
-- **Partner:** Sarah - outdoor adventures, lake days, working on camper
-- **Work:** From home, love my desk setup (personal haven)
-- **Family:** Dad also in Asheville
-- **Activities:** Mountain biking, reading (lots of sci-fi, self-help)
-- **Background:** Virginia alpaca farm (20 acres), born in Colorado
+- **Location:** [Your City/Region]
+- **Partner/Family:** [Family details for anecdotes]
+- **Work:** [Work environment/style]
+- **Family:** [Family background]
+- **Activities:** [Hobbies/Interests]
+- **Background:** [Personal history]
 
 ### Values & Perspectives
-- **Techno-optimist** - AI as massively disruptive opportunity
-- **Minimalist** - in design, lifestyle, architecture preferences
-- **Work-focused** - genuinely love building things and businesses
-- **Financially responsible** - live below means, invest in yourself first
-- **Inclusive & open-minded** - accepting of all people
-- **Innovation believer** - America as innovation country
+- **[Value 1]** - e.g., "Techno-optimist"
+- **[Value 2]** - e.g., "Minimalist"
+- **[Value 3]** - e.g., "Work-focused"
+- **[Value 4]** - e.g., "Financially responsible"
+- **[Value 5]** - e.g., "Inclusive & open-minded"
 
 ### Professional Context
-- **Marketing professional** - good eye for design, branding
-- **Builder associations** - National & local involvement
-- **Creative background** - art (mother is artist), music (violinist)
+- **[Role 1]** - e.g., "Marketing professional"
+- **[Role 2]** - e.g., "Builder associations involvement"
+- **[Background]** - e.g., "Creative background"
 
 ## Duration-Based Applications
 
@@ -77,7 +76,7 @@ Example: "The computer exists to compute. But then again, don't we all exist to.
 - All elements in play
 - Deeper philosophical undertones
 - More personal references
-- Extended metaphors (chess, simplicity)
+- Extended metaphors
 
 ### Personal Writing
 - Maximum personality
@@ -88,7 +87,7 @@ Example: "The computer exists to compute. But then again, don't we all exist to.
 ## What NOT to Do
 
 ### Avoid These Elements
-- Religious references (ignostic perspective)
+- Religious references (unless relevant to brand)
 - Direct philosophical statements
 - Complex vocabulary
 - Corporate speak
@@ -103,4 +102,4 @@ Example: "The computer exists to compute. But then again, don't we all exist to.
 - Don't lose the conversational feel
 
 ## Key Principle
-Writing should feel like a well-organized version of how I naturally speak - accessible, subtly humorous, with undertones of deeper thinking, but never pretentious or overly complex. 
+Writing should feel like a well-organized version of how you naturally speak - accessible, subtly humorous, with undertones of deeper thinking, but never pretentious or overly complex.

@@ -154,12 +154,12 @@ Before publishing any content:
 ## Related Resources
 
 ### Strategy Documents
-- [Content Generation Strategy](/Users/mitchellmetz/Documents/Operating System/content-workspace/knowledge-base/content/workflows/content-generation-strategy.md) - Content creation workflows
-- [Marketing Strategy Playbook](/Users/mitchellmetz/Documents/Operating System/content-workspace/knowledge-base/content/construction-marketing/marketing-strategy-playbook.md) - Strategic communication framework
+- [Content Generation Strategy](/Users/[Advisor]ellmetz/Documents/Operating System/content-workspace/knowledge-base/content/workflows/content-generation-strategy.md) - Content creation workflows
+- [Marketing Strategy Playbook](/Users/[Advisor]ellmetz/Documents/Operating System/content-workspace/knowledge-base/content/construction-marketing/marketing-strategy-playbook.md) - Strategic communication framework
 
 ### Industry Applications
-- [Builder Gift Ideas](/Users/mitchellmetz/Documents/Operating System/content-workspace/knowledge-base/content/construction-marketing/builder-gift-ideas.md) - Client communication examples
-- [AI Implementation Blog](/Users/mitchellmetz/Documents/Operating System/content-workspace/knowledge-base/content/business-and-ai/Blog-Post.md) - Professional voice in action
+- [Builder Gift Ideas](/Users/[Advisor]ellmetz/Documents/Operating System/content-workspace/knowledge-base/content/construction-marketing/builder-gift-ideas.md) - Client communication examples
+- [AI Implementation Blog](/Users/[Advisor]ellmetz/Documents/Operating System/content-workspace/knowledge-base/content/business-and-ai/Blog-Post.md) - Professional voice in action
 
 ## 🚨 **AGENT PRIORITY SYSTEM** 🚨
 

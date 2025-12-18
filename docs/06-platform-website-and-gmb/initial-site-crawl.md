@@ -1,3 +1,8 @@
-# Run an initial site crawl
+---
+title: "Initial Site Crawl"
+description: "Task to perform an initial comprehensive site crawl to identify technical SEO and structural issues."
+tags: ["website", "task", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Search Engine Optimization
+# Initial Site Crawl

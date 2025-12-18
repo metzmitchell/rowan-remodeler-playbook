@@ -1,6 +1,11 @@
-# Review messaging and positioning
+---
+title: "Annual Messaging Review"
+description: "Annual strategic review of brand messaging and positioning for relevance and impact."
+tags: ["recurring", "task", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Annually
+# Annual Messaging Review
 
 Review your messaging and positioning.
 

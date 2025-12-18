@@ -1,10 +1,11 @@
 ---
-title: Mitch Metz Communication Style Guide (Global Writing Standard)
-description: Global writing standard for Mitch/Rowan communication—voice principles, context adaptations, and practical rules.
+title: "Global Writing Standard"
+description: "The global writing standard for communication: core philosophy, voice principles, and context-specific guidelines."
+tags: ["copywriting", "reference", "active"]
+last_updated: "2025-12-18"
 ---
 
-# Mitch Metz Communication Style Guide
-## GLOBAL WRITING STANDARD
+# Global Writing Standard
 
 **⚠️ MANDATORY REFERENCE: Consult this for all final written output to keep voice consistent.**
 
@@ -80,10 +81,10 @@ description: Global writing standard for Mitch/Rowan communication—voice princ
 - **Natural placement** within content
 
 ### Personal Context References
-- **Asheville, NC**
-- **Partner Sarah** (for personal anecdotes)
-- **Techno-optimist** perspective
-- **Minimalist** design preferences
+- **[Your Location]**
+- **[Partner/Family references]** (for personal anecdotes)
+- **[Your Perspective/Beliefs]**
+- **[Your Preferences]**
 
 ## The 5-Second Test
 **Before sending anything:** Does this sound like me explaining something to a colleague over coffee — clear, natural, with subtle personality?

@@ -1,11 +1,11 @@
 ---
-Priority: 2 (High)
-Content Type: Generated
-Last Updated: 2025-01-28
-Usage: LinkedIn content strategy and formatting guidelines
+title: "LinkedIn Writing Guide"
+description: "Comprehensive framework for creating engaging LinkedIn content, including content pillars and formatting templates."
+tags: ["copywriting", "guide", "active"]
+last_updated: "2025-12-18"
 ---
 
-# LinkedIn Content Writing Guide 2024
+# LinkedIn Writing Guide
 
 ## Overview
 

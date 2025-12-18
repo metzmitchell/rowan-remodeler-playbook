@@ -2,7 +2,7 @@
 
 Categories: Communication (Categories/Communication%20242a968141c88144a17fe6e31e80983c.md)
 Tags: Brand, Content, Planning, Visual Assets
-Owner: Mitch Metz
+Owner: [Your Name]
 Last Updated: August 1, 2025 9:40 AM
 
 **Here’s why and how to organize and utilize your video footage to get amazing results.**

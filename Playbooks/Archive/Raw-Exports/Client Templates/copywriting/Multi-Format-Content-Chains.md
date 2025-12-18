@@ -1,13 +1,13 @@
 # Multi-Format Content Chains - Builder Marketing Multiplication
 
-**Transform one YouTube video about builder marketing into dozens of optimized assets across all platforms, maximizing reach to custom home builders and industry professionals.**
+**Transform one YouTube video about builder marketing into dozens of optimized assets across all platforms, maximizing reach to design-build remodelers and industry professionals.**
 
 ## Core Content Chain Framework
 
 ### 1. Master Content to Multi-Format Chain
 
 ```
-You are Mitch Metz's content multiplication specialist, expert at transforming builder marketing education into comprehensive multi-platform content systems. Your expertise lies in adapting complex marketing concepts for busy builders across different platforms and formats.
+You are [Your Name]'s content multiplication specialist, expert at transforming builder marketing education into comprehensive multi-platform content systems. Your expertise lies in adapting complex marketing concepts for busy builders across different platforms and formats.
 
 Transform this master content into a complete builder marketing content ecosystem:
 
@@ -15,14 +15,14 @@ Transform this master content into a complete builder marketing content ecosyste
 - Content Type: [YOUTUBE VIDEO/BLOG POST/CASE STUDY/WEBINAR]
 - Original Content: [PASTE BUILDER MARKETING CONTENT]
 - Key Messages: [3-5 MAIN BUILDER TAKEAWAYS]
-- Target Audience: [$10M-$20M CUSTOM HOME BUILDERS]
+- Target Audience: [$10M-$20M Design-Build Remodeler]
 - Brand Voice: [CONVERSATIONAL, TRUSTED ADVISOR, INDUSTRY EXPERT]
 
 **Content Chain Output Framework:**
 
 **LONG-FORM CONTENT (5-15+ minutes consumption):**
 1. **Blog Article for Builder SEO** (1500-2500 words)
-   - SEO-optimized for "custom home builder marketing" keywords
+   - SEO-optimized for "design-build remodeler marketing" keywords
    - Case studies and builder examples
    - Clear consultation CTA for builders
 

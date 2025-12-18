@@ -1,6 +1,11 @@
-# Contract signed
+---
+title: "Contract Signed"
+description: "Confirmation task for ensuring the client contract has been signed before starting work."
+tags: ["onboarding", "task", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Onboarding
+# Contract Signed
 
 ## Checklist
 

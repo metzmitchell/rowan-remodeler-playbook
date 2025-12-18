@@ -1,11 +1,11 @@
 ---
-Priority: 3 (Medium)
-Content Type: Generated
-Last Updated: 2025-01-28
-Usage: Comprehensive AI copywriting guidelines and best practices
+title: "AI Copywriting Guidelines"
+description: "Comprehensive guidelines for crafting prompts that lead to natural, human-sounding copywriting across various channels."
+tags: ["copywriting", "guide", "active"]
+last_updated: "2025-12-18"
 ---
 
-# Effective Human-Sounding Copywriting Guidelines for AI
+# AI Copywriting Guidelines
 
 This document provides comprehensive guidelines for crafting prompts that lead to natural, human-sounding copywriting across various content types and channels. The focus is on strategies to mirror individual voices and optimize AI output for specific use-cases, rather than providing specific prompts.
 

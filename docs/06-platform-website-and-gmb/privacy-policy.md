@@ -1,6 +1,11 @@
-# Create a privacy policy
+---
+title: "Privacy Policy"
+description: "Task to create and implement a standard privacy policy, especially for sites running paid advertising."
+tags: ["website", "task", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Platform
+# Privacy Policy
 
 If you're running ads, you'll need a privacy policy.
 

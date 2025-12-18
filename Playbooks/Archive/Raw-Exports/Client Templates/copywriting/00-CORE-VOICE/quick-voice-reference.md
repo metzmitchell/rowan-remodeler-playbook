@@ -90,7 +90,7 @@ Usage: Quick reference for all copywriting contexts
 - "The bigger picture..."
 
 ### Personal Context
-- Asheville, NC
+- [Your City, State]
 - Partner Sarah  
 - Techno-optimist
 - Minimalist

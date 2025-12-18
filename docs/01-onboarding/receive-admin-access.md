@@ -1,6 +1,11 @@
-# Receive admin access to all marketing-related accounts
+---
+title: "Receive Admin Access"
+description: "Checklist for securing admin access to key marketing platforms like Google Analytics, Ads, and CMS."
+tags: ["onboarding", "task", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Onboarding
+# Receive Admin Access
 
 
 

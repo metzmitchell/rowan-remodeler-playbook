@@ -1,11 +1,11 @@
 ---
-type: prompt
-tags: ["prompt", "ai"]
+title: "Prompt Writing Guidelines"
+description: "Comprehensive principles and specialized guidelines for writing effective AI prompts for research, copywriting, and analysis."
+tags: ["systems", "guide", "active"]
+last_updated: "2025-12-18"
 ---
 
-# Prompt Writing
-
-Prompt: # Guidelines for Writing Effective AI Prompts
+# Prompt Writing Guidelines
 
 These guidelines are designed to help you craft clear, actionable, and effective prompts for AI models, particularly for cold-email campaigns, but also adaptable for other projects. The core principle is to provide the AI with sufficient context, clear instructions, and a defined output format to achieve the desired results.
 
@@ -205,7 +205,7 @@ Output Structure:
 Specify how the research should be presented (e.g., bullet points, summary, detailed report).
 *
 
-Example (from Rowan's Prompt 1):
+Example (from [Your Consultancy]'s Prompt 1):
 
 <prompt>
 <role>
@@ -305,12 +305,12 @@ Brand Voice:
 Provide guidelines on brand voice, including what to say and what to avoid.
 *
 
-Example (from Rowan's Prompt 3 - Cold Email):
+Example (from [Your Consultancy]'s Prompt 3 - Cold Email):
 
 <prompt>
 <role>
-You are Mitch Metz, founder of <b>Rowan Builder Marketing</b>.
-• Mission & Positioning – A strategic marketing partner for high-end custom-home builders.
+You are [Your Name], founder of <b>[Your Marketing Advisory]</b>.
+• Mission & Positioning – A strategic marketing partner for high-end design-build remodelers.
 • Core values – craftsmanship, transparency, and genuine partnership.
 • Voice – warm but direct, builder-savvy, zero fluff, “we” > “I,” always focused on making life easier for the prospect.
 </role>
@@ -333,9 +333,9 @@ Goal: earn a quick, positive reply that leads to a 15-minute discovery call.
 Structure – Hook & personalization → Pain / friction you can relieve → Clear CTA (“15-min call?”).
 Constraints:
 – ≤ 120 words, short paragraphs, 6th-grade readability
-– Start with "Hey `{{First Name}}`, " (note the space)
+– Start with "Hey \{\{First Name\}\}, " (note the space)
 – You-focused language, casual tone, no hype-adjectives, no bullet points, no attachments, no dashes (–) or “!”
-– End with: "Kind regards,<br />Mitch"
+– End with: "Kind regards,<br />[Advisor]"
 – Reference where you learned about them (website, LinkedIn, etc.)
 </body>
 </email_1>
@@ -344,18 +344,20 @@ Constraints:
 <type>Reply in same thread</type>
 <body>
 Only one short variant allowed (≤ 35 words):
-"Hey `{{First Name}}`, Just pushing this back up your inbox in case you missed it. Look forward to hearing from you. Thanks in advance,<br />Mitch"
+"Hey \{\{First Name\}\}, Just pushing this back up your inbox in case you missed it. Look forward to hearing from you. Thanks in advance,<br />[Advisor]"
 </body>
 </email_2>
 
 <email_3>
 <type>New message, same cadence as Email 1</type>
+<body>
 <differences>
 • Tackle a different core pain.
-• No extra personalization beyond `{{First Name}}`.
-• Optional opener: "I was thinking about `{{Company}}` again and..."
+• No extra personalization beyond \{\{First Name\}\}.
+• Optional opener: "I was thinking about \{\{Company\}\} again and..."
 </differences>
 <!-- All other rules identical to Email 1 -->
+</body>
 </email_3>
 
 <global_rules>
@@ -416,14 +418,14 @@ Supporting Evidence:
 Require the AI to back up its analysis with supporting evidence from the input data.
 *
 
-Example (from Rowan's Prompt 2 - Analysis):
+Example (from [Your Consultancy]'s Prompt 2 - Analysis):
 
 
 <prompt>
 <!-- =====  ROLE & CONTEXT  ===== -->
 <role>
-You are on Rowan’s Cold-Email Task Force.
-Rowan Builder Marketing is a hands-on advisory for high-end custom-home builders.
+You are on [Your Consultancy]’s Cold-Email Task Force.
+[Your Marketing Advisory] is a hands-on advisory for high-end design-build remodelers.
 Acting as the strategic marketing lead, we design focused growth plans, coach internal staff, and direct outside vendors—so builders win ideal projects without the overhead of a traditional agency retainer.
 (See “Core Services & Key Outcomes” for full capability deck.)
 </role>
@@ -449,8 +451,8 @@ If the research reveals nothing useful, output null for both fields.
 <task id="pain_points">
 <description>
 Identify the two most expensive pain points implied by the research (role-specific or company-level).
-For each pain point, map a Rowan service that removes or reduces it.
-Each solution must be concrete—describe the exact process, automation, or engagement model Rowan would deploy.
+For each pain point, map a [Your Consultancy] service that removes or reduces it.
+Each solution must be concrete—describe the exact process, automation, or engagement model [Your Consultancy] would deploy.
 </description>
 </task>
 
@@ -468,11 +470,11 @@ Evidence: `{{string | null}}`
 ————Pain Points & Solutions
 1. Pain Point: `{{string}}`
 Evidence: `{{string}}`
-Rowan Offer: `{{string}}`
+[Your Consultancy] Offer: `{{string}}`
 
 2. Pain Point: `{{string}}`
 Evidence: `{{string}}`
-Rowan Offer: `{{string}}`
+[Your Consultancy] Offer: `{{string}}`
 </output>
 
 <!-- =====  INSTRUCTIONS  ===== -->

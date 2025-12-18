@@ -1,3 +1,8 @@
-# Review and update main industry directories
+---
+title: "Audit Industry Directories"
+description: "Bi-annual task to review and update all listings in major industry directories for accuracy."
+tags: ["recurring", "task", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Bi-Annually
+# Audit Industry Directories

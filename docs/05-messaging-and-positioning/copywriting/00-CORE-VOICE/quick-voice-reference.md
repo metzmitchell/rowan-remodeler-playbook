@@ -1,11 +1,11 @@
 ---
-Priority: 1 (Essential)
-Content Type: Manual
-Last Updated: 2025-01-29
-Usage: Quick reference for all copywriting contexts
+title: "Quick Voice Reference"
+description: "A one-page summary of core voice philosophy, context-specific guidelines, and personality markers."
+tags: ["copywriting", "reference", "active"]
+last_updated: "2025-12-18"
 ---
 
-# Quick Voice Reference Guide
+# Quick Voice Reference
 
 ## Core Philosophy in One Line
 **Simple language expressing complex understanding - like chess, simple rules creating beautiful depth.**
@@ -42,7 +42,7 @@ Usage: Quick reference for all copywriting contexts
 - ✗ Complex vocabulary
 - ✗ AI-generic language  
 - ✗ Forced humor
-- ✗ Religious references
+- ✗ Religious references (unless brand-specific)
 - ✗ Direct philosophy talk
 - ✗ "Here's the deal" phrases
 - ✗ "TED talk on X" - Never say "TED talk on [topic]"
@@ -74,7 +74,7 @@ Usage: Quick reference for all copywriting contexts
 - Skip deeper elements
 - Pure efficiency
 
-## Personality Markers
+## Personality Markers (Customize)
 
 ### Subtle Humor Style
 - Dry observations
@@ -89,11 +89,11 @@ Usage: Quick reference for all copywriting contexts
 - "The bigger picture..."
 
 ### Personal Context
-- Asheville, NC
-- Partner Sarah  
-- Techno-optimist
-- Minimalist
-- Builder associations
+- [Location]
+- [Family/Partner]
+- [Beliefs/Values]
+- [Preferences]
+- [Industry Involvement]
 
 ## The 5-Second Test
 **Before sending anything:** Does this sound like me explaining something to a colleague over coffee - clear, natural, with subtle personality?

@@ -1,6 +1,11 @@
-# Ask these questions during the sales process
+---
+title: "Sales Discovery Questions"
+description: "A list of critical questions to ask during the sales process to improve client data and qualification."
+tags: ["sales", "template", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Sales Strategies
+# Sales Discovery Questions
 
 Consider adding these fields to your CRM as well for better client/prospect data storage.
 

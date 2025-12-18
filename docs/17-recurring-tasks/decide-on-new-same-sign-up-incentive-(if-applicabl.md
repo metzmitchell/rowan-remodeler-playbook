@@ -1,3 +1,8 @@
-# Decide on new/same sign-up incentive (if applicable)
+---
+title: "Update Sign-up Incentives"
+description: "Monthly task to review and refresh sign-up incentives for new leads."
+tags: ["recurring", "task", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Monthly
+# Update Sign-up Incentives

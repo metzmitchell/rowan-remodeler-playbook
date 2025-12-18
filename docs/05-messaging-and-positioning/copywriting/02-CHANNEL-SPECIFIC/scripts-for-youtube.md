@@ -1,11 +1,11 @@
 ---
-Priority: 2 (High)
-Content Type: Manual
-Last Updated: 2025-01-28
-Usage: YouTube script writing patterns and formatting
+title: "YouTube Script Preferences"
+description: "Guidelines for writing YouTube scripts that sound like natural speech, including teleprompter formatting and structure."
+tags: ["copywriting", "reference", "active"]
+last_updated: "2025-12-18"
 ---
 
-# Script Writing Preferences
+# YouTube Script Preferences
 
 ## Natural Speaking Patterns
 - **Write for speech, not reading** - Scripts should sound like casual conversation
@@ -95,11 +95,11 @@ Important! Use a casual voice, natural talking flow - writing a script to be spo
 4. **Required Links Section** - Always include these links:
 
 **🔨 Connect With Me:**
-- Website: https://rowan.build
-- Blog: https://blog.rowan.build
-- Tools & Resources: https://tools.rowan.build
-- YouTube: https://www.youtube.com/@RowanBuild
-- LinkedIn: https://www.linkedin.com/in/mitchell-metz
+- Website: https://[Your Consultancy].build
+- Blog: https://blog.[Your Consultancy].build
+- Tools & Resources: https://tools.[Your Consultancy].build
+- YouTube: https://www.youtube.com/@[Your Consultancy]Build
+- LinkedIn: https://www.linkedin.com/in/[Advisor]ell-metz
 
 ### Description Guidelines:
 - **First 2-3 lines** are critical - they appear in preview and must hook viewers
@@ -113,13 +113,13 @@ Important! Use a casual voice, natural talking flow - writing a script to be spo
 
 #### Required Link:
 **Always include this link (unless there is another specific link mentioned in the video):**
-Rowan | Construction Industry Marketing: https://rowan.build
+[Your Consultancy] | Construction Industry Marketing: https://[Your Consultancy].build
 
 #### Tag Section:
 **Add a section for relevant tags to copy-paste into the tags field on YouTube:**
 ```
 **YouTube Tags (copy/paste):**
-construction marketing, builder gifts, client experience, referrals, home building, remodeling, construction business, marketing strategy, custom homes, luxury homes, builder marketing, construction referrals, client appreciation, closing gifts, home builder tips, construction industry, builder success, client retention, word of mouth marketing, construction sales, builder relationships, home renovation, construction company, builder growth, client satisfaction, construction referrals, builder marketing tips, luxury construction, custom home builder, construction business tips, builder client gifts, construction marketing strategy
+construction marketing, builder gifts, client experience, referrals, home building, remodeling, construction business, marketing strategy, custom homes, luxury homes, builder marketing, construction referrals, client appreciation, closing gifts, home builder tips, construction industry, builder success, client retention, word of mouth marketing, construction sales, builder relationships, home renovation, construction company, builder growth, client satisfaction, construction referrals, builder marketing tips, luxury construction, design-build remodeler, construction business tips, builder client gifts, construction marketing strategy
 ```
 
 #### No Timestamps:

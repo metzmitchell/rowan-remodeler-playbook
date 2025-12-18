@@ -1,3 +1,8 @@
-# Finalize KPI spreadsheet by mid-month
+---
+title: "Finalize Monthly KPIs"
+description: "Monthly task to complete and finalize the marketing KPI spreadsheet for the preceding month."
+tags: ["recurring", "task", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Monthly
+# Finalize Monthly KPIs

@@ -1,3 +1,8 @@
-# Have target market profiles/avatars to help inform your sales process
+---
+title: "Target Market Profiles"
+description: "Task to develop detailed avatars and market profiles to inform the sales and marketing process."
+tags: ["strategy", "task", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Sales Strategies
+# Target Market Profiles

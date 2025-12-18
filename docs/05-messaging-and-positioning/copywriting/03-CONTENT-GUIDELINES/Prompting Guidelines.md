@@ -1,13 +1,11 @@
 ---
-Priority: 3 (Medium)
-Content Type: Generated
-Last Updated: 2025-01-28
-Usage: Advanced prompting techniques and strategies
+title: "AI Prompting Guidelines"
+description: "Advanced AI prompting techniques for human-sounding content, including XML structuring, role definition, and few-shot learning."
+tags: ["copywriting", "guide", "active"]
+last_updated: "2025-12-18"
 ---
 
-Effective AI copywriting hinges on **clear, specific, and context-rich prompts** that guide AI models like Claude to produce natural, human-sounding content. Key elements include **defining the AI's role, specifying the task, providing detailed metadata (tone, audience, channel, length), outlining the desired structure, and incorporating constraints or "do's and don'ts."** Iterative refinement and leveraging advanced AI capabilities, such as Claude's long context window and file uploads, further enhance output quality and alignment with a unique voice, especially for specialized applications like construction industry thought leadership.
-
-# Effective AI Copywriting Prompts for Human-Sounding Content
+# AI Prompting Guidelines
 
 ## 1. Core Principles for Human-Sounding AI Copywriting
 ### 1.1 Understanding the User's Voice and Philosophy
@@ -94,7 +92,7 @@ When generating short-form video scripts for various social media channels like 
     *   **LinkedIn:** CTAs might involve connecting, sending a message, visiting a professional website, or downloading a whitepaper. "Prompt: 'End with a CTA encouraging viewers to connect with you for a deeper discussion on optimizing construction workflows.'"
     *   **Instagram/Facebook:** CTAs often involve visiting a link in bio, commenting with an answer to a question, or tagging someone who needs to see the video. "Prompt: 'The CTA should be to visit the link in our bio for a free downloadable template related to [topic].'"
     *   **Twitter/X:** CTAs might be to retweet, quote tweet with a comment, or visit a shortened link. "Prompt: 'The CTA should encourage viewers to retweet if they found the tip on [topic] useful.'"
-    *   **YouTube Shorts:** CTAs often ask viewers to like, subscribe, and comment, or visit a link in the description. "Prompt: 'Include a CTA to subscribe for more quick construction tech tips and visit https://tools.rowan.build for free resources.'"
+    *   **YouTube Shorts:** CTAs often ask viewers to like, subscribe, and comment, or visit a link in the description. "Prompt: 'Include a CTA to subscribe for more quick construction tech tips and visit https://tools.[Your Consultancy].build for free resources.'"
 
 4.  **Visual and Audio Cues (Implied in Script):**
     *   While not directly part of the text prompt for the AI, the script should be written with the understanding that different platforms have different default audio settings (e.g., sound on/off) and visual engagement patterns. For instance, scripts for Instagram might need to be more visually descriptive or rely less on audio narration if captions are key.

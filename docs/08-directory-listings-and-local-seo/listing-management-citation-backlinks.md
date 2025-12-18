@@ -1,8 +1,11 @@
 ---
-title: Listing Management [Template V2] Citation Backlinks
+title: "Listing Management Template"
+description: "A tracking template for citation backlinks and directory listing credentials."
+tags: ["directories", "template", "active"]
+last_updated: "2025-12-18"
 ---
 
-# Listing Management [Template V2] Citation Backlinks
+# Listing Management Template
 
 | Website Name | DA | Live URL | Email | Password | Notes |
 | --- | --- | --- | --- | --- | --- |

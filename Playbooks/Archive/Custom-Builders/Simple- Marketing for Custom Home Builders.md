@@ -3,18 +3,18 @@ tags: [Brand, Content, Strategy]
 last_updated: 2025-09-28T14:37:00
 ---
 
-# Marketing for Custom Home Builders
+# Marketing for Design-Build Remodelers
 ## Overview
 
-This document provides specialized marketing insights for custom home builders who already have marketing fundamentals in place (website, branding, local SEO, referrals) and focuses on the unique, industry-specific ways to go from good to great in the luxury custom home market. high-value emotional purchases, long sales cycles, and limited qualified prospects.
+This document provides specialized marketing insights for design-build remodelers who already have marketing fundamentals in place (website, branding, local SEO, referrals) and focuses on the unique, industry-specific ways to go from good to great in the luxury custom home market. high-value emotional purchases, long sales cycles, and limited qualified prospects.
 
-The unique strategies for marketing as a custom builder that you won’t find in general marketing knowledge.
+The unique strategies for marketing as a Design-Build Remodeler that you won’t find in general marketing knowledge.
 
 ## It's a Branding Problem
 
-- Custom home building allows you to work with fewer clients, build awe-inspiring homes, and reduce operational bloat.
+- Design-Build Remodeling allows you to work with fewer clients, build awe-inspiring homes, and reduce operational bloat.
 - This is often a branding problem, unlike production homes, which are more about specs and pricing
-- People choose custom builders they connect with and trust
+- People choose Design-Build Remodeler they connect with and trust
 - Define and communicate your values
 - Represent your company with the same care and beauty as your homes - on your website, your design studio, your social media, your construction sites, your vehicles, everywhere they might see
 
@@ -25,9 +25,9 @@ The unique strategies for marketing as a custom builder that you won’t find in
 - The stakes are high for the builder and the buyer
     - Biggest purchase of the client's life
     - Single projects represent significant portions of your income
-- The custom home building industry has very long time horizons compared to other B2C industries.
+- The Design-Build Remodeling industry has very long time horizons compared to other B2C industries.
 - Your company will grow slower at the beginning and faster later on
-    - Barrier to entry is long-term investment in your reputation, which reduces the amount of custom builders with 5-10 years of reputation.
+    - Barrier to entry is long-term investment in your reputation, which reduces the amount of Design-Build Remodeler with 5-10 years of reputation.
     - Production construction is faster to scale, but more competitive at scale.
 
 ## Trade Relationships
@@ -64,7 +64,7 @@ Invest in a great client experience for the biggest purchase of someones life.
 - Send mail to people who purchase residential lots in your target communities
 - Sales brochures, printed materials, handwritten notes
 - Make SEO content about the luxury communities you want to build in
-- Make a landing page about your custom home building services per region / commonly searched area
+- Make a landing page about your Design-Build Remodeling services per region / commonly searched area
 
 ## Build Trust
 

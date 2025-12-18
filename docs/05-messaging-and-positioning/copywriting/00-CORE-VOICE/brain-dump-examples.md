@@ -1,11 +1,11 @@
 ---
-Priority: 1 (Essential)
-Content Type: Manual
-Last Updated: 2025-01-28
-Usage: Patterns for organizing unstructured thoughts into clear communication
+title: "Brain Dump Organization Patterns"
+description: "Patterns and principles for organizing unstructured thoughts into clear, scannable, and collaborative communications."
+tags: ["copywriting", "guide", "active"]
+last_updated: "2025-12-18"
 ---
 
-# Brain Dump → Organized Message Patterns
+# Brain Dump Organization Patterns
 
 ## My Organization Style
 **Context-first, highly structured communication that respects the reader's time**

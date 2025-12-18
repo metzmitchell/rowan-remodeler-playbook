@@ -1,4 +1,11 @@
-For me to give you the best advice and recommendations, I need the answers to as many questions below as possible.
+---
+title: "Discovery Questionnaire"
+description: "The full question bank for client discovery, covering company snapshot, financials, goals, and marketing history."
+tags: ["onboarding", "template", "active"]
+last_updated: "2025-12-18"
+---
+
+# Discovery Questionnaire
 
 **This is the full question bank.** Before we kick off, we’ll pare this down together based on your goals, service lines, and what we’re actually working on first.
 

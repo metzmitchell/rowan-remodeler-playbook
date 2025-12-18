@@ -1,3 +1,8 @@
-# Survey clients to learn more about what they like and why they chose you
+---
+title: "Survey Clients for Insights"
+description: "Strategic task to survey clients to understand their selection criteria and satisfaction."
+tags: ["optimization", "task", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Strategy
+# Survey Clients for Insights

@@ -1,6 +1,11 @@
-# Envision ideal outcomes
+---
+title: "Envision Ideal Outcomes"
+description: "Strategic exercise to define the desired results and occupancy/lead targets by the end of the engagement."
+tags: ["strategy", "task", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Key Priorities
+# Envision Ideal Outcomes
 
 What are the ideal *outcomes* you'd like to see by the end of our engagement?
 

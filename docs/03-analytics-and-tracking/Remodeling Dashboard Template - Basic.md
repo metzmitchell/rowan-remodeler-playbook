@@ -1,8 +1,8 @@
 ---
-title: Custom Home Dashboard Template Basic
+title: Remodeling Dashboard Template Basic
 ---
 
-# Custom Home Dashboard Template Basic
+# Remodeling Dashboard Template Basic
 
 |   | January | February | March | April | May | June | July | August | September | October | November | December | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

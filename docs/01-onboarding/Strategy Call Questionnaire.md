@@ -1,4 +1,11 @@
-# **Strategy Call Questionnaires**
+---
+title: "Strategy Call Questionnaire"
+description: "Questionnaires for consulting and coaching calls to help prepare for client strategy sessions."
+tags: ["onboarding", "template", "active"]
+last_updated: "2025-12-18"
+---
+
+# Strategy Call Questionnaire
 
 ### **Consulting Call Questions**
 

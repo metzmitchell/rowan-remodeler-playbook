@@ -1,6 +1,11 @@
-# Search your main keywords on Google to see if you can show up in more places on the first page
+---
+title: "Bi-Annual Keyword Search"
+description: "Bi-annual task to search main keywords on Google and identify opportunities for increased visibility."
+tags: ["recurring", "task", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Bi-Annually
+# Bi-Annual Keyword Search
 
 Google search for offices/remodeling in your market. This is how your prospects are searching. Pretend you’re them.
 

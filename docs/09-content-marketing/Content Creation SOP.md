@@ -1,6 +1,8 @@
 ---
-tags: [Content, SOPs, Strategy]
-last_updated: 2025-11-10T11:18:00
+title: "Content Creation SOP"
+description: "Comprehensive SOP for content creation, splintering across platforms, and technical videography standards."
+tags: ["content", "sop", "active"]
+last_updated: "2025-12-18"
 ---
 
 # Content Creation SOP
@@ -15,10 +17,10 @@ last_updated: 2025-11-10T11:18:00
 
 ### Example Lead Magnet Mini Campaign
 
-- [Linkedin](https://www.linkedin.com/posts/mitchell-metz_to-land-more-commercial-contracting-deals-activity-7360422880834199552-hdXC?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABK_oEIBM7bJ31pB_T5JXBtAbus35EitKP4)
+- [Linkedin](https://www.linkedin.com/posts/[Advisor]ell-metz_to-land-more-commercial-contracting-deals-activity-7360422880834199552-hdXC?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAABK_oEIBM7bJ31pB_T5JXBtAbus35EitKP4)
     
 - [Facebook](https://www.facebook.com/share/v/1J4TPc9hRD/)
-- [x](https://x.com/MitchellMe89449/status/1954656371040784661)
+- [x](https://x.com/[Advisor]ellMe89449/status/1954656371040784661)
 - [Instagram](https://www.instagram.com/reel/DNMGt-eRYp6/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 ## Archive

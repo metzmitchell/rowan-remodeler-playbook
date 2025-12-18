@@ -1,9 +1,11 @@
 ---
-tags: [Content, Strategy, Writing]
-last_updated: 2025-11-10T11:18:00
+title: "Writing for LinkedIn"
+description: "Strategic principles for LinkedIn writing, focusing on headlines, hooks, visual formatting, and simple tone."
+tags: ["content", "guide", "active"]
+last_updated: "2025-12-18"
 ---
 
-# Writing for Linkedin
+# Writing for LinkedIn
 ## **1. The Power of the Headline**
 
 - **“On the average, five times as many people read the headline as read the body copy.”** – *David Ogilvy*

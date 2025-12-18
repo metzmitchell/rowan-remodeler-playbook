@@ -1,3 +1,8 @@
-# Addresses are precisely the same on all directories
+---
+title: "NAP Consistency"
+description: "Task to ensure Name, Address, and Phone (NAP) information is identical across all directories."
+tags: ["directories", "task", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Directory Listings
+# NAP Consistency

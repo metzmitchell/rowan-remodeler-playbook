@@ -1,6 +1,11 @@
-# Social media
+---
+title: "Social Media Strategy"
+description: "Guidelines for developing a cross-platform social media strategy, including tone, frequency, and mix."
+tags: ["content", "strategy", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Content Marketing
+# Social Media Strategy
 
 **Create a social media strategy for all platforms**
 

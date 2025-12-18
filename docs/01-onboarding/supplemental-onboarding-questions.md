@@ -1,6 +1,11 @@
-**
+---
+title: "Supplemental Onboarding Questions"
+description: "A backup list of discovery questions for clients who need a more thorough dive into their business history and goals."
+tags: ["onboarding", "template", "active"]
+last_updated: "2025-12-18"
+---
 
-CLIENT DISCOVERY QUESTIONNAIRE
+# Supplemental Onboarding Questions
 
   
 

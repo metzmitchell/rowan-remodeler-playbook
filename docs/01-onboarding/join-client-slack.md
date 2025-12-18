@@ -1,5 +1,8 @@
-# Join client's Slack (if desired)
+---
+title: "Join Client Slack"
+description: "Task to join the client's preferred communication platform (Slack, Teams, etc.) for project collaboration."
+tags: ["onboarding", "task", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Onboarding
-
-Or teams or any other chat platform the client uses, if they wish.
+# Join Client Slack

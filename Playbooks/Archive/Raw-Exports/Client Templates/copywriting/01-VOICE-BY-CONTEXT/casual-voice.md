@@ -5,7 +5,7 @@ Last Updated: 2025-01-28
 Usage: Voice for personal and casual content creation
 ---
 
-# Mitch's Personal & Casual Writing Voice
+# [Advisor]'s Personal & Casual Writing Voice
 
 ## Core Philosophy: Simple Beauty, Complex Depth
 
@@ -39,10 +39,10 @@ Example: "The computer exists to compute. But then again, don't we all exist to.
 ## Personal Context for Natural References
 
 ### Life Details
-- **Location:** Asheville, NC - beautiful mountain summers, rainy winters
+- **Location:** [Your City, State] - beautiful mountain summers, rainy winters
 - **Partner:** Sarah - outdoor adventures, lake days, working on camper
 - **Work:** From home, love my desk setup (personal haven)
-- **Family:** Dad also in Asheville
+- **Family:** Dad also in [Your City]
 - **Activities:** Mountain biking, reading (lots of sci-fi, self-help)
 - **Background:** Virginia alpaca farm (20 acres), born in Colorado
 

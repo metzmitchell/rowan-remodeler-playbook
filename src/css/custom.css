@@ -48,12 +48,13 @@
   margin-bottom: 2rem;
 }
 
-/* 3-wide Card Grid for Category Pages */
+/* 2-wide Card Grid for Category Pages */
 .doc-card-grid {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
   gap: 1.5rem;
   margin-top: 2rem;
+  max-width: 900px;
 }
 
 @media (min-width: 600px) {
@@ -62,10 +63,10 @@
   }
 }
 
-@media (min-width: 900px) {
-  .doc-card-grid {
-    grid-template-columns: repeat(3, 1fr);
-  }
+/* Ensure cards have consistent sizing */
+.doc-card-grid .card {
+  height: 100%;
+  min-height: 120px;
 }
 
 /* Subtle folder vs doc distinction */
@@ -73,6 +74,40 @@
   border-left: 4px solid var(--ifm-color-primary);
 }
 
-.card-doc {
-  border-left: 4px solid #eee;
+/* Hide navigation in link preview mode */
+html.is-link-preview .navbar,
+html.is-link-preview .theme-doc-sidebar-container,
+html.is-link-preview footer.footer,
+html.is-link-preview .pagination-nav, 
+html.is-link-preview .theme-edit-this-page {
+  display: none !important;
+}
+
+html.is-link-preview main {
+  padding: 0 !important;
+  margin: 0 !important;
+  max-width: 100% !important;
+}
+
+html.is-link-preview .container {
+  max-width: 100% !important;
+  padding: 1rem !important;
+}
+
+/* Link Preview Hint */
+.preview-hint-footer {
+  font-size: 0.8rem;
+  color: var(--ifm-color-emphasis-600);
+  text-align: center;
+  margin-top: 1rem;
+  opacity: 0.7;
+}
+
+.preview-hint-footer kbd {
+  background-color: var(--ifm-color-emphasis-200);
+  border-radius: 3px;
+  border: 1px solid var(--ifm-color-emphasis-400);
+  padding: 1px 4px;
+  font-family: inherit;
+  font-size: 0.85em;
 }

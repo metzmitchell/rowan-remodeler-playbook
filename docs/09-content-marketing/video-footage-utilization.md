@@ -1,4 +1,11 @@
-# Footage Utilization
+---
+title: "Video Footage Utilization"
+description: "SOP for organizing, utilizing, and outsourcing video footage to maximize content output and quality."
+tags: ["content", "sop", "active"]
+last_updated: "2025-12-18"
+---
+
+# Video Footage Utilization
 
 **Here’s why and how to organize and utilize your video footage to get amazing results.**
 

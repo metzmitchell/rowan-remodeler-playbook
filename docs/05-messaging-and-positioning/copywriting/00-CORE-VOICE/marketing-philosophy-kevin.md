@@ -1,24 +1,23 @@
 ---
-Priority: 1 (Essential)
-Content Type: Manual
-Last Updated: 2025-01-29
-Usage: Core marketing philosophy and communication principles
+title: "Marketing Philosophy"
+description: "Core principles of customer-centricity, outcome-driven marketing, and relationship building."
+tags: ["strategy", "reference", "active"]
+last_updated: "2025-12-18"
 ---
 
-# Marketing Philosophy and Communication Principles
+# Marketing Philosophy
 
 ## Summary
-Core marketing philosophy and copywriting approach derived from Kevin's mentorship insights. Emphasizes customer-centricity, authentic relationship building, and outcome-driven communication strategies.
+Core marketing philosophy and copywriting approach. Emphasizes customer-centricity, authentic relationship building, and outcome-driven communication strategies.
 
 **Tags:** #marketing-philosophy #copywriting-approach #customer-centricity #relationship-building
 **Content Type:** Long-term reference guide
-**Source:** Kevin's mentorship insights (Everspaces blog analysis)
 
 ---
 
 ## Core Marketing Philosophy
 
-Kevin's marketing philosophy is deeply rooted in principles that transcend industry specifics and are broadly applicable to any business. The philosophy emphasizes:
+This marketing philosophy is deeply rooted in principles that transcend industry specifics and are broadly applicable to any business. The philosophy emphasizes:
 
 ### 1. Customer-Centricity and Outcome-Driven Marketing
 - **Core Principle:** People don't buy features, they buy outcomes
@@ -116,6 +115,5 @@ This marketing philosophy complements and extends existing copywriting rules:
 
 ## Related Content
 
-- [Quick Voice Reference](/Users/mitchellmetz/Documents/Operating System/content-workspace/knowledge-base/copywriting/quick-voice-reference.md) - Core voice principles
-- [Builder Industry Voice](/Users/mitchellmetz/Documents/Operating System/content-workspace/knowledge-base/copywriting/Writing%20Per%20Channel/builder-industry-voice.md) - Industry-specific applications
-- [Marketing Strategy Playbook](/Users/mitchellmetz/Documents/Operating System/content-workspace/knowledge-base/content/construction-marketing/marketing-strategy-playbook.md) - Strategic implementation
+- [Quick Voice Reference](../copywriting/00-CORE-VOICE/quick-voice-reference.md) - Core voice principles
+- [Builder Industry Voice](../copywriting/01-VOICE-BY-CONTEXT/builder-industry-voice.md) - Industry-specific applications

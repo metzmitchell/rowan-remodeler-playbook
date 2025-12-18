@@ -1,3 +1,8 @@
-# Page speed is up to standard
+---
+title: "Page Speed Check"
+description: "Task to monitor website page speed and ensure it meets industry performance standards."
+tags: ["website", "task", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Search Engine Optimization
+# Page Speed Check

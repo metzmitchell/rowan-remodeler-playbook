@@ -1,3 +1,8 @@
-# Implement at least 3 new key projects from the Playbook
+---
+title: "Execute Playbook Projects"
+description: "Quarterly task to implement at least three major projects identified in the marketing playbook."
+tags: ["recurring", "task", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Quarterly
+# Execute Playbook Projects

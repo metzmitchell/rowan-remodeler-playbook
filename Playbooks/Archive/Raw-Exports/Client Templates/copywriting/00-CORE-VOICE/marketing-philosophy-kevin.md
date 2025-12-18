@@ -116,6 +116,6 @@ This marketing philosophy complements and extends existing copywriting rules:
 
 ## Related Content
 
-- [Quick Voice Reference](/Users/mitchellmetz/Documents/Operating System/content-workspace/knowledge-base/copywriting/quick-voice-reference.md) - Core voice principles
-- [Builder Industry Voice](/Users/mitchellmetz/Documents/Operating System/content-workspace/knowledge-base/copywriting/Writing%20Per%20Channel/builder-industry-voice.md) - Industry-specific applications
-- [Marketing Strategy Playbook](/Users/mitchellmetz/Documents/Operating System/content-workspace/knowledge-base/content/construction-marketing/marketing-strategy-playbook.md) - Strategic implementation
+- [Quick Voice Reference](/Users/[Advisor]ellmetz/Documents/Operating System/content-workspace/knowledge-base/copywriting/quick-voice-reference.md) - Core voice principles
+- [Builder Industry Voice](/Users/[Advisor]ellmetz/Documents/Operating System/content-workspace/knowledge-base/copywriting/Writing%20Per%20Channel/builder-industry-voice.md) - Industry-specific applications
+- [Marketing Strategy Playbook](/Users/[Advisor]ellmetz/Documents/Operating System/content-workspace/knowledge-base/content/construction-marketing/marketing-strategy-playbook.md) - Strategic implementation

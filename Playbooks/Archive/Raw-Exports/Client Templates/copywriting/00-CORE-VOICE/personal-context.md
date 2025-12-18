@@ -5,7 +5,7 @@ Last Updated: 2025-01-28
 Usage: Core personal context for authentic content creation
 ---
 
-# Mitch's Personal Context & Background
+# [Advisor]'s Personal Context & Background
 
 **Purpose:** Personal information for weaving authentic details into medium and long-form content like blogs, scripts, personal notes, and storytelling. Update this document as new information is learned.
 
@@ -14,7 +14,7 @@ Usage: Core personal context for authentic content creation
 ## Personal Life
 
 ### Home & Location
-- **Lives in Asheville, NC** with wife Sarah
+- **Lives in [Your City, State]** with wife Sarah
 - **Near downtown** - close to city amenities
 - **Mountain setting** - beautiful summers, rainy winters
 - **Love outdoor activities** - hiking, lake days, mountain adventures
@@ -69,7 +69,7 @@ Usage: Core personal context for authentic content creation
 - **Technical content** - Unless personal experience directly relates to topic
 
 ### Natural Integration Examples
-- **Asheville reference:** "Like a good mountain trail, the best marketing path isn't always the most obvious one"
+- **[Your City] reference:** "Like a good mountain trail, the best marketing path isn't always the most obvious one"
 - **Music background:** "Building a brand is like learning violin - simple fundamentals, but the real art comes from years of practice"
 - **Philosophy interest:** Subtle depth in thinking without explicit philosophical references
 - **Lake life:** "Clear strategy, like a calm lake morning, reveals what's really important"

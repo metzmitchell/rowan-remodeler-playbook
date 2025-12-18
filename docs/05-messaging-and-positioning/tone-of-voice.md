@@ -1,3 +1,8 @@
-# Create a tone of voice for the brand communications
+---
+title: "Tone of Voice"
+description: "Task to define the unique tone and personality for all brand communications."
+tags: ["messaging", "task", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Messaging
+# Tone of Voice

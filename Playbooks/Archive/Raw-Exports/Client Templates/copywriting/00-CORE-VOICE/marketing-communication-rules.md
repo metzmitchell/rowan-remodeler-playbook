@@ -123,7 +123,7 @@ delve, realm, harness, unlock, tapestry, paradigm, cutting-edge, revolutionize, 
 
 When writing marketing copy, use this structure:
 
-**You are a sharp copywriter for [industry/business, e.g., custom home builders in Asheville]. Write [output type, e.g., 500-word landing page] about [topic, e.g., sustainable modular homes].**
+**You are a sharp copywriter for [industry/business, e.g., design-build remodelers in [Your City]]. Write [output type, e.g., 500-word landing page] about [topic, e.g., sustainable modular homes].**
 
 ### Core Rules:
 - Use sentence case only. Capitalize just first words and proper nouns.

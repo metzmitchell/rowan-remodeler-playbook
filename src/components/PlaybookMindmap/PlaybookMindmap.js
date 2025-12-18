@@ -1,13 +1,15 @@
-import React, { useEffect, useRef } from 'react';
+import React, { useEffect, useRef, useContext } from 'react';
 import BrowserOnly from '@docusaurus/BrowserOnly';
 import { useDocsSidebar } from '@docusaurus/plugin-content-docs/client';
 import { Markmap } from 'markmap-view';
 import * as d3 from 'd3';
+import { LinkPreviewContext } from '../LinkPreview/LinkPreviewProvider';
 
 function MarkmapInternal() {
   const svgRef = useRef(null);
   const mmRef = useRef(null);
   const sidebar = useDocsSidebar();
+  const { openPreview } = useContext(LinkPreviewContext);
 
   const getFoldedPaths = (node, path = []) => {
     let paths = [];
@@ -25,23 +27,30 @@ function MarkmapInternal() {
 
   const saveState = (mm) => {
     if (!mm) return;
-    const state = {
-      transform: mm.state.transform,
-      foldedPaths: getFoldedPaths(mm.state.data),
-    };
-    sessionStorage.setItem('playbook-markmap-state', JSON.stringify(state));
+    try {
+      const state = {
+        transform: mm.state.transform,
+        foldedPaths: getFoldedPaths(mm.state.data),
+      };
+      sessionStorage.setItem('playbook-markmap-state', JSON.stringify(state));
+    } catch (e) {
+      console.error('Error saving markmap state:', e);
+    }
   };
 
   const loadState = () => {
-    const saved = sessionStorage.getItem('playbook-markmap-state');
-    return saved ? JSON.parse(saved) : null;
+    try {
+      const saved = sessionStorage.getItem('playbook-markmap-state');
+      return saved ? JSON.parse(saved) : null;
+    } catch (e) {
+      return null;
+    }
   };
 
   const setAllFolds = (foldValue) => {
     if (!mmRef.current) return;
     const mm = mmRef.current;
     
-    // Helper to traverse and set fold
     const traverse = (node) => {
       if (node.children && node.children.length > 0) {
         node.payload = { ...node.payload, fold: foldValue };
@@ -49,15 +58,11 @@ function MarkmapInternal() {
       }
     };
 
-    // Apply to all children of root, but not root itself (so we don't collapse the whole map away)
     if (mm.state.data.children) {
       mm.state.data.children.forEach(traverse);
     }
     
-    // Force re-render
     mm.setData(mm.state.data);
-    
-    // Reset zoom if expanding all to fit? Maybe just fit view.
     mm.fit();
     saveState(mm);
   };
@@ -81,15 +86,11 @@ function MarkmapInternal() {
         },
       };
 
-      // Default logic:
-      // If saved state exists, respect it.
-      // If NO saved state, collapse if depth >= 1 (so only root and level 1 are open)
       if (saved) {
         if (saved.foldedPaths?.includes(currentPath)) {
           node.payload.fold = 1;
         }
       } else {
-        // Default collapse: 17 categories are visible (depth 0 children), their children are folded
         if (depth >= 1 && node.children && node.children.length > 0) {
           node.payload.fold = 1;
         }
@@ -103,6 +104,7 @@ function MarkmapInternal() {
     const data = {
       content: rootContent,
       children: rootItems.map(item => buildTree(item, [rootContent], 1)),
+      payload: { url: '/', fold: 0 },
     };
 
     if (!mmRef.current) {
@@ -115,15 +117,16 @@ function MarkmapInternal() {
       const mm = mmRef.current;
       const svg = d3.select(svgRef.current);
 
+      // Label clicks for navigation
       svg.on('click', (event) => {
         const labelEl = event.target.closest('.mm-label');
         if (labelEl) {
           const url = labelEl.getAttribute('data-url');
-          if (url && url !== '#' && url !== '') {
-            // Check if it's the root node, if so, maybe reset view or do nothing special
-            if (url === '/') return;
-
-            if (event.metaKey || event.ctrlKey || event.button === 1) {
+          if (url && url !== '#' && url !== '' && url !== '/') {
+            if (event.altKey) {
+              // Option-click for preview
+              openPreview(url);
+            } else if (event.metaKey || event.ctrlKey || event.button === 1) {
               window.open(url, '_blank');
             } else {
               window.location.href = url;
@@ -134,19 +137,22 @@ function MarkmapInternal() {
         }
       });
 
-      // Track zoom/pan
+      // Debounced state save after any click (captures expansion/collapse)
+      let clickTimeout;
+      svg.on('mouseup.state', () => {
+        clearTimeout(clickTimeout);
+        clickTimeout = setTimeout(() => saveState(mm), 700);
+      });
+
+      // Save on zoom/pan
       mm.zoom.on('zoom.save', () => {
         saveState(mm);
       });
 
-      // Track toggle
-      const originalHandleClick = mm.handleClick;
-      mm.handleClick = function(el) {
-        originalHandleClick.call(this, el);
-        setTimeout(() => saveState(mm), 600);
-      };
+      // Save before navigation
+      const handleUnload = () => saveState(mm);
+      window.addEventListener('beforeunload', handleUnload);
 
-      // Restore transform if saved
       if (saved && saved.transform) {
         const { x, y, k } = saved.transform;
         setTimeout(() => {
@@ -156,6 +162,11 @@ function MarkmapInternal() {
           );
         }, 100);
       }
+
+      return () => {
+        window.removeEventListener('beforeunload', handleUnload);
+        clearTimeout(clickTimeout);
+      };
     } else {
       mmRef.current.setData(data);
     }
@@ -167,13 +178,15 @@ function MarkmapInternal() {
       <div className="mm-toolbar" style={{ position: 'absolute', bottom: '10px', right: '10px', display: 'flex', gap: '8px' }}>
         <button 
           onClick={() => setAllFolds(0)} 
-          style={{ padding: '6px 12px', borderRadius: '4px', border: '1px solid var(--ifm-color-primary)', background: 'var(--ifm-background-color)', cursor: 'pointer', fontSize: '0.9em' }}
+          className="button button--secondary button--sm"
+          style={{ cursor: 'pointer', fontWeight: 'bold' }}
         >
           Expand All
         </button>
         <button 
           onClick={() => setAllFolds(1)} 
-          style={{ padding: '6px 12px', borderRadius: '4px', border: '1px solid var(--ifm-color-primary)', background: 'var(--ifm-background-color)', cursor: 'pointer', fontSize: '0.9em' }}
+          className="button button--secondary button--sm"
+          style={{ cursor: 'pointer', fontWeight: 'bold' }}
         >
           Collapse All
         </button>
@@ -182,7 +195,7 @@ function MarkmapInternal() {
         .mm-label { cursor: pointer; padding: 2px 4px; border-radius: 4px; color: var(--ifm-font-color-base); }
         .mm-label:hover { background-color: var(--ifm-hover-overlay); text-decoration: underline; color: var(--ifm-color-primary); }
         .mm-root { font-weight: bold; font-size: 1.2em; color: var(--ifm-color-primary); }
-        .markmap-node circle { fill: var(--ifm-color-primary) !important; }
+        .markmap-node circle { fill: var(--ifm-color-primary) !important; cursor: pointer; }
         .markmap-link { stroke: var(--ifm-color-primary); stroke-opacity: 0.5; }
       `}</style>
     </div>

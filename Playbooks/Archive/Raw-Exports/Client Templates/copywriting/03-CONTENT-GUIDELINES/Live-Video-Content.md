@@ -1,19 +1,19 @@
 # Live Video Content - Webinars, Live Streams & Interactive Events
 
-**Create engaging, valuable live video content that builds authority with custom home builders, delivers actionable education, and drives consultation conversions through real-time interaction and community building.**
+**Create engaging, valuable live video content that builds authority with design-build remodelers, delivers actionable education, and drives consultation conversions through real-time interaction and community building.**
 
 ## Live Content Framework
 
 ### 1. Educational Webinar Scripts (30-90 minutes)
 
 ```
-You are Mitch Metz, conducting a live educational webinar for custom home builders on marketing strategies. Your approach is authoritative yet conversational, focusing on delivering immediate value while building trust for future business relationships.
+You are [Your Name], conducting a live educational webinar for design-build remodelers on marketing strategies. Your approach is authoritative yet conversational, focusing on delivering immediate value while building trust for future business relationships.
 
 Create a comprehensive webinar script for: [BUILDER MARKETING TOPIC]
 
 **Webinar Details:**
 - Topic Focus: [SPECIFIC BUILDER MARKETING CHALLENGE/STRATEGY]
-- Target Audience: [CUSTOM HOME BUILDERS $10M-$20M REVENUE]
+- Target Audience: [Design-Build Remodeler $10M-$20M REVENUE]
 - Webinar Length: [30/45/60/90 MINUTES]
 - Registration Source: [ORGANIC/PAID/PARTNERSHIP/REFERRAL]
 - Follow-up Goal: [CONSULTATION BOOKINGS/PROGRAM ENROLLMENT/COMMUNITY BUILDING]
@@ -33,7 +33,7 @@ For those joining early, introduce yourself in the chat - let me know what size 
 [VISUAL: Professional title slide with webinar topic]
 [TONE: Authoritative but approachable, building immediate credibility]
 
-"Alright everyone, let's get started. I'm Mitch Metz, and I've spent the last [X] years helping custom home builders just like you transition from referral-dependent marketing to predictable, scalable marketing systems.
+"Alright everyone, let's get started. I'm [Your Name], and I've spent the last [X] years helping design-build remodelers just like you transition from referral-dependent marketing to predictable, scalable marketing systems.
 
 Before we dive in, let me see who's here today. In the chat, tell me:
 - What size builder are you (revenue range is fine)
@@ -69,11 +69,11 @@ Sound like anyone you know? Maybe yourself?
 Here's what I've learned working with [NUMBER] builders over the past [YEARS]:
 
 [VISUAL: Key industry statistics]
-• [STAT 1] of custom builders still rely primarily on referrals
+• [STAT 1] of Design-Build Remodeler still rely primarily on referrals
 • [STAT 2] struggle with inconsistent lead flow
 • [STAT 3] don't have a systematic marketing approach
 
-The problem isn't that builders don't want to market - it's that most marketing advice isn't built for custom home builders.
+The problem isn't that builders don't want to market - it's that most marketing advice isn't built for design-build remodelers.
 
 [VISUAL: Before/after client results]
 But here's what's possible when you get this right:
@@ -81,7 +81,7 @@ But here's what's possible when you get this right:
 [CLIENT EXAMPLE 1]: [NAME] Builder went from [BEFORE STATE] to [AFTER STATE] in [TIMEFRAME]
 [CLIENT EXAMPLE 2]: [NAME] Builder increased qualified leads by [PERCENTAGE] using this exact system
 
-The difference? They stopped trying to be everything to everyone and started implementing systems designed specifically for custom builders doing $10-20 million annually.
+The difference? They stopped trying to be everything to everyone and started implementing systems designed specifically for Design-Build Remodeler doing $10-20 million annually.
 
 In the chat, let me know: Does this sound like challenges you're facing?"
 
@@ -93,7 +93,7 @@ In the chat, let me know: Does this sound like challenges you're facing?"
 
 "The first thing we need to address is [CORE CONCEPT].
 
-Most builders approach this by [COMMON WRONG APPROACH]. I get it - it seems logical. But here's why that doesn't work for custom builders:
+Most builders approach this by [COMMON WRONG APPROACH]. I get it - it seems logical. But here's why that doesn't work for Design-Build Remodeler:
 
 [EXPLANATION WITH INDUSTRY-SPECIFIC REASONING]
 
@@ -287,7 +287,7 @@ Create live Q&A session scripts for regular builder community engagement:
 [TECHNICAL: Go live, test audio/video]
 [TONE: Casual but professional, community-focused]
 
-"Hey everyone, Mitch here for our [FREQUENCY] Q&A session. 
+"Hey everyone, [Advisor] here for our [FREQUENCY] Q&A session. 
 
 Good to see familiar faces and welcome to anyone joining for the first time. These sessions are where I answer your real questions about builder marketing - no fluff, just practical advice you can implement immediately.
 
@@ -356,7 +356,7 @@ Create comprehensive workshop scripts for deep-dive builder education:
 [VISUAL: Professional workshop setup with materials visible]
 [TONE: Expert instructor, high-value positioning]
 
-"Welcome everyone to [WORKSHOP NAME]. I'm Mitch Metz, and today we're doing something different.
+"Welcome everyone to [WORKSHOP NAME]. I'm [Your Name], and today we're doing something different.
 
 Instead of just talking about [TOPIC], we're going to build your actual [SYSTEM/STRATEGY] together. By the end of today, you'll walk away with:
 - [SPECIFIC DELIVERABLE 1]
@@ -450,13 +450,13 @@ Create casual live streaming scripts for social media platforms:
 [TECHNICAL: Go live, wait for viewers to join]
 [TONE: Casual, authentic, accessible]
 
-"Hey everyone, Mitch here going live from [LOCATION/SETTING].
+"Hey everyone, [Advisor] here going live from [LOCATION/SETTING].
 
 Good to see [EARLY VIEWERS] joining. Give me a wave emoji if you can see me clearly.
 
 I wanted to jump on quickly and talk about [TOPIC] because I've been getting a lot of questions about this lately.
 
-For those just joining, I help custom home builders build marketing systems that actually work. Today we're talking about [SPECIFIC TOPIC]."
+For those just joining, I help design-build remodelers build marketing systems that actually work. Today we're talking about [SPECIFIC TOPIC]."
 
 **CONTENT DELIVERY (3-25 minutes):**
 [VISUAL: Casual setting, authentic presentation]

@@ -8,7 +8,7 @@ The site will be:
 - Organized using the Everspaces playbook template structure (adapted for remodelers)
 - Populated with existing SOPs and tactics from source files
 - Scrubbed of all client-specific data (names, identifying details)
-- Design-build remodeler specific (not coworking, not custom home builder)
+- Design-build remodeler specific (not coworking, not design-build remodeler)
 
 ---
 
@@ -16,11 +16,11 @@ The site will be:
 
 These documents provide context for content transformation:
 
-1. **Remodeler vs. Custom Builder Differences:**  
+1. **Remodeler vs. Design-Build Remodeler Differences:**  
    `Playbooks/marketing-strategy-analysis-custom-home-builders-vs-design-build-remodelers.md`
    
 2. **Marketing Philosophy:**  
-   `Rowan Processes/shared-context/marketing-philosophy.md`
+   `[Your Consultancy] Processes/shared-context/marketing-philosophy.md`
 
 ---
 
@@ -68,7 +68,7 @@ Use this hierarchy for organizing tactics. The order reflects the natural progre
 - Preserve the author's voice and style
 - When transforming to remodeler-specific, swap terms 1:1 where possible
 
-**If unsure:** Leave it alone. Mitch will review everything after.
+**If unsure:** Leave it alone. [Advisor] will review everything after.
 
 ---
 
@@ -77,7 +77,7 @@ Use this hierarchy for organizing tactics. The order reflects the natural progre
 - Do not delete—transform to remodeler context
 - If no equivalent exists, archive to `Playbooks/Archive/Coworking/`
 
-### Custom Home Builder Content
+### Design-Build Remodeler Content
 - **Action:** Archive before modifying
 - Copy original to `Playbooks/Archive/Custom-Builders/` before any edits
 - Much of this content applies to design-build remodelers—adapt the language
@@ -113,7 +113,7 @@ These areas need remodeler-specific framing (per the marketing strategy analysis
 ```
 Playbooks/
 ├── Archive/
-│   ├── Custom-Builders/     # Original custom builder content before transformation
+│   ├── Custom-Builders/     # Original Design-Build Remodeler content before transformation
 │   ├── Coworking/           # Coworking-specific content with no remodeler equivalent
 │   └── Raw-Exports/         # Original Notion exports (preserve source)
 ```
@@ -168,7 +168,7 @@ Templates and SOPs for client delivery. Key items:
 - `Allowable CPA.xlsx` → Analytics & Tracking
 - `Custom Home Dashboard Template - Basic.csv` → Analytics & Tracking
 - `General Business KPI Dashboard Template - Basic.csv` → Analytics & Tracking
-- `KPI Dashboard - Remodeling - Scorecard.csv` → Analytics & Tracking
+- `KPI Dashboard - Remodeling - KPI Dashboard.csv` → Analytics & Tracking
 - `Listing Management [Template v2] - Citation_Backlinks.csv` → Directory Listings & Local SEO
 - `Marketing Channel Summary Template - Sheet1.csv` → Strategy & Goals
 - `Marketing Logins & Passwords - Access Checklist.csv` → Onboarding
@@ -233,7 +233,7 @@ Meta SOPs about organizing knowledge. Categories include Business, Communication
 |------|------------------|-------|
 | `Getting Reviews for Builders.md` | Reputation & Reviews | Tactical notes on reviews |
 | `marketing-strategy-analysis-custom-home-builders-vs-design-build-remodelers.md` | Reference doc | Keep as reference, don't reorganize |
-| `Custom Builder Playbook.md` | Archive | Currently empty, placeholder |
+| `Design-Build Remodeler Playbook.md` | Archive | Currently empty, placeholder |
 | `Source Files/Brand Voice Doc.md` | Messaging & Positioning | Brand voice guidelines |
 
 ---
@@ -267,7 +267,7 @@ Meta SOPs about organizing knowledge. Categories include Business, Communication
 ### This Phase (Document Organization)
 - Set up folder structure with correct categories
 - Sort existing content into categories
-- Archive custom builder content before transforming
+- Archive Design-Build Remodeler content before transforming
 - Remove client data
 - Adapt language from coworking → remodeler where needed
 
@@ -275,7 +275,7 @@ Meta SOPs about organizing knowledge. Categories include Business, Communication
 - Creating new content
 - Adding effort/cost/impact metadata to tactics
 - Building the actual Docusaurus site (separate prompt exists for that)
-- Detailed content editing (Mitch will review everything closely after organization)
+- Detailed content editing ([Advisor] will review everything closely after organization)
 
 ---
 
@@ -296,13 +296,13 @@ Meta SOPs about organizing knowledge. Categories include Business, Communication
 
 ### Transformation
 - [ ] Coworking references replaced with remodeler equivalents
-- [ ] Custom builder content archived before any modifications
+- [ ] Design-Build Remodeler content archived before any modifications
 - [ ] Client names/identifying data removed
 - [ ] Notion export artifacts cleaned up (hash IDs in filenames)
 
 ### Ready for Review
 - [ ] No orphan files left in source folders
 - [ ] Clear file naming (no Notion hashes)
-- [ ] Content is ready for Mitch's detailed review
+- [ ] Content is ready for [Advisor]'s detailed review
 
 ---

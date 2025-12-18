@@ -1,3 +1,8 @@
-# Create file storage system in Google Drive
+---
+title: "Create File Storage System"
+description: "SOP for setting up the internal and shared folder structure in Google Drive for a new client."
+tags: ["onboarding", "sop", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Onboarding
+# Create File Storage System

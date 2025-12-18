@@ -1,6 +1,11 @@
-# Live chat widget
+---
+title: "Live Chat Widget"
+description: "Reference guide for selecting and installing a live chat widget to improve website conversion and tracking."
+tags: ["website", "reference", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Software
+# Live Chat Widget
 
 - Drift (preferred since it tracks conversions in Google Analytics)
 - Hubspot

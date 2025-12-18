@@ -1,4 +1,11 @@
-# Market Research Script Template - With Source Context & Personal Commentary
+---
+title: "Market Research Script Template"
+description: "A framework for creating market research presentation scripts that build trust through source transparency and personal commentary."
+tags: ["copywriting", "template", "active"]
+last_updated: "2025-12-18"
+---
+
+# Market Research Script Template
 
 **Purpose**: Create engaging market research presentations that lead with source credibility, include personal insights, and present balanced strategic recommendations.
 
@@ -107,7 +114,7 @@ Personal color: "I've been following DoYouConvert for years because they focus s
 "Now, when I first saw this 47% increase, I thought it had to be wrong. But then I checked with five of my builder clients, and four of them saw similar jumps. Here's what I think is happening..."
 
 **When Introducing Sources:**
-"I've been reading Bokka Group's research for about three years now. They tend to focus on enterprise-level data, so for custom builders, you might see numbers about 20% lower, but the trends hold true..."
+"I've been reading Bokka Group's research for about three years now. They tend to focus on enterprise-level data, so for Design-Build Remodeler, you might see numbers about 20% lower, but the trends hold true..."
 
 **During Methodology Explanation:**
 "They surveyed CMOs from companies doing $10M to $500M. Obviously that's a huge range, but they break it down by revenue tiers. For builders in the $10M-50M range - which is most of you watching - here's what matters..."

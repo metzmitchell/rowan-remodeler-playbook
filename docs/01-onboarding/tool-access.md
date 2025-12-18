@@ -1,4 +1,11 @@
-Tool/Asset	URL	Username	Password	Notes
+---
+title: "Tool Access List"
+description: "A tracking template for marketing tool credentials and access levels, intended for migration to a secure shared folder."
+tags: ["onboarding", "template", "active"]
+last_updated: "2025-12-18"
+---
+
+# Tool Access List
 NOTE: this needs to be shared with each editor, I'll copy it into OneDrive when I have access to the correct folder (and delete here).				
 				
 Wordpress Login				

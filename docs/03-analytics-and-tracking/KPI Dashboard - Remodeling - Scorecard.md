@@ -1,8 +1,8 @@
 ---
-title: KPI Dashboard Remodeling Scorecard
+title: KPI Dashboard Remodeling KPI Dashboard
 ---
 
-# KPI Dashboard Remodeling Scorecard
+# KPI Dashboard Remodeling KPI Dashboard
 
 |   | Weight | January 2025 | May 2025 | June 2025 | July 2025 | August 2025 | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- |

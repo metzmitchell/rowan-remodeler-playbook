@@ -1,11 +1,11 @@
 ---
-Priority: 1 (Essential)
-Content Type: Manual
-Last Updated: 2025-01-29
-Usage: Detailed rules for all marketing and external communication writing
+title: "Marketing Writing Rules"
+description: "Detailed rules for external communication, including banned words, LLM pattern avoidance, and title creation."
+tags: ["copywriting", "reference", "active"]
+last_updated: "2025-12-18"
 ---
 
-# Marketing & Communication Writing Rules
+# Marketing Writing Rules
 
 **Use for:** All external-facing content including emails, marketing copy, social media, proposals, client communications, website content, and any writing that will be shared with others.
 

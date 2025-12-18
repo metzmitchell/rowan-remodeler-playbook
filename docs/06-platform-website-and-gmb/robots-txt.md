@@ -1,3 +1,8 @@
-# Robots.txt file properly installed/in use
+---
+title: "Robots.txt Configuration"
+description: "Technical task to ensure a proper robots.txt file is in place to guide search engine crawlers."
+tags: ["website", "task", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Search Engine Optimization
+# Robots.txt Configuration

@@ -1,6 +1,11 @@
-# Run site performance scan via GTMetrics and Pingdom
+---
+title: "Performance Scan"
+description: "Task to run comprehensive site performance scans via tools like GTMetrix and Pingdom."
+tags: ["website", "task", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Platform
+# Performance Scan
 
 **Sites:**
 

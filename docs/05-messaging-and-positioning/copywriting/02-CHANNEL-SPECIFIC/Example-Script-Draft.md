@@ -1,4 +1,11 @@
-# Example: Pre-Structured Script Draft (Created by Squire)
+---
+title: "Example Script Draft"
+description: "An example of a pre-structured YouTube script draft for construction marketing reviews."
+tags: ["copywriting", "template", "active"]
+last_updated: "2025-12-18"
+---
+
+# Example Script Draft
 
 *This is an example of the draft document squire creates for writer to fill in*
 
@@ -26,7 +33,7 @@
 [Explain: Their focus, data collection method, industry specifics]
 [PERSONAL COMMENTARY: What you like/note about this source]
 
-### Source 3: [Custom Builder Online Market Report]
+### Source 3: [Design-Build Remodeler Online Market Report]
 [Explain: Their unique angle, construction focus, credibility]
 [PERSONAL COMMENTARY: How this validates/contrasts other sources]
 
@@ -80,7 +87,7 @@
 ## Sources to Reference Throughout:
 1. Promodo - Real Estate Benchmarks 2025 (Q1 Update)
 2. Astralcom - Homebuilder Digital Advertising Benchmarks 2025
-3. Custom Builder Online - US Custom Building Market Mid-Year 2025
+3. Design-Build Remodeler Online - US Custom Building Market Mid-Year 2025
 4. Construction Dive - Material cost analysis mid-year
 5. HubSpot - State of Marketing 2025
 

@@ -1,3 +1,8 @@
-# No redirect chains in place
+---
+title: "Redirect Chain Audit"
+description: "Technical task to ensure there are no redirect chains, improving site speed and crawl efficiency."
+tags: ["website", "task", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Search Engine Optimization
+# Redirect Chain Audit

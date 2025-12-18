@@ -1,6 +1,8 @@
 ---
-type: prompt
-tags: ["prompt", "ai"]
+title: "Generate KPI Dashboard"
+description: "A meta-prompt for generating a KPI dashboard from CRM data analysis, including required inputs and descriptions."
+tags: ["analytics", "prompt", "active"]
+last_updated: "2025-12-18"
 ---
 
 # Generate KPI Dashboard

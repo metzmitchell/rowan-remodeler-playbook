@@ -6,7 +6,7 @@ The goal is to leave "no comment left behind". If someone leaves you a comment, 
 
 ‌
 
-[https://docs.google.com/document/d/1JoNV9oShYV4KnYm9odChJINKZCnzDoHS8qFwISn5M-0/edit#bookmark=id.so4buz3kb4pq](https://docs.google.com/document/d/1JoNV9oShYV4KnYm9odChJINKZCnzDoHS8qFwISn5M-0/edit#bookmark=id.so4buz3kb4pq)
+[[Link removed for privacy])
 
 ## Checklist
 

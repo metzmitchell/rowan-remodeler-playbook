@@ -1,6 +1,11 @@
-# Remind clients of client referral program
+---
+title: "Promote Referral Program"
+description: "Quarterly task to remind existing clients about the referral program through various channels."
+tags: ["recurring", "task", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Quarterly
+# Promote Referral Program
 
 See details in checklist below.
 

@@ -1,11 +1,11 @@
 ---
-Priority: 2 (High)
-Content Type: Manual
-Last Updated: 2025-01-28
-Usage: Voice adaptation for construction industry outreach
+title: "Builder Industry Voice"
+description: "Voice adaptation for the construction industry: casual, collegial, and you-focused for strategic marketing partnerships."
+tags: ["copywriting", "reference", "active"]
+last_updated: "2025-12-18"
 ---
 
-# Builder Industry Professional Voice
+# Builder Industry Voice
 
 ## Core Communication Style
 

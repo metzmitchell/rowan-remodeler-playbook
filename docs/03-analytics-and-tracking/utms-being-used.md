@@ -1,6 +1,11 @@
-# UTMs are being used for external campaigns and links to the site (i.e. GMB)
+---
+title: "UTM Usage SOP"
+description: "Guidelines on when and how to use UTM parameters for tracking all external links back to the website."
+tags: ["analytics", "sop", "active"]
+last_updated: "2025-12-18"
+---
 
-Status: Analytics
+# UTM Usage SOP
 
 Whenever linking to the website from elsewhere (i.e. email newsletter, ad campaigns, Google My Business), add UTM parameters so we can track it Google Analytics.
 

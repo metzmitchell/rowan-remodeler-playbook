@@ -6,9 +6,9 @@ Usage: YouTube description generation from transcripts
 Related: scripts-for-youtube.md
 ---
 
-# YouTube Description Generation Prompt - Rowan Build
+# YouTube Description Generation Prompt - [Your Brand]
 
-Use this prompt to generate YouTube descriptions from video transcripts for Rowan Build videos. This prompt incorporates brand voice, specific CTAs, and formatting guidelines for consistent video descriptions.
+Use this prompt to generate YouTube descriptions from video transcripts for [Your Brand] videos. This prompt incorporates brand voice, specific CTAs, and formatting guidelines for consistent video descriptions.
 
 **Note:** This prompt is for generating descriptions from transcripts. For description structure templates and formatting guidelines, see [scripts-for-youtube.md](scripts-for-youtube.md).
 
@@ -16,19 +16,19 @@ Use this prompt to generate YouTube descriptions from video transcripts for Rowa
 
 ## Prompt Template
 
-From the transcript provided, craft a complete YouTube description for a Rowan Build video that:
+From the transcript provided, craft a complete YouTube description for a [Your Brand] video that:
 
-- Opens with a 1–2 sentence hook (≤150 characters) highlighting the core promise. Write in first person as Mitch from Rowan Build.
+- Opens with a 1–2 sentence hook (≤150 characters) highlighting the core promise. Write in first person as [Advisor] from [Your Brand].
 
 - Creates a **Chapters section** with short chapter titles and accurate timestamps based on the transcript/captions. Format as: `0:00 Chapter Title` (one per line). Chapter titles should be concise (3-6 words max) and clearly describe the content segment.
 
 - Summarizes the 3–5 main takeaways in a concise, skimmable list. Use simple language and avoid jargon.
 
-- Concludes with 3–10 relevant hashtags related to custom home builder marketing, construction marketing, or marketing consulting.
+- Concludes with 3–10 relevant hashtags related to design-build remodeler marketing, construction marketing, or marketing consulting.
 
 **Brand Context:**
-- Company: Rowan Build (Rowan Marketing Inc.)
-- Creator: Mitch Metz
+- Company: [Your Brand] ([Your Company Inc].)
+- Creator: [Your Name]
 - Value Prop: Helping builders sell projects more consistently than referrals, with more transparency than an agency
 
 **Voice Guidelines:**
@@ -43,11 +43,11 @@ From the transcript provided, craft a complete YouTube description for a Rowan B
 Always include this section in generated descriptions:
 ```
 🔨 Connect With Me:
-- Website: https://rowan.build
-- Blog: https://blog.rowan.build
-- Tools & Resources: https://tools.rowan.build
-- YouTube: https://www.youtube.com/@RowanBuild
-- LinkedIn: https://www.linkedin.com/in/mitchell-metz
+- Website: https://[Your Consultancy].build
+- Blog: https://blog.[Your Consultancy].build
+- Tools & Resources: https://tools.[Your Consultancy].build
+- YouTube: https://www.youtube.com/@[Your Consultancy]Build
+- LinkedIn: https://www.linkedin.com/in/[Advisor]ell-metz
 ```
 
 **Chapter Creation Guidelines:**

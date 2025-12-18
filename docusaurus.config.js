@@ -8,6 +8,19 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
+function addGeneratedIndexToCategories(items) {
+  return items.map((item) => {
+    if (item.type === 'category') {
+      return {
+        ...item,
+        link: item.link ?? {type: 'generated-index'},
+        items: addGeneratedIndexToCategories(item.items),
+      };
+    }
+    return item;
+  });
+}
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'ROWAN REMODELER PLAYBOOK',
@@ -48,6 +61,10 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           routeBasePath: '/',
+          async sidebarItemsGenerator({defaultSidebarItemsGenerator, ...args}) {
+            const items = await defaultSidebarItemsGenerator(args);
+            return addGeneratedIndexToCategories(items);
+          },
         },
         blog: false,
         theme: {

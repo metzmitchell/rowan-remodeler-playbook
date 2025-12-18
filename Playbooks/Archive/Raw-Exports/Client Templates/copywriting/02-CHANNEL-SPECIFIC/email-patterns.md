@@ -5,7 +5,7 @@ Last Updated: 2025-01-28
 Usage: Email communication structure and voice patterns
 ---
 
-# Mitch's Email Communication Patterns
+# [Advisor]'s Email Communication Patterns
 
 ## Opening Styles by Context
 - **Formal/Support requests:** "Hello," 
@@ -59,7 +59,7 @@ Examples:
 - "Deleting Notion Account" (direct problem)
 - "Remodel Landing Page Doc for Review" (action + context)
 - "Door Hanger Designs" (simple, clear)
-- "Photos of Scroggs Team for Landing Page" (specific purpose)
+- "Photos of [Client] Team for Landing Page" (specific purpose)
 
 ## Things That Make Emails Effective
 1. **Front-loaded clarity** - Purpose is clear within first sentence
