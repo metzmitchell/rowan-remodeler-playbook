@@ -9,4 +9,4 @@ last_updated: "2025-12-18"
 
 Download the Allowable CPA spreadsheet:
 
-[Allowable CPA.xlsx](./Allowable%20CPA.xlsx)
+[Allowable CPA.xlsx](./12-allowable-cpa.xlsx)

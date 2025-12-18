@@ -112,8 +112,3 @@ This marketing philosophy complements and extends existing copywriting rules:
 - **Enhances:** Conversational flow and collaborative tone
 - **Adds depth to:** Customer-focused messaging and relationship building
 - **Supports:** Professional positioning while maintaining authenticity
-
-## Related Content
-
-- [Quick Voice Reference](./quick-voice-reference.md) - Core voice principles
-- [Builder Industry Voice](../01-VOICE-BY-CONTEXT/builder-industry-voice.md) - Industry-specific applications

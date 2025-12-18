@@ -99,6 +99,4 @@ last_updated: "2025-12-18"
 
 ## Related docs in this playbook
 
-- [Marketing & Communication Writing Rules](../copywriting/00-CORE-VOICE/marketing-communication-rules.md)
-- [Quick Voice Reference](../copywriting/00-CORE-VOICE/quick-voice-reference.md)
-- [Core Voice Index](../copywriting/00-CORE-VOICE/overview.md)
+- [Marketing & Communication Writing Rules](./marketing-communication-rules.md)

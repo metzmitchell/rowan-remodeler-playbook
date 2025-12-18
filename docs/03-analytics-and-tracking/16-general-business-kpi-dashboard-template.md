@@ -1,8 +1,8 @@
 ---
-title: General Business KPI Dashboard Template Basic
+title: 16 General Business Kpi Dashboard Template
 ---
 
-# General Business KPI Dashboard Template Basic
+# 16 General Business Kpi Dashboard Template
 
 |   | January | February | March | April | May | June | July | August | September | October | November | December | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

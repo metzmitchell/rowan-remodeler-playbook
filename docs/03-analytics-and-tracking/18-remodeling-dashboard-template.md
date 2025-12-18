@@ -1,8 +1,8 @@
 ---
-title: Remodeling Dashboard Template Basic
+title: 18 Remodeling Dashboard Template
 ---
 
-# Remodeling Dashboard Template Basic
+# 18 Remodeling Dashboard Template
 
 |   | January | February | March | April | May | June | July | August | September | October | November | December | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

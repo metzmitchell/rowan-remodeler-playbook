@@ -20,7 +20,7 @@ Perform a complete initial audit to understand the client's current status, asse
 
 # Prompt: Creating Remodeler Context Documents
 
-[Context Doc Examples]([Your Drive Folder])
+[Context Doc Examples](#)
 
 ## Goal
 
@@ -111,7 +111,7 @@ Extract and organize the facts into the structure below.
 
 ### Sources
 PASTE SOURCES BELOW:
-<PASTE>
+``<PASTE>``
 
 ---
 
