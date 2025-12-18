@@ -108,6 +108,25 @@ function MarkmapInternal() {
     };
 
     if (!mmRef.current) {
+      // Ensure SVG has explicit pixel dimensions for d3-zoom
+      // This prevents the "Could not resolve relative length" error
+      const svgEl = svgRef.current;
+      if (svgEl) {
+        const container = svgEl.parentElement;
+        if (container) {
+          // Force a reflow to get accurate dimensions
+          const rect = container.getBoundingClientRect();
+          const width = rect.width || 800;
+          const height = rect.height || 600;
+          svgEl.setAttribute('width', String(Math.max(width, 100)));
+          svgEl.setAttribute('height', String(Math.max(height, 100)));
+        } else {
+          // Fallback dimensions if container not available
+          svgEl.setAttribute('width', '800');
+          svgEl.setAttribute('height', '600');
+        }
+      }
+
       mmRef.current = Markmap.create(svgRef.current, {
         autoFit: true,
         duration: 500,
@@ -115,33 +134,36 @@ function MarkmapInternal() {
       }, data);
 
       const mm = mmRef.current;
-      const svg = d3.select(svgRef.current);
+      const d3Svg = d3.select(svgRef.current);
 
       // Label clicks for navigation
-      svg.on('click', (event) => {
+      d3Svg.on('click', (event) => {
         const labelEl = event.target.closest('.mm-label');
-        if (labelEl) {
-          const url = labelEl.getAttribute('data-url');
-          if (url && url !== '#' && url !== '' && url !== '/') {
-            if (event.altKey) {
-              // Option-click for preview
-              openPreview(url);
-            } else if (event.metaKey || event.ctrlKey || event.button === 1) {
-              window.open(url, '_blank');
-            } else {
-              window.location.href = url;
-            }
+        const url = labelEl?.getAttribute('data-url');
+        if (labelEl && url && url !== '#' && url !== '' && url !== '/') {
+          // Check for Option/Alt key to open preview
+          if (event.altKey) {
             event.preventDefault();
             event.stopPropagation();
+            openPreview(url);
+            return;
+          } else if (event.metaKey || event.ctrlKey || event.button === 1) {
+            window.open(url, '_blank');
+          } else {
+            window.location.href = url;
           }
+          event.preventDefault();
+          event.stopPropagation();
         }
       });
 
       // Debounced state save after any click (captures expansion/collapse)
       let clickTimeout;
-      svg.on('mouseup.state', () => {
+      d3Svg.on('mouseup.state', () => {
         clearTimeout(clickTimeout);
-        clickTimeout = setTimeout(() => saveState(mm), 700);
+        clickTimeout = setTimeout(() => {
+          saveState(mm);
+        }, 700);
       });
 
       // Save on zoom/pan

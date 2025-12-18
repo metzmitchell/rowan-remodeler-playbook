@@ -111,3 +111,13 @@ html.is-link-preview .container {
   font-family: inherit;
   font-size: 0.85em;
 }
+
+/* Hide file icons, keep folder icons */
+.menu__link::before {
+  display: none !important;
+}
+
+/* Prevent option-click from downloading pages */
+a {
+  -webkit-user-drag: none;
+}

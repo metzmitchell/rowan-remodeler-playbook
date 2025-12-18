@@ -9,6 +9,30 @@ export default function Root({ children }) {
       if (isPreview) {
         document.documentElement.classList.add('is-link-preview');
       }
+
+      // Prevent option-click from downloading pages
+      const handleOptionClick = (event) => {
+        if (event.altKey) {
+          const target = event.target;
+          const link = target.closest('a');
+          
+          // Prevent option-click on any link to avoid downloads
+          if (link && link.href && !link.href.startsWith('#') && !link.href.startsWith('javascript:')) {
+            event.preventDefault();
+            event.stopPropagation();
+            return false;
+          }
+        }
+      };
+
+      // Use capture phase to catch before other handlers
+      document.addEventListener('click', handleOptionClick, true);
+      document.addEventListener('auxclick', handleOptionClick, true); // Middle mouse button
+
+      return () => {
+        document.removeEventListener('click', handleOptionClick, true);
+        document.removeEventListener('auxclick', handleOptionClick, true);
+      };
     }
   }, []);
 
