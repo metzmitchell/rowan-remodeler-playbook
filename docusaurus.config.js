@@ -88,11 +88,6 @@ const config = {
         title: 'ROWAN REMODELER PLAYBOOK',
         items: [],
       },
-      footer: {
-        style: 'dark',
-        links: [],
-        copyright: `© ${new Date().getFullYear()} Rowan Remodeler Playbook`,
-      },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
