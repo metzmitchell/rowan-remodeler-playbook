@@ -91,7 +91,8 @@ function MarkmapInternal() {
           node.payload.fold = 1;
         }
       } else {
-        if (depth >= 1 && node.children && node.children.length > 0) {
+        // Default: collapse all sections (nodes with children) when first opening
+        if (node.children && node.children.length > 0) {
           node.payload.fold = 1;
         }
       }

@@ -1,11 +1,13 @@
 ---
-title: "Call Notes and Project Tracking"
-description: "A template for organizing call notes, tracking open and completed projects, and maintaining a directory of key project links."
+title: "Project Management Dashboard"
+description: "A comprehensive template for tracking marketing projects, call notes, tasks, and organizing key resources."
 tags: ["systems", "template", "active"]
 last_updated: "2025-12-18"
 ---
 
-# Call Notes and Project Tracking
+# Project Management Dashboard
+
+This document serves as the central hub for managing marketing projects, tracking tasks, and recording meeting notes.
 
 # Call Notes
 

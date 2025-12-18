@@ -14,6 +14,8 @@ Create a Google Drive folder and share access with your marketing lead
 
 - [ ]  KPI Document
 - [ ]  Strategy Document
-- [ ]  Call Notes
+- [ ]  [Project Management Dashboard (includes Call Notes)](./14-project-management-dashboard.md)
 - [ ]  Login Credentials
-- [ ]  Channel Summary
+## Related Documents
+
+- [Project Management Dashboard](./14-project-management-dashboard.md)

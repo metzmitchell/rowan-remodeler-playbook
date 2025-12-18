@@ -12,5 +12,9 @@ last_updated: "2025-12-18"
 - [ ]  Login Credentials
 - [ ]  KPI Document
 - [ ]  Strategy Document
-- [ ]  Call Notes
+- [ ]  [Project Management Dashboard (includes Call Notes)](./14-project-management-dashboard.md)
 - [ ]  Channel Summary
+
+## Related Documents
+
+- [Project Management Dashboard](./14-project-management-dashboard.md)
