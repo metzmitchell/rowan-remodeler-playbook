@@ -43,7 +43,7 @@ export default function DocSidebarWrapper(props) {
         style={{ 
           padding: '10px', 
           borderTop: '1px solid var(--ifm-toc-border-color)', 
-          background: 'var(--ifm-background-color)',
+          backgroundColor: 'var(--ifm-background-color)',
           position: 'sticky',
           bottom: 0,
           zIndex: 100,
@@ -57,12 +57,25 @@ export default function DocSidebarWrapper(props) {
           onClick={collapseAllSidebar}
           style={{ fontWeight: 'bold' }}
         >
-          Collapse All Menu
+          Collapse All Menus
         </button>
       </div>
       <style>{`
         .doc-sidebar-wrapper .menu {
           padding-bottom: ${hasExpanded ? '80px' : '20px'} !important;
+        }
+        .sidebar-collapse-btn-container {
+          background-color: var(--ifm-background-color) !important;
+          opacity: 1 !important;
+          background-image: none !important;
+        }
+        /* Ensure the container is fully opaque in light mode */
+        [data-theme='light'] .sidebar-collapse-btn-container {
+          background-color: #ffffff !important;
+        }
+        /* Ensure the container is fully opaque in dark mode */
+        [data-theme='dark'] .sidebar-collapse-btn-container {
+          background-color: var(--ifm-background-color) !important;
         }
       `}</style>
     </div>

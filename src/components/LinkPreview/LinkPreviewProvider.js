@@ -74,22 +74,10 @@ export default function LinkPreviewProvider({ children }) {
       }
     };
 
-    const handleKeyDown = (e) => {
-      if (!isVisible) return;
-
-      if (e.key === 'Escape') {
-        closePreview();
-      } else if (e.key === 'Enter') {
-        navigateToPage();
-      }
-    };
-
     document.addEventListener('click', handleClick, true);
-    document.addEventListener('keydown', handleKeyDown);
 
     return () => {
       document.removeEventListener('click', handleClick, true);
-      document.removeEventListener('keydown', handleKeyDown);
     };
   }, [isVisible, navigateToPage, closePreview, isPreviewMode]);
 

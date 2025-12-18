@@ -1,4 +1,4 @@
-import React, { useRef } from 'react';
+import React, { useRef, useEffect } from 'react';
 import styles from './styles.module.css';
 
 export default function LinkPreviewModal({ 
@@ -8,6 +8,32 @@ export default function LinkPreviewModal({
   onNavigate 
 }) {
   const modalRef = useRef(null);
+
+  // Handle key bindings and focus
+  useEffect(() => {
+    if (!url) return;
+
+    // Focus the modal when it opens to ensure key bindings work
+    if (modalRef.current) {
+      modalRef.current.focus();
+    }
+
+    const handleKeyDown = (e) => {
+      // If we're typing in an input (unlikely here but good practice), don't trigger shortcuts
+      if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') {
+        return;
+      }
+
+      if (e.key === 'Escape') {
+        onClose();
+      } else if (e.key === 'Enter') {
+        onNavigate();
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyDown, true); // Use capture phase
+    return () => window.removeEventListener('keydown', handleKeyDown, true);
+  }, [url, onClose, onNavigate]);
 
   // Close when clicking outside
   const handleBackdropClick = (e) => {
@@ -20,7 +46,12 @@ export default function LinkPreviewModal({
 
   return (
     <div className={styles.modalOverlay} onClick={handleBackdropClick}>
-      <div className={styles.modalContent} ref={modalRef}>
+      <div 
+        className={styles.modalContent} 
+        ref={modalRef}
+        tabIndex={-1}
+        style={{ outline: 'none' }}
+      >
         <div className={styles.modalHeader}>
           <span className={styles.modalTitle}>{url}</span>
           <button className={styles.closeButton} onClick={onClose} aria-label="Close">

@@ -197,6 +197,24 @@ function MarkmapInternal() {
   return (
     <div className="markmap-container" style={{ width: '100%', height: 'calc(100vh - 250px)', minHeight: '500px', border: '1px solid var(--ifm-contents-border-color)', borderRadius: '8px', overflow: 'hidden', position: 'relative', backgroundColor: 'var(--ifm-background-color)' }}>
       <svg ref={svgRef} style={{ width: '100%', height: '100%' }} />
+      <div className="mm-toolbar-left" style={{ position: 'absolute', bottom: '10px', left: '10px', display: 'flex', gap: '8px' }}>
+        <button 
+          onClick={() => {
+            if (mmRef.current) {
+              mmRef.current.fit();
+            }
+          }} 
+          className="button button--secondary button--sm"
+          style={{ cursor: 'pointer', fontWeight: 'bold' }}
+          title="Reset Zoom / Re-center"
+        >
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" style={{ marginRight: '4px', verticalAlign: 'middle' }}>
+            <path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8" />
+            <path d="M3 3v5h5" />
+          </svg>
+          Reset View
+        </button>
+      </div>
       <div className="mm-toolbar" style={{ position: 'absolute', bottom: '10px', right: '10px', display: 'flex', gap: '8px' }}>
         <button 
           onClick={() => setAllFolds(0)} 
