@@ -113,7 +113,7 @@ html.is-link-preview .container {
 }
 
 /* Hide file icons, keep folder icons */
-.menu__link::before {
+.menu__link:not(.menu__link--sublist)::before {
   display: none !important;
 }
 

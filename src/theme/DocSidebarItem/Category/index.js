@@ -179,12 +179,14 @@ function DocSidebarItemCategoryCollapsible({
     setExpandedItem(toCollapsed ? null : index);
     setCollapsed(toCollapsed);
   };
+  /*
   useAutoExpandActiveCategory({
     isActive,
     collapsed,
     updateCollapsed,
     activePath,
   });
+  */
   useEffect(() => {
     if (
       collapsible &&
