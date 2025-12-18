@@ -131,9 +131,9 @@ lowest close-rate so far.
 #############################################
 • **Output XML only**—no Markdown, plaintext, or code blocks.
 
-• Use CDATA for any text containing “&”, “<”, or “>”.
+• Use CDATA for any text containing `&`, `\<`, or `\>`.
 
-• Monetary values: plain numbers with two decimals, no “$”.
+• Monetary values: plain numbers with two decimals, no "$".
 
 • Percentages via `pct="##.#"` attributes; hypothesis confidence as
 `confidence="low|medium|high"`.
