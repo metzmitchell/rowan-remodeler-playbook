@@ -13,7 +13,3 @@ Track things like:
 - Referral sources
 - On-site behavior by source of traffic (time on page, bounce rate, number of pages per session)
 - Campaign performance (See: UTMs: [https://trello.com/c/HPxy4Adz](https://trello.com/c/HPxy4Adz)))
-
-## Checklist
-
-- [ ]  Done

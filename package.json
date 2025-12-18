@@ -21,6 +21,9 @@
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
     "csv-parse": "^6.1.0",
+    "d3": "^7.9.0",
+    "markmap-lib": "^0.18.12",
+    "markmap-view": "^0.18.12",
     "prism-react-renderer": "^2.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"

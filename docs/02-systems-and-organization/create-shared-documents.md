@@ -12,7 +12,3 @@ Create a Google Drive folder and share access with your marketing lead
 - [ ]  Call Notes
 - [ ]  Login Credentials
 - [ ]  Channel Summary
-
-## Checklist
-
-- [ ]  Done

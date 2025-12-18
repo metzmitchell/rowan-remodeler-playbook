@@ -3,7 +3,3 @@
 Status: Onboarding
 
 Use Google Drive or Microsoft One Drive to allow for shared document functionality and version control.
-
-## Checklist
-
-- [ ]  Done

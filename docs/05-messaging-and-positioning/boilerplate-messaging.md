@@ -10,7 +10,3 @@ Status: Messaging
 4. Long description
 
 Roll it out consistently at all touch points.
-
-## Checklist
-
-- [ ]  Done

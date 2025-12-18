@@ -9,7 +9,3 @@ Status: Systems and Organization
 - [ ]  Strategy Document
 - [ ]  Call Notes
 - [ ]  Channel Summary
-
-## Checklist
-
-- [ ]  Done

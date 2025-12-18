@@ -6,7 +6,3 @@ Status: Optimizations
 - Consideration
 - Decision
 - Post-purchase
-
-## Checklist
-
-- [ ]  Done

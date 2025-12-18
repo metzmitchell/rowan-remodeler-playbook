@@ -11,7 +11,3 @@ Consider adding these fields to your CRM as well for better client/prospect data
 5. Details about their business and what they need to perform
 6. What their number one priority is in a space
 7. Growth goals for the future
-
-## Checklist
-
-- [ ]  Done

@@ -9,7 +9,3 @@ Top examples
 - Number of leads
 - Revenue
 - Marketing costs as a % of revenue
-
-## Checklist
-
-- [ ]  Done

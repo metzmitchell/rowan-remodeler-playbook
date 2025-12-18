@@ -8,7 +8,3 @@ Status: Client Retention
 - What one thing makes us uniquely valuable to you?
 - What could we do to better meet your needs?
 - How would you recommend us to a friend or colleague?
-
-## Checklist
-
-- [ ]  Done

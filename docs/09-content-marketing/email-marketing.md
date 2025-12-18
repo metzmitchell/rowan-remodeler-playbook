@@ -8,7 +8,3 @@ Status: Software
 - Mailchimp
 - Klayvio (ecommerce)
 - Drip (ecommerce)
-
-## Checklist
-
-- [ ]  Done

@@ -2,9 +2,7 @@
 
 Status: Onboarding
 
-## Checklist
 
-- [ ]  Done
 
 ## Common Platforms
 

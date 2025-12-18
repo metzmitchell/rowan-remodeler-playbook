@@ -25,7 +25,6 @@ End the engagement cleanly: deliver the final handoff, preserve the work, remove
 - Client primary contact + technical/admin contact
 - Where assets live (Drive/Dropbox/Notion/Asana/etc.)
 
-## Offboarding checklist
 
 ### 1) Confirm timeline + expectations
 - [ ] Confirm last day of work + last meeting date
@@ -95,10 +94,3 @@ End the engagement cleanly: deliver the final handoff, preserve the work, remove
 - **Recommendations (30/60/90)**:
 - **Key links**:
 - **Credentials/access notes**:
-
-
-
-
-
-
-

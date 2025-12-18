@@ -22,7 +22,6 @@
 
 # Completed Projects & Past Call Notes
 
-## Completed Projects & Tasks
 
 # Places
 
@@ -88,4 +87,4 @@ Outline ongoing marketing activities. I’ve provided some examples below, but s
 
 **External**
 
-* 
+*

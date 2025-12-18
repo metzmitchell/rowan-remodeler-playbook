@@ -3,7 +3,3 @@
 Status: Systems and Organization
 
 Customize the KPI template to suite your needs.
-
-## Checklist
-
-- [ ]  Done

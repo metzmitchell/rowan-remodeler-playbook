@@ -10,7 +10,6 @@ Usage: Quick reference for all copywriting contexts
 ## Core Philosophy in One Line
 **Simple language expressing complex understanding - like chess, simple rules creating beautiful depth.**
 
-## Voice Checklist (All Contexts)
 
 ### Rewrite it to sound human
 
@@ -106,4 +105,4 @@ Usage: Quick reference for all copywriting contexts
 **Just Right:** "We need a better login system. Think of it like hotel keycards - temporary passes that expire and renew automatically."
 
 ## Remember
-Writing is organized speaking. Complexity emerges from simple principles. Personality comes through naturally, never forced. 
+Writing is organized speaking. Complexity emerges from simple principles. Personality comes through naturally, never forced.

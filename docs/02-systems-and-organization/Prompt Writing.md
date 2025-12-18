@@ -324,7 +324,7 @@ Goal: earn a quick, positive reply that leads to a 15-minute discovery call.
 <email_1>
 <subject_line>
 • ≤ 4 words
-• Must include `\{\{Prospect Name\}\}` <i>or</i> `\{\{Company\}\}`
+• Must include `{{Prospect Name}}` <i>or</i> `{{Company}}`
 • No spam-trigger words
 • Create curiosity / open loop
 </subject_line>
@@ -333,9 +333,9 @@ Goal: earn a quick, positive reply that leads to a 15-minute discovery call.
 Structure – Hook & personalization → Pain / friction you can relieve → Clear CTA (“15-min call?”).
 Constraints:
 – ≤ 120 words, short paragraphs, 6th-grade readability
-– Start with “Hey `\{\{First Name\}\}`, ” (note the space)
+– Start with "Hey `{{First Name}}`, " (note the space)
 – You-focused language, casual tone, no hype-adjectives, no bullet points, no attachments, no dashes (–) or “!”
-– End with: “Kind regards,<br />Mitch”
+– End with: "Kind regards,<br />Mitch"
 – Reference where you learned about them (website, LinkedIn, etc.)
 </body>
 </email_1>
@@ -344,7 +344,7 @@ Constraints:
 <type>Reply in same thread</type>
 <body>
 Only one short variant allowed (≤ 35 words):
-“Hey `\{\{First Name\}\}`, Just pushing this back up your inbox in case you missed it. Look forward to hearing from you. Thanks in advance,<br />Mitch”
+"Hey `{{First Name}}`, Just pushing this back up your inbox in case you missed it. Look forward to hearing from you. Thanks in advance,<br />Mitch"
 </body>
 </email_2>
 
@@ -352,8 +352,8 @@ Only one short variant allowed (≤ 35 words):
 <type>New message, same cadence as Email 1</type>
 <differences>
 • Tackle a different core pain.
-• No extra personalization beyond `\{\{First Name\}\}`.
-• Optional opener: “I was thinking about `\{\{Company\}\}` again and…”
+• No extra personalization beyond `{{First Name}}`.
+• Optional opener: "I was thinking about `{{Company}}` again and..."
 </differences>
 <!-- All other rules identical to Email 1 -->
 </email_3>
@@ -366,7 +366,7 @@ Only one short variant allowed (≤ 35 words):
 </tactical_guidelines>
 
 <output_format>
-Return raw JSON (no ``` fences) with <br /> tags for line breaks:
+Return raw JSON (no ``` fences) with `<br />` tags for line breaks:
 ```json
 {
 "email1": { "subject": "TEXT", "body": "HTML" },
@@ -459,25 +459,25 @@ Each solution must be concrete—describe the exact process, automation, or enga
 <!-- =====  OUTPUT TEMPLATE  ===== -->
 <output>
 Personalization
-1. Opportunity: `\{\{string | null\}\}`
-Evidence: `\{\{string | null\}\}`
+1. Opportunity: `{{string | null}}`
+Evidence: `{{string | null}}`
 
-2. Opportunity: `\{\{string | null\}\}`
-Evidence: `\{\{string | null\}\}`
+2. Opportunity: `{{string | null}}`
+Evidence: `{{string | null}}`
 
 ————Pain Points & Solutions
-1. Pain Point: `\{\{string\}\}`
-Evidence: `\{\{string\}\}`
-Rowan Offer: `\{\{string\}\}`
+1. Pain Point: `{{string}}`
+Evidence: `{{string}}`
+Rowan Offer: `{{string}}`
 
-2. Pain Point: `\{\{string\}\}`
-Evidence: `\{\{string\}\}`
-Rowan Offer: `\{\{string\}\}`
+2. Pain Point: `{{string}}`
+Evidence: `{{string}}`
+Rowan Offer: `{{string}}`
 </output>
 
 <!-- =====  INSTRUCTIONS  ===== -->
 <notes>
-• Replace every `\{\{…\}\}` placeholder with researched content.
+• Replace every `{{…}}` placeholder with researched content.
 • All evidence should be specific enough that the reader never has to reopen the source material.
 • Keep the entire brief to ≤ 200 words.
 </notes>

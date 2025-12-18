@@ -36,6 +36,43 @@
   font-style: normal;
 }
 
+/* ... existing ... */
+
 .navbar__title {
   font-family: 'South Korea Serif', 'Times New Roman', Merriweather, serif;
+}
+
+/* Playbook Mindmap */
+.markmap-container {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+/* 3-wide Card Grid for Category Pages */
+.doc-card-grid {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+@media (min-width: 600px) {
+  .doc-card-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 900px) {
+  .doc-card-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* Subtle folder vs doc distinction */
+.card-folder {
+  border-left: 4px solid var(--ifm-color-primary);
+}
+
+.card-doc {
+  border-left: 4px solid #eee;
 }

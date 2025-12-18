@@ -8,7 +8,3 @@ Status: Sales Strategies
 - What their goals are
 - Why they chose you
 - What you can do to make the experience exceptional
-
-## Checklist
-
-- [ ]  Done

@@ -6,7 +6,3 @@ Status: Software
 - Hubspot
 - PipeDrive
 - ActiveCapaign
-
-## Checklist
-
-- [ ]  Done

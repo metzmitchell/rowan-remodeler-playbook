@@ -3,7 +3,3 @@
 Status: Search Engine Optimization
 
 **Use tools like** [https://whitespark.ca/citation-building-submission-service/](https://whitespark.ca/citation-building-submission-service/)
-
-## Checklist
-
-- [ ]  Done
