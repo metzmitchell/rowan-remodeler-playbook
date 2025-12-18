@@ -48,30 +48,80 @@
   margin-bottom: 2rem;
 }
 
-/* 2-wide Card Grid for Category Pages */
-.doc-card-grid {
-  display: grid;
-  grid-template-columns: repeat(1, 1fr);
-  gap: 1.5rem;
-  margin-top: 2rem;
-  max-width: 900px;
+/* ===== TASK LIST STYLING FOR CATEGORY PAGES ===== */
+
+/* DocCardList renders: .theme-doc-markdown > section.row > article.col > a.card */
+.theme-doc-markdown > section.row {
+  flex-direction: column;
+  max-width: 700px;
+  margin-top: 1rem;
 }
 
-@media (min-width: 600px) {
-  .doc-card-grid {
-    grid-template-columns: repeat(2, 1fr);
-  }
+/* Each task item (override Infima's col--6 grid + theme margin) */
+.theme-doc-markdown > section.row > article.col {
+  --ifm-col-width: 100%;
+  flex: 0 0 auto;
+  max-width: 100%;
+  padding: 0;
+  margin: 0 0 0.5rem 0;
 }
 
-/* Ensure cards have consistent sizing */
-.doc-card-grid .card {
-  height: 100%;
-  min-height: 120px;
+.theme-doc-markdown > section.row > article.col:last-child {
+  margin-bottom: 0;
 }
 
-/* Subtle folder vs doc distinction */
-.card-folder {
-  border-left: 4px solid var(--ifm-color-primary);
+/* Make the card look like a compact list row (no divider lines) */
+.theme-doc-markdown > section.row > article.col > a.card {
+  padding: 0.6rem 0.75rem;
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  box-shadow: none;
+  transition: background-color 0.15s ease, border-color 0.15s ease;
+}
+
+.theme-doc-markdown > section.row > article.col > a.card:hover {
+  background: var(--ifm-hover-overlay);
+  border-color: var(--ifm-color-emphasis-200);
+}
+
+/* Title */
+.theme-doc-markdown > section.row > article.col > a.card h2 {
+  font-size: 1.02rem;
+  font-weight: 600;
+  margin: 0;
+  line-height: 1.35;
+}
+
+/* Allow wrapping + clamp to 2 lines for scannability */
+.theme-doc-markdown > section.row > article.col > a.card h2.text--truncate {
+  white-space: normal;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Description */
+.theme-doc-markdown > section.row > article.col > a.card p {
+  font-size: 0.85rem;
+  color: var(--ifm-color-emphasis-700);
+  margin: 0.25rem 0 0 0;
+  line-height: 1.45;
+}
+
+/* Allow 2-line description (instead of single-line ellipsis) */
+.theme-doc-markdown > section.row > article.col > a.card p.text--truncate {
+  white-space: normal;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Hide empty descriptions cleanly */
+.theme-doc-markdown > section.row > article.col > a.card p:empty {
+  display: none;
 }
 
 /* Hide navigation in link preview mode */

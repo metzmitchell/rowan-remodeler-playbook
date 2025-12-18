@@ -98,7 +98,7 @@ Extract and organize the facts into the structure below.
 
 ### Sources
 PASTE SOURCES BELOW:
-<PASTE>
+`<PASTE>`
 
 ---
 
