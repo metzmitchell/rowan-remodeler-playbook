@@ -140,10 +140,10 @@ When writing marketing copy, use this structure:
 ## Cross-References
 
 - [Communication Style Guide](../../shared-context/communication-style.md) - GLOBAL WRITING STANDARD (mandatory reference)
-- [Core Voice Index](./index.md) - Master index for all voice guidelines
+- [Core Voice Index](./overview.md) - Master index for all voice guidelines
 - [Quick Voice Reference](./quick-voice-reference.md) - Daily writing check
-- [Voice by Context](../01-VOICE-BY-CONTEXT/index.md) - Context-specific voice adaptations
-- [Channel-Specific Guides](../02-CHANNEL-SPECIFIC/index.md) - Email, LinkedIn, scripts, etc.
+- [Voice by Context](../01-VOICE-BY-CONTEXT/overview.md) - Context-specific voice adaptations
+- [Channel-Specific Guides](../02-CHANNEL-SPECIFIC/overview.md) - Email, LinkedIn, scripts, etc.
 
 ---
 

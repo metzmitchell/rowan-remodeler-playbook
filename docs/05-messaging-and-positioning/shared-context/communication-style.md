@@ -101,4 +101,4 @@ last_updated: "2025-12-18"
 
 - [Marketing & Communication Writing Rules](../copywriting/00-CORE-VOICE/marketing-communication-rules.md)
 - [Quick Voice Reference](../copywriting/00-CORE-VOICE/quick-voice-reference.md)
-- [Core Voice Index](../copywriting/00-CORE-VOICE/index.md)
+- [Core Voice Index](../copywriting/00-CORE-VOICE/overview.md)

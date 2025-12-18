@@ -95,11 +95,11 @@ Important! Use a casual voice, natural talking flow - writing a script to be spo
 4. **Required Links Section** - Always include these links:
 
 **🔨 Connect With Me:**
-- Website: https://[Your Consultancy].build
-- Blog: https://blog.[Your Consultancy].build
-- Tools & Resources: https://tools.[Your Consultancy].build
-- YouTube: https://www.youtube.com/@[Your Consultancy]Build
-- LinkedIn: https://www.linkedin.com/in/[Advisor]ell-metz
+- Website: https://yourconsultancy.build
+- Blog: https://blog.yourconsultancy.build
+- Tools & Resources: https://tools.yourconsultancy.build
+- YouTube: https://www.youtube.com/@yourconsultancybuild
+- LinkedIn: https://www.linkedin.com/in/mitch-metz
 
 ### Description Guidelines:
 - **First 2-3 lines** are critical - they appear in preview and must hook viewers
@@ -113,7 +113,7 @@ Important! Use a casual voice, natural talking flow - writing a script to be spo
 
 #### Required Link:
 **Always include this link (unless there is another specific link mentioned in the video):**
-[Your Consultancy] | Construction Industry Marketing: https://[Your Consultancy].build
+[Your Consultancy] | Construction Industry Marketing: https://yourconsultancy.build
 
 #### Tag Section:
 **Add a section for relevant tags to copy-paste into the tags field on YouTube:**

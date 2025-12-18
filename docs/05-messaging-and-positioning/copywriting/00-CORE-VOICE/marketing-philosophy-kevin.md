@@ -115,5 +115,5 @@ This marketing philosophy complements and extends existing copywriting rules:
 
 ## Related Content
 
-- [Quick Voice Reference](../copywriting/00-CORE-VOICE/quick-voice-reference.md) - Core voice principles
-- [Builder Industry Voice](../copywriting/01-VOICE-BY-CONTEXT/builder-industry-voice.md) - Industry-specific applications
+- [Quick Voice Reference](./quick-voice-reference.md) - Core voice principles
+- [Builder Industry Voice](../01-VOICE-BY-CONTEXT/builder-industry-voice.md) - Industry-specific applications

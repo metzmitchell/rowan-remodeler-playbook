@@ -9,4 +9,4 @@ last_updated: "2025-12-18"
 
 **Sites:**
 
-[https://gtmetrix.com/](https://gtmetrix.com/)[https://tools.pingdom.com/](https://tools.pingdom.com/)
+[https://gtmetrix.com/](https://gtmetrix.com/) [https://tools.pingdom.com/](https://tools.pingdom.com/)
