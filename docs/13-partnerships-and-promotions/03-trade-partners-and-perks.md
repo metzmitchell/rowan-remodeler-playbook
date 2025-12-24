@@ -1,5 +1,5 @@
 ---
-title: "Trade Partners and Perks"
+title: "3: Trade Partners and Perks"
 description: "Guide for creating mutually beneficial referral relationships and perks with local trade partners."
 tags: ["partnerships", "guide", "active"]
 last_updated: "2025-12-18"

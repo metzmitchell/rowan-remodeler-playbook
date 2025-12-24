@@ -1,5 +1,5 @@
 ---
-title: "Offline Marketing Channels"
+title: "1: Offline Marketing Channels"
 description: "A checklist of traditional offline advertising channels including billboards, transit stations, and publications."
 tags: ["advertising", "reference", "active"]
 last_updated: "2025-12-18"

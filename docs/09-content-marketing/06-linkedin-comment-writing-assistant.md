@@ -1,5 +1,5 @@
 ---
-title: "LinkedIn Comment Assistant"
+title: "6: LinkedIn Comment Assistant"
 description: "An AI writing assistant prompt for crafting realistic, high-quality comments on LinkedIn to increase visibility."
 tags: ["copywriting", "prompt", "active"]
 last_updated: "2025-12-18"

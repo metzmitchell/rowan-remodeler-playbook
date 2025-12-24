@@ -1,5 +1,5 @@
 ---
-title: "Local Directories"
+title: "1: Local Directories"
 description: "Task to set up and complete listings in local directories using citation building tools."
 tags: ["directories", "task", "active"]
 last_updated: "2025-12-18"

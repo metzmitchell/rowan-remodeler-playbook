@@ -1,5 +1,5 @@
 ---
-title: "Custom Home Dashboard Template"
+title: "17: Custom Home Dashboard Template"
 description: "A basic dashboard template tailored for custom home builders, tracking revenue, leads, and acquisition costs."
 tags: ["analytics", "template", "active"]
 last_updated: "2025-12-18"

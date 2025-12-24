@@ -1,5 +1,5 @@
 ---
-title: "Establish Top 5 KPIs"
+title: "4: Establish Top 5 KPIs"
 description: "Strategic task to identify and focus on the five most critical performance indicators for marketing success."
 tags: ["strategy", "task", "active"]
 last_updated: "2025-12-18"

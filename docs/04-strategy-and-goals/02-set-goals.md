@@ -1,5 +1,5 @@
 ---
-title: "Set Defined Goals"
+title: "2: Set Defined Goals"
 description: "Strategic task to set financial, measurable, and intangible goals for the marketing program."
 tags: ["strategy", "task", "active"]
 last_updated: "2025-12-18"

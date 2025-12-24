@@ -1,5 +1,5 @@
 ---
-title: "Offboarding SOP"
+title: "15: Offboarding SOP"
 description: "Standard operating procedure for cleanly ending a client engagement, including asset handoff and access removal."
 tags: ["systems", "sop", "active"]
 last_updated: "2025-12-18"

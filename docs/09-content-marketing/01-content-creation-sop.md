@@ -1,5 +1,5 @@
 ---
-title: "Content Creation SOP"
+title: "1: Content Creation SOP"
 description: "Comprehensive SOP for content creation, splintering across platforms, and technical videography standards."
 tags: ["content", "sop", "active"]
 last_updated: "2025-12-18"

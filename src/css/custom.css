@@ -62,20 +62,20 @@
   --ifm-col-width: 100%;
   flex: 0 0 auto;
   max-width: 100%;
-  padding: 0;
-  margin: 0 0 0.5rem 0;
+  padding: 0 !important;
+  margin: 0 0 0.1rem 0 !important;
 }
 
 .theme-doc-markdown > section.row > article.col:last-child {
-  margin-bottom: 0;
+  margin-bottom: 0 !important;
 }
 
 /* Make the card look like a compact list row (no divider lines) */
 .theme-doc-markdown > section.row > article.col > a.card {
-  padding: 0.6rem 0.75rem;
+  padding: 0.2rem 0.75rem !important;
   background: transparent;
   border: 1px solid transparent;
-  border-radius: 10px;
+  border-radius: 8px;
   box-shadow: none;
   transition: background-color 0.15s ease, border-color 0.15s ease;
 }
@@ -89,8 +89,8 @@
 .theme-doc-markdown > section.row > article.col > a.card h2 {
   font-size: 1.02rem;
   font-weight: 600;
-  margin: 0;
-  line-height: 1.35;
+  margin: 0 !important;
+  line-height: 1.25;
 }
 
 /* Allow wrapping + clamp to 2 lines for scannability */
@@ -106,8 +106,8 @@
 .theme-doc-markdown > section.row > article.col > a.card p {
   font-size: 0.85rem;
   color: var(--ifm-color-emphasis-700);
-  margin: 0.25rem 0 0 0;
-  line-height: 1.45;
+  margin: 0.05rem 0 0 0 !important;
+  line-height: 1.35;
 }
 
 /* Allow 2-line description (instead of single-line ellipsis) */

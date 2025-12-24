@@ -1,5 +1,5 @@
 ---
-title: "Buyer Personas Template"
+title: "6: Buyer Personas Template"
 description: "A template for defining ideal customer profiles, including demographics, pain points, goals, and information sources."
 tags: ["strategy", "template", "active"]
 last_updated: "2025-12-18"

@@ -32,7 +32,7 @@ function useCategoryItemsPlural() {
 
 function CardContainer({className, href, children}) {
   return (
-    <Link href={href} className={clsx('card padding--lg', className)}>
+    <Link href={href} className={clsx('card', className)}>
       {children}
     </Link>
   );

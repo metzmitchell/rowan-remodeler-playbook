@@ -1,5 +1,5 @@
 ---
-title: "Call Notes and Project Tracking"
+title: "13: Call Notes and Project Tracking"
 description: "A template for organizing call notes, tracking open and completed projects, and maintaining a directory of key project links."
 tags: ["systems", "template", "active"]
 last_updated: "2025-12-18"

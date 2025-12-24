@@ -1,5 +1,5 @@
 ---
-title: "CRM Usage Guide"
+title: "2: CRM Usage Guide"
 description: "Strategic guidance on using a CRM to track leads, client goals, and improve the overall client experience."
 tags: ["sales", "guide", "active"]
 last_updated: "2025-12-18"

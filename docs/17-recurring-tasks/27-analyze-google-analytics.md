@@ -1,5 +1,5 @@
 ---
-title: "Analyze Analytics Data"
+title: "27: Analyze Analytics Data"
 description: "Monthly task to analyze Google Analytics data for volume, conversions, and behavior insights."
 tags: ["recurring", "task", "active"]
 last_updated: "2025-12-18"

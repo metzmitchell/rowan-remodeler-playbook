@@ -1,5 +1,5 @@
 ---
-title: "Key Website Pages"
+title: "2: Key Website Pages"
 description: "Checklist of essential website pages required for a complete marketing platform, including service and location pages."
 tags: ["website", "reference", "active"]
 last_updated: "2025-12-18"

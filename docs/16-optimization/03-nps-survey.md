@@ -1,5 +1,5 @@
 ---
-title: "Net Promoter Survey (NPS)"
+title: "3: Net Promoter Survey (NPS)"
 description: "Guidance on creating a Net Promoter Survey using GatherUp to capture and manage client feedback."
 tags: ["optimization", "guide", "active"]
 last_updated: "2025-12-18"

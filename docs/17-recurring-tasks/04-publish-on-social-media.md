@@ -1,5 +1,5 @@
 ---
-title: "Daily Social Micro-Content"
+title: "4: Daily Social Micro-Content"
 description: "Daily task to publish at least one piece of micro-content (e.g., Stories, tweets) on social media."
 tags: ["recurring", "task", "active"]
 last_updated: "2025-12-18"

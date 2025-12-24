@@ -1,5 +1,5 @@
 ---
-title: "KPI Dashboard"
+title: "14: KPI Dashboard"
 description: "A detailed remodeling KPI dashboard template for tracking sales targets, ROMI, leads, and won deals by project type."
 tags: ["analytics", "template", "active"]
 last_updated: "2025-12-18"

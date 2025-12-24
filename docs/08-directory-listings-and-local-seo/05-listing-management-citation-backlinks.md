@@ -1,5 +1,5 @@
 ---
-title: "Listing Management Template"
+title: "5: Listing Management Template"
 description: "A tracking template for citation backlinks and directory listing credentials."
 tags: ["directories", "template", "active"]
 last_updated: "2025-12-18"

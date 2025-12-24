@@ -1,5 +1,5 @@
 ---
-title: "Strategic Partnerships"
+title: "22: Strategic Partnerships"
 description: "Quarterly task to identify and develop strategic partners for audience sharing and joint ventures."
 tags: ["recurring", "task", "active"]
 last_updated: "2025-12-18"

@@ -1,5 +1,5 @@
 ---
-title: "Annual Marketing Plan"
+title: "29: Annual Marketing Plan"
 description: "Annual task to create a marketing roadmap and schedule major projects for the new year."
 tags: ["recurring", "task", "active"]
 last_updated: "2025-12-18"

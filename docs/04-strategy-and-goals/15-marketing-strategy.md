@@ -1,5 +1,5 @@
 ---
-title: "Marketing Strategy Framework"
+title: "15: Marketing Strategy Framework"
 description: "A comprehensive framework for defining current situation, business goals, value proposition, and market segments."
 tags: ["strategy", "guide", "active"]
 last_updated: "2025-12-18"

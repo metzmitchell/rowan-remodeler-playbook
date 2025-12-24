@@ -1,5 +1,5 @@
 ---
-title: 16 General Business Kpi Dashboard Template
+title: "16: 16 General Business Kpi Dashboard Template"
 ---
 
 # 16 General Business Kpi Dashboard Template

@@ -1,5 +1,5 @@
 ---
-title: "Receive Admin Access"
+title: "8: Receive Admin Access"
 description: "Checklist and inventory for securing admin access to key marketing platforms, tools, and assets."
 tags: ["onboarding", "task", "active"]
 last_updated: "2025-12-18"

@@ -1,5 +1,5 @@
 ---
-title: "AI Business Coaching Prompt"
+title: "19: AI Business Coaching Prompt"
 description: "A high-leverage AI prompt for a business coach persona focused on first principles, ABM growth, and luxury construction."
 tags: ["systems", "prompt", "active"]
 last_updated: "2025-12-18"

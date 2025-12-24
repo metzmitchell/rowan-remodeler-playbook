@@ -1,5 +1,5 @@
 ---
-title: "LinkedIn Comment Guidelines"
+title: "7: LinkedIn Comment Guidelines"
 description: "AI prompt guidelines for generating natural, human-sounding comments on LinkedIn posts to build engagement."
 tags: ["copywriting", "prompt", "active"]
 last_updated: "2025-12-18"

@@ -1,5 +1,5 @@
 ---
-title: "Mobile Friendly Check"
+title: "17: Mobile Friendly Check"
 description: "Task to verify that the website is mobile-responsive and performs well across all mobile devices."
 tags: ["website", "task", "active"]
 last_updated: "2025-12-18"

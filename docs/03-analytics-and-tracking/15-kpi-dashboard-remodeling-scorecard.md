@@ -1,5 +1,5 @@
 ---
-title: KPI Dashboard Remodeling Scorecard
+title: "15: KPI Dashboard Remodeling Scorecard"
 ---
 
 # KPI Dashboard Remodeling Scorecard

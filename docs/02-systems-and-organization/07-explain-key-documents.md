@@ -1,5 +1,5 @@
 ---
-title: "Explain Key Documents"
+title: "7: Explain Key Documents"
 description: "A guide for explaining the purpose and usage of essential project documents to the client."
 tags: ["systems", "sop", "active"]
 last_updated: "2025-12-18"

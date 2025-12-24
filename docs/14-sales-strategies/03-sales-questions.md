@@ -1,5 +1,5 @@
 ---
-title: "Sales Discovery Questions"
+title: "3: Sales Discovery Questions"
 description: "A list of critical questions to ask during the sales process to improve client data and qualification."
 tags: ["sales", "template", "active"]
 last_updated: "2025-12-18"

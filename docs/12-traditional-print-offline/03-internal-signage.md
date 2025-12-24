@@ -1,5 +1,5 @@
 ---
-title: "Internal and Showroom Signage"
+title: "3: Internal and Showroom Signage"
 description: "Task to implement signage in showrooms, offices, and job sites to increase visibility of the business offering."
 tags: ["print", "task", "active"]
 last_updated: "2025-12-18"

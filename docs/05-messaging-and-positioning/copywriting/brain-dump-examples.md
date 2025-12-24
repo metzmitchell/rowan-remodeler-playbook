@@ -10,47 +10,6 @@ last_updated: "2025-12-18"
 ## My Organization Style
 **Context-first, highly structured communication that respects the reader's time**
 
-### Raw Brain Dump Example:
-```
-Need to get team feedback on landing page doc
-- It's mostly done but might need tweaks
-- Want them to comment in doc 
-- Images are just starting point
-- Lots of changes since Wednesday meeting
-- Designer needs options for images
-- Can keep updating after launch
-- Goal is professional and converts visitors
-- Made hero copy changes
-- Added proof elements about unlimited license
-- Reframed PM benefit language
-- Updated service categories
-- Changed project descriptions
-- Fixed design-build section
-- Want to add slider element
-```
-
-### How I Organize It:
-```
-**Clear Purpose Statement:**
-The Remodel Landing Page Doc is ready for your review. Once we make any changes from your feedback, we will build the landing page.
-
-**Organized by Category with Bold Headers:**
-
-**Here are some notes:**
-- Document should be thorough enough for 90% completion
-- Expect minor tweaks before launch ready
-- Can continue updates next month - perfection later
-
-**Comments & Images:**
-- Leave feedback as comments in doc
-- Images are starting point - suggest better options
-- Designer should have multiple image choices
-- Images easily swappable on landing page
-
-**Key Changes Since our Meeting Wednesday:**
-- [Detailed bullet list of specific changes]
-```
-
 ## My Patterns
 
 ### Opening:

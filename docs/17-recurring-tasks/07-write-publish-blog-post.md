@@ -1,5 +1,5 @@
 ---
-title: "Weekly Blog Publication"
+title: "7: Weekly Blog Publication"
 description: "Weekly task to write, publish, and share one new blog post to the website."
 tags: ["recurring", "task", "active"]
 last_updated: "2025-12-18"

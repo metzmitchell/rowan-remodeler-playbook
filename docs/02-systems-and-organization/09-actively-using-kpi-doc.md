@@ -1,5 +1,5 @@
 ---
-title: "Actively Using KPI Document"
+title: "9: Actively Using KPI Document"
 description: "SOP for the consistent usage and update of the primary KPI tracking document."
 tags: ["systems", "sop", "active"]
 last_updated: "2025-12-18"

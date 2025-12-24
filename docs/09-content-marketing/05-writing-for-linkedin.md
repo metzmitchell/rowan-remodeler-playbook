@@ -1,5 +1,5 @@
 ---
-title: "Writing for LinkedIn"
+title: "5: Writing for LinkedIn"
 description: "Strategic principles for LinkedIn writing, focusing on headlines, hooks, visual formatting, and simple tone."
 tags: ["content", "guide", "active"]
 last_updated: "2025-12-18"

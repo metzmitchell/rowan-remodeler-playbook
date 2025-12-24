@@ -1,5 +1,5 @@
 ---
-title: "Bi-Annual Keyword Search"
+title: "14: Bi-Annual Keyword Search"
 description: "Bi-annual task to search main keywords on Google and identify opportunities for increased visibility."
 tags: ["recurring", "task", "active"]
 last_updated: "2025-12-18"

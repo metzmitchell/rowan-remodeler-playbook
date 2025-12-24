@@ -1,5 +1,5 @@
 ---
-title: "Annual Messaging Review"
+title: "11: Annual Messaging Review"
 description: "Annual strategic review of brand messaging and positioning for relevance and impact."
 tags: ["recurring", "task", "active"]
 last_updated: "2025-12-18"

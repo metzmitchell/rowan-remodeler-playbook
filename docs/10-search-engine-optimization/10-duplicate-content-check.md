@@ -1,5 +1,5 @@
 ---
-title: "Duplicate Content Check"
+title: "10: Duplicate Content Check"
 description: "SEO task to identify and resolve minimal, duplicate, or thin content issues across the site."
 tags: ["seo", "task", "active"]
 last_updated: "2025-12-18"

@@ -1,5 +1,5 @@
 ---
-title: "Respond to Social Comments"
+title: "2: Respond to Social Comments"
 description: "Daily task to check social media platforms and ensure all comments receive a timely response."
 tags: ["recurring", "task", "active"]
 last_updated: "2025-12-18"

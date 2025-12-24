@@ -1,5 +1,5 @@
 ---
-title: "Winback Campaign"
+title: "7: Winback Campaign"
 description: "Sales strategy for re-engaging past clients to encourage repeat business or referrals."
 tags: ["sales", "task", "active"]
 last_updated: "2025-12-18"

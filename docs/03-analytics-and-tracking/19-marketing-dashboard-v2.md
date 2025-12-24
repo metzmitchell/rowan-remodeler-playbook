@@ -1,5 +1,5 @@
 ---
-title: "Marketing Dashboard Template"
+title: "19: Marketing Dashboard Template"
 description: "A framework for organizing marketing KPIs and goals from leadership level down to specific platform reports."
 tags: ["analytics", "template", "active"]
 last_updated: "2025-12-18"

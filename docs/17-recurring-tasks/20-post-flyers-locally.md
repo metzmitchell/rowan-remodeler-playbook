@@ -1,5 +1,5 @@
 ---
-title: "Local Offline Promotion"
+title: "20: Local Offline Promotion"
 description: "Quarterly task to post flyers or posters in the local community and common areas."
 tags: ["recurring", "task", "active"]
 last_updated: "2025-12-18"

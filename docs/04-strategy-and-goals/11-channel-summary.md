@@ -1,5 +1,5 @@
 ---
-title: Channel Summary
+title: "11: Channel Summary"
 ---
 
 # Channel Summary

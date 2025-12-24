@@ -1,5 +1,5 @@
 ---
-title: "Prompt: Creating Remodeler Context Documents"
+title: "22: Prompt: Creating Remodeler Context Documents"
 description: "Workflow + prompt templates to build a usable context pack for a design-build remodeling company."
 tags: ["onboarding", "prompt", "active"]
 last_updated: "2025-12-18"

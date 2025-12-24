@@ -1,5 +1,5 @@
 ---
-title: "Privacy Policy"
+title: "6: Privacy Policy"
 description: "Task to create and implement a standard privacy policy, especially for sites running paid advertising."
 tags: ["website", "task", "active"]
 last_updated: "2025-12-18"

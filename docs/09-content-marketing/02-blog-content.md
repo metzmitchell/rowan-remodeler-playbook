@@ -1,5 +1,5 @@
 ---
-title: "Blog Content Strategy"
+title: "2: Blog Content Strategy"
 description: "Guidelines for creating a comprehensive blog content strategy, including goals, frequency, and SME involvement."
 tags: ["content", "strategy", "active"]
 last_updated: "2025-12-18"

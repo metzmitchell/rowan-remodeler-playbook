@@ -1,5 +1,5 @@
 ---
-title: "Send First Invoice"
+title: "2: Send First Invoice"
 description: "Task to issue the initial invoice and communicate payment terms to the client."
 tags: ["onboarding", "task", "active"]
 last_updated: "2025-12-18"

@@ -1,5 +1,5 @@
 ---
-title: "User Experience Standards"
+title: "3: User Experience Standards"
 description: "Checklist for intuitive navigation, legibility, and the placement of social proof elements to enhance UX."
 tags: ["website", "reference", "active"]
 last_updated: "2025-12-18"

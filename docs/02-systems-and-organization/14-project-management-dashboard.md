@@ -1,5 +1,5 @@
 ---
-title: "Project Management Dashboard"
+title: "14: Project Management Dashboard"
 description: "A comprehensive template for tracking marketing projects, call notes, tasks, and organizing key resources."
 tags: ["systems", "template", "active"]
 last_updated: "2025-12-18"

@@ -1,5 +1,5 @@
 ---
-title: "Daily CRM Review"
+title: "3: Daily CRM Review"
 description: "Daily task to review the CRM, follow up with leads, and ensure every prospect has a next action date."
 tags: ["recurring", "task", "active"]
 last_updated: "2025-12-18"

@@ -1,5 +1,5 @@
 ---
-title: "Local Marketplace Listings"
+title: "21: Local Marketplace Listings"
 description: "Monthly task to publish or refresh listings on Craigslist, Facebook Marketplace, and other local platforms."
 tags: ["recurring", "task", "active"]
 last_updated: "2025-12-18"

@@ -1,5 +1,5 @@
 ---
-title: "Website Design Standards"
+title: "1: Website Design Standards"
 description: "Checklist for ensuring the website meets brand standards, accessibility, and high-quality design principles."
 tags: ["website", "reference", "active"]
 last_updated: "2025-12-18"

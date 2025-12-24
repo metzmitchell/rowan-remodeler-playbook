@@ -1,5 +1,5 @@
 ---
-title: "Bi-Annual Client Survey"
+title: "24: Bi-Annual Client Survey"
 description: "Bi-annual task to send out client feedback or NPS surveys to monitor satisfaction levels."
 tags: ["recurring", "task", "active"]
 last_updated: "2025-12-18"

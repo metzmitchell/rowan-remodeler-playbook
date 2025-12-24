@@ -1,5 +1,5 @@
 ---
-title: "6: Create Shared Working Documents"
+title: "Create Shared Working Documents"
 description: "A checklist for the client and marketing lead to set up essential shared working documents like KPI sheets and strategy docs."
 tags: ["onboarding", "task", "active"]
 last_updated: "2025-12-18"
@@ -8,14 +8,12 @@ last_updated: "2025-12-18"
 # Create Shared Working Documents
 
 **CLIENT:**
-Create a Google Drive folder and share access with your marketing lead
+In the Google Drive folder, copy templates and share access with your marketing lead
 
 ## Agency / Marketing Lead
 
 - [ ]  KPI Document
 - [ ]  Strategy Document
-- [ ]  [Project Management Dashboard (includes Call Notes)](./14-project-management-dashboard.md)
+- [ ]  Call Notes
 - [ ]  Login Credentials
-## Related Documents
-
-- [Project Management Dashboard](./14-project-management-dashboard.md)
+- [ ]  Channel Summary

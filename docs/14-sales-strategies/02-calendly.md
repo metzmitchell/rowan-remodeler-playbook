@@ -1,5 +1,5 @@
 ---
-title: "Calendly Configuration"
+title: "2: Calendly Configuration"
 description: "Guidance on using Calendly for appointment booking and conversion tracking in analytics."
 tags: ["systems", "guide", "active"]
 last_updated: "2025-12-18"

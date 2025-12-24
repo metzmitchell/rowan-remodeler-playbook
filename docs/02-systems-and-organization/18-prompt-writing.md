@@ -1,5 +1,5 @@
 ---
-title: "Prompt Writing Guidelines"
+title: "18: Prompt Writing Guidelines"
 description: "Comprehensive principles and specialized guidelines for writing effective AI prompts for research, copywriting, and analysis."
 tags: ["systems", "guide", "active"]
 last_updated: "2025-12-18"

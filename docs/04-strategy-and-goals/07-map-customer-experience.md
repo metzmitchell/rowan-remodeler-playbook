@@ -1,5 +1,5 @@
 ---
-title: "Map Customer Experience"
+title: "7: Map Customer Experience"
 description: "Task to visualize and document the complete customer journey from awareness to project completion."
 tags: ["strategy", "task", "active"]
 last_updated: "2025-12-18"

@@ -1,5 +1,5 @@
 ---
-title: "Posting Awards SOP"
+title: "13: Posting Awards SOP"
 description: "Standard operating procedure for recognizing and promoting business awards on the WordPress blog and portfolio."
 tags: ["content", "sop", "active"]
 last_updated: "2025-12-18"

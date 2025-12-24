@@ -1,5 +1,5 @@
 ---
-title: "Raise the Dead Campaign (Bi-Annual)"
+title: "19: Raise the Dead Campaign (Bi-Annual)"
 description: "Bi-annual sales strategy to re-engage past leads who were previously marked as dead."
 tags: ["recurring", "task", "active"]
 last_updated: "2025-12-18"

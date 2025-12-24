@@ -1,5 +1,5 @@
 ---
-title: "Raise the Dead Campaign"
+title: "8: Raise the Dead Campaign"
 description: "Sales strategy for reaching out to past leads to re-engage them with new options and availability."
 tags: ["sales", "task", "active"]
 last_updated: "2025-12-18"

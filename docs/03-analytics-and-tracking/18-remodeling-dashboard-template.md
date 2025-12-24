@@ -1,5 +1,5 @@
 ---
-title: 18 Remodeling Dashboard Template
+title: "18: 18 Remodeling Dashboard Template"
 ---
 
 # 18 Remodeling Dashboard Template

@@ -1,5 +1,5 @@
 ---
-title: "Create Shared Documents and Storage"
+title: "10: Create Shared Documents and Storage"
 description: "Task to set up shared file storage and create essential working documents."
 tags: ["onboarding", "task", "active"]
 last_updated: "2025-12-18"

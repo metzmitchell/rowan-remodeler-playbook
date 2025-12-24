@@ -1,5 +1,5 @@
 ---
-title: "Email Marketing Software"
+title: "4: Email Marketing Software"
 description: "A reference list of recommended email marketing software for various business types."
 tags: ["systems", "reference", "active"]
 last_updated: "2025-12-18"

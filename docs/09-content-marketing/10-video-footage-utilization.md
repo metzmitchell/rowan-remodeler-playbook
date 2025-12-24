@@ -1,5 +1,5 @@
 ---
-title: "Video Footage Utilization"
+title: "10: Video Footage Utilization"
 description: "SOP for organizing, utilizing, and outsourcing video footage to maximize content output and quality."
 tags: ["content", "sop", "active"]
 last_updated: "2025-12-18"
