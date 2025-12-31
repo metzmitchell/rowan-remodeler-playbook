@@ -1,11 +1,8 @@
 ---
-title: "Remodeling Dashboard Template"
-description: "Template: KPI dashboard template for remodeling companies tracking revenue, leads, consultations, contracts, acquisition costs, and expenses. Use this template when setting up KPI tracking for a remodeling business."
-tags: ["analytics", "template", "reference"]
-last_updated: "2025-12-18"
+title: 02 Remodeling Dashboard Template
 ---
 
-# Remodeling Dashboard Template
+# 02 Remodeling Dashboard Template
 
 |   | January | February | March | April | May | June | July | August | September | October | November | December | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

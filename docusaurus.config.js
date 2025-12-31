@@ -44,9 +44,15 @@ const config = {
   projectName: 'rowan-playbook', // Placeholder (no GitHub deployment used)
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'throw',
   onBrokenAnchors: 'throw',
   onDuplicateRoutes: 'throw',
+
+  // Markdown configuration (v4-compatible location for broken link handling)
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'throw',
+    },
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you

@@ -1,11 +1,8 @@
 ---
-title: "General Business KPI Dashboard Template"
-description: "Template: General business KPI dashboard template tracking revenue, leads, trials, acquisitions, expenses, website traffic, conversions, and channel performance. Use this template when setting up KPI tracking for a general business."
-tags: ["analytics", "template", "reference"]
-last_updated: "2025-12-18"
+title: 04 General Business Kpi Dashboard Template
 ---
 
-# General Business KPI Dashboard Template
+# 04 General Business Kpi Dashboard Template
 
 |   | January | February | March | April | May | June | July | August | September | October | November | December | Total |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
