@@ -68,4 +68,4 @@ Use this table to audit all existing assets.
 
 ## Related Documents
 
-- [Tools and Software](../02-systems-and-organization/01-tools-and-software.md)
+- [Tools and Software](/systems-and-organization/tools-and-software)

@@ -13,5 +13,5 @@ Perform a complete initial audit to understand the client's current status, asse
 ## Process
 
 1.  **Collect Assets**: Gather all available materials (website, social profiles, reviews, internal notes).
-2.  **Generate Context**: Use the [Context Document Creation Prompt](./06-context-document-creation-prompt.md) to turn these raw materials into a structured "Context Pack" for the AI.
+2.  **Generate Context**: Use the [Context Document Creation Prompt](/onboarding/context-document-creation-prompt) to turn these raw materials into a structured "Context Pack" for the AI.
 3.  **Analyze Gaps**: Compare the current state against best practices and the client's goals.
