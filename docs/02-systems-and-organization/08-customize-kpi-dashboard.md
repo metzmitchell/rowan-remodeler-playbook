@@ -7,4 +7,4 @@ last_updated: "2025-12-18"
 
 # Customize KPI Dashboard
 
-Customize the KPI template to suite your needs.
+Customize the KPI template to suit your needs.
