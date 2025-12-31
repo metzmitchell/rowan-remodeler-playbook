@@ -1,7 +1,7 @@
 ---
-title: "15: Offboarding SOP"
-description: "Standard operating procedure for cleanly ending a client engagement, including asset handoff and access removal."
-tags: ["systems", "sop", "active"]
+title: "Offboarding SOP"
+description: "Reference: Standard operating procedure for cleanly ending a client engagement, including asset handoff and access removal. Use this when an engagement ends to ensure clean termination."
+tags: ["systems", "reference", "sop"]
 last_updated: "2025-12-18"
 ---
 

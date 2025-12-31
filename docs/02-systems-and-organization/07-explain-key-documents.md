@@ -1,11 +1,11 @@
 ---
-title: "7: Explain Key Documents"
-description: "A guide for explaining the purpose and usage of essential project documents to the client."
-tags: ["systems", "sop", "active"]
+title: "Explain Key Documents SOP"
+description: "Reference: A guide for explaining the purpose and usage of essential project documents to the client. Use this SOP when onboarding clients to ensure they understand all shared documents."
+tags: ["systems", "reference", "sop"]
 last_updated: "2025-12-18"
 ---
 
-# Explain Key Documents
+# Explain Key Documents SOP
 
 ## Documents
 

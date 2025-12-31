@@ -1,11 +1,11 @@
 ---
-title: "8: Receive Admin Access"
-description: "Checklist and inventory for securing admin access to key marketing platforms, tools, and assets."
-tags: ["onboarding", "task", "active"]
+title: "Admin Access Checklist"
+description: "Reference: Detailed checklist and inventory table for securing admin access to key marketing platforms, tools, and assets. Use this during onboarding to track access requirements."
+tags: ["onboarding", "reference", "checklist"]
 last_updated: "2025-12-18"
 ---
 
-# Receive Admin Access
+# Admin Access Checklist
 
 Secure administrative access to all client marketing platforms. Use the checklist below for quick tracking and the detailed inventory table to document credentials or access status.
 

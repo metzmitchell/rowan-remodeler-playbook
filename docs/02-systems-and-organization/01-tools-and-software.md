@@ -1,11 +1,11 @@
 ---
-title: "1: Tools and Software"
-description: "Checklist of essential platform tools and software to be installed and configured for marketing operations."
-tags: ["systems", "reference", "active"]
+title: "Tools and Software Reference"
+description: "Reference: Checklist of essential platform tools and software to be installed and configured for marketing operations. Use this during initial setup to ensure all required platforms are installed."
+tags: ["systems", "reference", "checklist"]
 last_updated: "2025-12-18"
 ---
 
-# Tools and Software
+# Tools and Software Reference
 
 ## Checklist
 

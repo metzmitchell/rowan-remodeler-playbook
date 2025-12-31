@@ -1,7 +1,7 @@
 ---
-title: "5: Discovery Questionnaire"
-description: "The full question bank for client discovery, covering company snapshot, financials, goals, and marketing history."
-tags: ["onboarding", "template", "active"]
+title: "Discovery Questionnaire Template"
+description: "Template: Full question bank for client discovery covering company snapshot, financials, goals, and marketing history. Use this template when sending discovery questionnaires to new clients."
+tags: ["onboarding", "template", "reference"]
 last_updated: "2025-12-18"
 ---
 

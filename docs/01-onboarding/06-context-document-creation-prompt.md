@@ -1,11 +1,11 @@
 ---
-title: "22: Prompt: Creating Remodeler Context Documents"
-description: "Workflow + prompt templates to build a usable context pack for a design-build remodeling company."
-tags: ["onboarding", "prompt", "active"]
+title: "Context Document Creation Prompt"
+description: "Reference: Workflow and prompt templates to build a usable context pack for design-build remodeling companies. Use these prompts when creating client context documents during onboarding."
+tags: ["onboarding", "prompt", "reference"]
 last_updated: "2025-12-18"
 ---
 
-# Creating Remodeler Context Documents
+# Context Document Creation Prompt
 
 [Context Doc Examples]([Your Drive Folder])
 

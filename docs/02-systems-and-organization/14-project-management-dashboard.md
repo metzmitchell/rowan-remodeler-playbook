@@ -1,11 +1,11 @@
 ---
-title: "14: Project Management Dashboard"
-description: "A comprehensive template for tracking marketing projects, call notes, tasks, and organizing key resources."
-tags: ["systems", "template", "active"]
+title: "Project Management Dashboard Template"
+description: "Template: A comprehensive template for tracking marketing projects, call notes, tasks, and organizing key resources. Use this template when setting up the central project management hub."
+tags: ["systems", "template", "reference"]
 last_updated: "2025-12-18"
 ---
 
-# Project Management Dashboard
+# Project Management Dashboard Template
 
 This document serves as the central hub for managing marketing projects, tracking tasks, and recording meeting notes.
 
