@@ -1,3 +1,9 @@
+---
+title: "PRD Sub Folder Organization"
+id: prd-sub-folder-organization
+description: "Notes on improving folder page behaviors and link handling."
+---
+
 For all folder pages, I want to update.
 
 I want it to be basically a task list. 

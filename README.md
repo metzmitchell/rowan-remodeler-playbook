@@ -24,6 +24,20 @@ npm run build
 ```
 Outputs static assets to `build/`.
 
+## Validation (broken links & duplicate IDs)
+- `npm run validate` — fast checks for duplicate doc IDs, missing frontmatter, and broken internal links.
+- `npm run check` — validate + full production build.
+- Pre-commit hook runs `npm run validate` automatically (via Husky). If it fails, fix reported links/IDs before committing.
+
+### How broken links are detected
+- Only internal relative links (`./` or `../`) are validated.
+- Links with hashes are resolved without the hash and must point to an existing file (`.md`/`.mdx`).
+- Each doc must start with frontmatter. Missing frontmatter fails validation.
+
+### Duplicate ID detection
+- IDs come from frontmatter `id:`; if absent, the filename (without extension) is used.
+- Duplicate IDs across docs fail validation. Rename the file or set a unique `id:` in frontmatter.
+
 ## Preview build locally
 ```bash
 npm run serve

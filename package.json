@@ -8,6 +8,10 @@
     "start": "docusaurus start",
     "prebuild": "node scripts/convert-csv-to-md.js",
     "build": "docusaurus build",
+    "validate": "node scripts/validate-docs.js",
+    "check": "npm run validate && npm run build",
+    "precommit": "npm run validate",
+    "prepare": "husky install",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
@@ -30,7 +34,12 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.9.2",
-    "@docusaurus/types": "3.9.2"
+    "@docusaurus/types": "3.9.2",
+    "husky": "^9.0.10",
+    "lint-staged": "^15.2.10"
+  },
+  "lint-staged": {
+    "*.{md,mdx}": "node scripts/validate-docs.js"
   },
   "browserslist": {
     "production": [
