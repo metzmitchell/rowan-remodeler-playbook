@@ -13,71 +13,94 @@ This checklist guides you through establishing the foundational systems, tools, 
 
 ### Initial Infrastructure
 
-- [ ] **Set Up Tools and Software** - Install and configure essential marketing platforms including Google Analytics, Google Tag Manager, Google Search Console, CallRail (if applicable), and Drift chat. See [Tools and Software Reference](./01-tools-and-software.md) for complete checklist.
+- [ ] **Set Up Tools and Software** - Install and configure essential marketing platforms:
+  - [ ] Google Analytics
+  - [ ] Google Tag Manager
+  - [ ] Google Search Console
+  - [ ] CallRail (if applicable)
+  - [ ] Drift chat
+  
+  **Google Account Setup:** Rather than having various marketing-related software registered under the owner's email, consolidate it into one core email address. Ideally use `marketing@yourdomain.com` if you use GSuite, otherwise go to [accounts.google.com](http://accounts.google.com/) and sign up for a Gmail or attach an existing account as a Google account.
 
-- [ ] **Create Shared Working Documents** - Set up collaboration infrastructure with client. Create Google Drive folder and establish shared documents including KPI Document, Strategy Document, Project Management Dashboard, and Login Credentials. See [Create Shared Documents Guide](./02-create-shared-documents.md) for details.
+- [ ] **Create Shared Working Documents** - Set up collaboration infrastructure with client:
+  
+  **CLIENT:** Create a Google Drive folder and share access with your marketing lead
+  
+  **Agency / Marketing Lead:**
+  - [ ] KPI Document
+  - [ ] Strategy Document
+  - [ ] Project Management Dashboard (see [Project Management Dashboard Template](./01-project-management-dashboard.md))
+  - [ ] Login Credentials
 
-- [ ] **Customize KPI Dashboard** - Tailor the standard KPI template to include specific metrics most important to the business owner. See [Customize KPI Dashboard](./03-customize-kpi-dashboard.md) for guidance.
+- [ ] **Customize KPI Dashboard** - Tailor the standard KPI template to include specific metrics most important to the business owner. Customize to suit your needs.
 
-- [ ] **Develop Initial Marketing Budget** - Create an initial marketing budget based on business goals and channel priorities. See [Marketing Budget Guide](./04-marketing-budget.md) for approach.
+- [ ] **Develop Initial Marketing Budget** - Create an initial marketing budget based on business goals and channel priorities.
 
 ## Phase 2: Operational Systems
 
 ### CRM and Lead Management
 
-- [ ] **Set Up CRM Usage** - Configure CRM to track leads, client goals, and improve client experience. Store details including where they heard about you, their goals, why they chose you, and how to make the experience exceptional. See [CRM Usage Guide](./05-crm-usage-guide.md) for strategic guidance.
+- [ ] **Set Up CRM Usage** - Configure CRM to track leads, client goals, and improve client experience. Store details including:
+  - Where they heard about you first
+  - What their goals are
+  - Why they chose you
+  - What you can do to make the experience exceptional
 
 ### Communication and Documentation
 
-- [ ] **Explain Key Documents to Client** - Walk client through the purpose and usage of essential project documents including Login Credentials, KPI Document, Strategy Document, Project Management Dashboard, and Channel Summary. See [Explain Key Documents SOP](./06-explain-key-documents.md) for process.
+- [ ] **Explain Key Documents to Client** - Walk client through the purpose and usage of essential project documents:
+  - [ ] Login Credentials
+  - [ ] KPI Document
+  - [ ] Strategy Document
+  - [ ] Project Management Dashboard (includes Call Notes)
+  - [ ] Channel Summary
 
-- [ ] **Establish KPI Document Usage** - Set up consistent usage and update process for the primary KPI tracking document. See [Actively Using KPI Document SOP](./07-actively-using-kpi-doc.md) for procedures.
+- [ ] **Establish KPI Document Usage** - Set up consistent usage and update process for the primary KPI tracking document. Update regularly with current metrics.
 
-- [ ] **Establish Call Notes Process** - Document all meetings, decisions, and project updates in the Project Management Dashboard. See [Actively Using Call Notes SOP](./08-actively-using-call-notes.md) for workflow.
+- [ ] **Establish Call Notes Process** - Document all meetings, decisions, and project updates in the Project Management Dashboard. Use the dashboard as the central hub for all project communication and decisions.
 
 ### Ongoing Operations
 
-- [ ] **Plan Recurring Tasks** - Establish daily, weekly, and monthly marketing activities. Define ongoing tasks like website updates, blog posts, social posts, email campaigns, and ad experiments. See [Plan Recurring Tasks Guide](./09-plan-recurring-tasks.md) for planning approach.
+- [ ] **Plan Recurring Tasks** - Establish daily, weekly, and monthly marketing activities. Define ongoing tasks like:
+  - Website updates
+  - Blog posts
+  - Social posts
+  - Email campaigns
+  - Ad campaigns or experiments
 
-- [ ] **Choose Email Marketing Software** - Select appropriate email marketing platform based on business type and needs. See [Email Marketing Software Reference](./10-email-marketing-software.md) for options.
+- [ ] **Choose Email Marketing Software** - Select appropriate email marketing platform based on business type and needs. Options include:
+  - ConvertKit
+  - ActiveCampaign
+  - Hubspot
+  - Mailchimp
+  - Klaviyo (ecommerce)
+  - Drip (ecommerce)
 
 ## Phase 3: Advanced Systems
 
 ### Documentation and Organization
 
-- [ ] **Document Systems and Processes** - Actively document all repeatable marketing systems and operational processes for future reference and team onboarding. See [Document Systems Guide](./11-document-systems.md) for approach.
+- [ ] **Document Systems and Processes** - Actively document all repeatable marketing systems and operational processes for future reference and team onboarding.
 
-- [ ] **Set Up Project Management Dashboard** - Create central hub for managing marketing projects, tracking tasks, and recording meeting notes. See [Project Management Dashboard Template](./12-project-management-dashboard.md) for structure.
+- [ ] **Set Up Project Management Dashboard** - Create central hub for managing marketing projects, tracking tasks, and recording meeting notes. See [Project Management Dashboard Template](./01-project-management-dashboard.md) for structure.
 
 ## Phase 4: Specialized Tools
 
 ### AI and Prompt Engineering
 
-- [ ] **Create Context Documents** - Build usable context pack for the business using the specialized workflow. See [Prompt: Creating Context Documents](./13-prompt-creating-context-documents.md) for complete workflow and prompt templates.
+- [ ] **Create Context Documents** - Build usable context pack for the business using the specialized workflow. See [Prompt: Creating Context Documents](./02-prompt-creating-context-documents.md) for complete workflow and prompt templates.
 
-- [ ] **Review Prompt Writing Guidelines** - Understand principles and specialized guidelines for writing effective AI prompts for research, copywriting, and analysis. See [Prompt Writing Guidelines](./14-prompt-writing-guidelines.md) for comprehensive guide.
+- [ ] **Review Prompt Writing Guidelines** - Understand principles and specialized guidelines for writing effective AI prompts for research, copywriting, and analysis. See [Prompt Writing Guidelines](./03-prompt-writing-guidelines.md) for comprehensive guide.
 
 ## Phase 5: Offboarding (When Needed)
 
 ### End of Engagement
 
-- [ ] **Execute Offboarding Process** - When engagement ends, follow standard operating procedure for cleanly ending client engagement, including asset handoff and access removal. See [Offboarding SOP](./15-offboarding-sop.md) for complete process.
+- [ ] **Execute Offboarding Process** - When engagement ends, follow standard operating procedure for cleanly ending client engagement, including asset handoff and access removal. See [Offboarding SOP](./04-offboarding-sop.md) for complete process.
 
 ## Reference Documents
 
-- [Tools and Software Reference](./01-tools-and-software.md) - Checklist of essential platform tools and software
-- [Create Shared Documents Guide](./02-create-shared-documents.md) - Checklist for setting up shared working documents
-- [Customize KPI Dashboard](./03-customize-kpi-dashboard.md) - Task guidance for tailoring KPI template
-- [Marketing Budget Guide](./04-marketing-budget.md) - Approach for developing initial marketing budget
-- [CRM Usage Guide](./05-crm-usage-guide.md) - Strategic guidance on using CRM effectively
-- [Explain Key Documents SOP](./06-explain-key-documents.md) - Process for explaining essential documents to client
-- [Actively Using KPI Document SOP](./07-actively-using-kpi-doc.md) - Procedures for consistent KPI tracking
-- [Actively Using Call Notes SOP](./08-actively-using-call-notes.md) - Workflow for documenting meetings and decisions
-- [Plan Recurring Tasks Guide](./09-plan-recurring-tasks.md) - Planning approach for ongoing marketing activities
-- [Email Marketing Software Reference](./10-email-marketing-software.md) - List of recommended email marketing platforms
-- [Document Systems Guide](./11-document-systems.md) - Approach for documenting repeatable processes
-- [Project Management Dashboard Template](./12-project-management-dashboard.md) - Template for central project hub
-- [Prompt: Creating Context Documents](./13-prompt-creating-context-documents.md) - Workflow and prompt templates for context packs
-- [Prompt Writing Guidelines](./14-prompt-writing-guidelines.md) - Comprehensive guide for effective AI prompts
-- [Offboarding SOP](./15-offboarding-sop.md) - Standard operating procedure for ending engagements
-
+- [Project Management Dashboard Template](./01-project-management-dashboard.md) - Template for central project hub
+- [Prompt: Creating Context Documents](./02-prompt-creating-context-documents.md) - Workflow and prompt templates for context packs
+- [Prompt Writing Guidelines](./03-prompt-writing-guidelines.md) - Comprehensive guide for effective AI prompts
+- [Offboarding SOP](./04-offboarding-sop.md) - Standard operating procedure for ending engagements
