@@ -1,11 +1,11 @@
 ---
-title: "2: Blog Content Strategy"
-description: "Guidelines for creating a comprehensive blog content strategy, including goals, frequency, and SME involvement."
-tags: ["content", "strategy", "active"]
+title: "Blog Content Strategy Guide"
+description: "Reference: Framework for developing a comprehensive blog content strategy, including goals, categories, frequency, promotion, and implementation details. Use this during strategy development to structure your blog content approach."
+tags: ["content-marketing", "reference", "strategy"]
 last_updated: "2025-12-18"
 ---
 
-# Blog Content Strategy
+# Blog Content Strategy Guide
 
 **Create a blog content strategy**
 

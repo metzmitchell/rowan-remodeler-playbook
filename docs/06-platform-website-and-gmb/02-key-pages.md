@@ -1,11 +1,11 @@
 ---
-title: "2: Key Website Pages"
-description: "Checklist of essential website pages required for a complete marketing platform, including service and location pages."
-tags: ["website", "reference", "active"]
+title: "Key Pages Reference"
+description: "Reference: Checklist of essential website pages required for a complete marketing platform. Use during Phase 1 foundation setup."
+tags: ["platform-website-and-gmb", "reference", "checklist"]
 last_updated: "2025-12-18"
 ---
 
-# Key Website Pages
+# Key Pages Reference
 
 ## Checklist
 
@@ -13,3 +13,4 @@ last_updated: "2025-12-18"
 - [ ]  Pages for each service
 - [ ]  Pages for each location
 - [ ]  Audience Page(s)
+
