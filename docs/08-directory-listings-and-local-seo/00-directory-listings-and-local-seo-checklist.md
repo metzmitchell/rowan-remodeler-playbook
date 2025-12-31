@@ -27,7 +27,7 @@ Submit to the most authoritative directories first. These platforms have the hig
 
 - [ ] **Submit to Core Directories** - Create listings on Google Business Profile, Bing Places, Apple Maps, Facebook Business, Yelp, and Better Business Bureau. See [Citation Building Guide](./03-citation-building-guide.md) for priority tiers.
 
-- [ ] **Track Directory Credentials** - Document login credentials, URLs, and submission status for each directory in the [Listing Management Template](./02-listing-management-template.md).
+- [ ] **Track Directory Credentials** - Document login credentials, URLs, and submission status for each directory in the [Listing Management Template](./01-listing-management-template.md).
 
 - [ ] **Verify Listings Are Live** - Confirm each listing is published and accessible at the provided URL. Update the template with live URLs.
 
@@ -39,7 +39,7 @@ Industry directories often drive higher-quality leads and are trusted by search 
 
 - [ ] **Complete All Profile Fields** - Fill out complete profiles with descriptions, photos, services, and categories. Avoid duplicate content by writing unique descriptions for each platform.
 
-- [ ] **Update Listing Management Template** - Add all industry directory listings to the [Listing Management Template](./02-listing-management-template.md) with credentials and URLs.
+- [ ] **Update Listing Management Template** - Add all industry directory listings to the [Listing Management Template](./01-listing-management-template.md) with credentials and URLs.
 
 ## Phase 4: Citation Building Expansion
 
@@ -49,7 +49,7 @@ Expand your citation profile with additional directories to strengthen local SEO
 
 - [ ] **Consider Citation Building Service** - For Tier 4 general citation sites, consider using services like [Whitespark Citation Building Service](https://whitespark.ca/citation-building-submission-service/) to streamline the process while maintaining quality control on Tier 1-3 directories.
 
-- [ ] **Track All Submissions** - Document all directory submissions in the [Listing Management Template](./02-listing-management-template.md) regardless of submission method.
+- [ ] **Track All Submissions** - Document all directory submissions in the [Listing Management Template](./01-listing-management-template.md) regardless of submission method.
 
 ## Phase 5: Ongoing Consistency Maintenance
 
@@ -66,6 +66,6 @@ Maintain consistency and monitor your citation profile regularly. Inconsistencie
 ## Reference Documents
 
 - [NAP Consistency Process](./01-nap-consistency-process.md) - Step-by-step process for establishing and maintaining NAP consistency
-- [Listing Management Template](./02-listing-management-template.md) - Tracking template for citation backlinks and directory listing credentials
+- [Listing Management Template](./01-listing-management-template.md) - Tracking template for citation backlinks and directory listing credentials
 - [Citation Building Guide](./03-citation-building-guide.md) - Strategic guide for prioritizing directories and building citations effectively
 
