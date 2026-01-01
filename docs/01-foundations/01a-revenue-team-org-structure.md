@@ -33,8 +33,8 @@ This is not a Marketing Department. This is a **Revenue Team**—a unified struc
                                   │
            ┌──────────────────────┴──────────────────────┐
            │                                             │
-    MARKETING FUNCTION                          PROJECT DEVELOPMENT
-    Fractional CMO (MM)                         Director
+    MARKETING FUNCTION                          SALES FUNCTION
+    Fractional CMO (MM)                         Sales Director
            │                                             │
     ┌──────┴──────┐                          ┌───────────┼───────────┐
     │             │                          │           │           │
@@ -56,11 +56,11 @@ Social Media)
 | **Marketing Manager / Social Media** | SM | Social media management, content strategy, marketing execution, performance tracking |
 | **Admin / Marketing** | AM | Marketing administration, coordination, operations support, vendor liaison |
 
-### Project Development Team (Sales + Client Experience)
+### Sales Team (Sales + Client Experience)
 
 | Role | Person | Focus Areas |
 |------|--------|-------------|
-| **Project Development Director** | [Director] | Sales leadership, CX ownership, Assignment Selling, team management |
+| **Sales Director** | [Director] | Sales leadership, CX ownership, Assignment Selling, team management |
 | **Estimators** | Team | Project scoping, estimates, technical sales support |
 | **Interior Design** | Team | Design consultations, selections, client experience |
 | **Coordinator** | Team | Client communication, scheduling, project handoffs |
@@ -84,29 +84,29 @@ Social Media)
 ```
 Owner
 │
-├── PROJECT DEVELOPMENT DIRECTOR ─────────────────────────────────┐
+├── SALES DIRECTOR ────────────────────────────────────────────────────────┐
 │   │                                                                        │
 │   ├── SALES FUNCTION                                                       │
-│   │   ├── Lead Follow-Up & Qualification...... Director / Team                   │
-│   │   ├── Discovery Calls..................... Director / Estimators             │
-│   │   ├── Proposals & Estimates............... Estimators                  │
-│   │   ├── Assignment Selling Execution........ Director / Team ← SM (content)    │
-│   │   ├── Sales Pipeline Management........... Director → HubSpot                │
-│   │   └── Close Rate & Conversion Tracking.... Director → MM (reporting)         │
+│   │   ├── Lead Follow-Up & Qualification...... Director / Team            │
+│   │   ├── Discovery Calls..................... Director / Estimators      │
+│   │   ├── Proposals & Estimates............... Estimators                │
+│   │   ├── Assignment Selling Execution........ Director / Team ← SM (content)│
+│   │   ├── Sales Pipeline Management........... Director → HubSpot         │
+│   │   └── Close Rate & Conversion Tracking.... Director → MM (reporting)  │
 │   │                                                                        │
 │   ├── CLIENT EXPERIENCE (CX)                                               │
 │   │   ├── Pre-Construction Meetings........... Estimators / Interior Design│
-│   │   ├── Design Consultations................ Interior Design             │
-│   │   ├── Client Communication................ Coordinator                 │
+│   │   ├── Design Consultations................ Interior Design            │
+│   │   ├── Client Communication................ Coordinator                │
 │   │   ├── Project Handoffs.................... Coordinator → Operations    │
-│   │   ├── Client Satisfaction & Reviews....... Coordinator → MM (content)  │
-│   │   └── Testimonial Coordination............ Coordinator → SM (coordination)    │
+│   │   ├── Client Satisfaction & Reviews....... Coordinator → MM (content) │
+│   │   └── Testimonial Coordination............ Coordinator → SM (coordination)│
 │   │                                                                        │
 │   └── CRM USE (SALES SIDE)                                                 │
-│       ├── Deal Pipeline Management............ Director / Team                   │
-│       ├── Contact Records & Notes............. Team                        │
-│       ├── Assignment Selling Tracking......... Director → MM (review)            │
-│       └── Handoff Documentation............... Coordinator                 │
+│       ├── Deal Pipeline Management............ Director / Team             │
+│       ├── Contact Records & Notes............. Team                       │
+│       ├── Assignment Selling Tracking......... Director → MM (review)   │
+│       └── Handoff Documentation............... Coordinator                │
 │                                                                            │
 └── FRACTIONAL CMO (MM) ─────────────────────────────────────────────────────┤
     │                                                                        │
@@ -280,7 +280,7 @@ Marketing Qualified Lead (MQL) → Assignment Selling Content → Sales Qualifie
 | **Referrals**                  | Director                 | MM, AM                       | Director (relationships), AM (tracking)          |
 | **Sales Pipeline**             | Director                 | MM                           | Director / Team                                  |
 | **Assignment Selling**         | Director                 | SM, MM                       | Director (execution), SM (content)               |
-| **Client Experience**          | Director                 | Coordinator, Interior Design | Project Development Team                   |
+| **Client Experience**          | Director                 | Coordinator, Interior Design | Sales Team                                 |
 
 ---
 
@@ -315,7 +315,7 @@ Marketing Qualified Lead (MQL) → Assignment Selling Content → Sales Qualifie
 
 ---
 
-### Director — Project Development Director
+### Director — Sales Director
 
 **Primary Focus:** Own the sales function, drive Assignment Selling adoption, deliver exceptional client experience.
 
@@ -409,7 +409,7 @@ Per Sheridan, the sales team should participate in content creation. SM coordina
 
 ---
 
-### Project Development Team Members
+### Sales Team Members
 
 **Estimators**
 - Project scoping and estimates
@@ -651,7 +651,7 @@ This structure synthesizes:
 - Marcus Sheridan's Revenue Team and Assignment Selling frameworks
 - Kevin Whelan's 3 S's Framework (Strategy, Structure, Systems)
 - Gary Vee's "Day Trading Attention" and amplification model
-- [Company]'s existing Project Development Team structure
+- [Company]'s existing Sales Team structure
 - Marketing budget allocations
 - Revenue growth objectives
 
@@ -659,5 +659,5 @@ Review this document quarterly or when team composition changes.
 
 ---
 
-*This org structure unifies Marketing and Project Development as a Revenue Team, following Marcus Sheridan's framework. Both functions report to Owner but operate with shared ownership of the buyer's journey and aligned goals.*
+*This org structure unifies Marketing and Sales as a Revenue Team, following Marcus Sheridan's framework. Both functions report to Owner but operate with shared ownership of the buyer's journey and aligned goals.*
 
