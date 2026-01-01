@@ -1,5 +1,5 @@
 ---
-title: "5: Boilerplate Messaging"
+title: "Boilerplate Messaging"
 description: "Task to create standardized boilerplate copy including tagline, positioning, and descriptions for consistent brand usage."
 tags: ["messaging", "task", "active"]
 last_updated: "2025-12-18"

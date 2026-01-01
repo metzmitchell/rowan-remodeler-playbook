@@ -1,5 +1,5 @@
 ---
-title: "3: Positioning Statement"
+title: "Positioning Statement"
 description: "Task to develop a clear positioning statement defining the category, target market, and unique approach."
 tags: ["messaging", "task", "active"]
 last_updated: "2025-12-18"
