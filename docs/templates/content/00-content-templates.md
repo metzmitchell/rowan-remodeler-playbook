@@ -12,3 +12,4 @@ This file will host content templates (blog, social, video, email) tailored for 
 
 > **Coming Soon:** This section will be expanded with ready-to-use templates.
 
+

@@ -12,3 +12,4 @@ This doc will define marketing and sales terms in the context of builders and re
 
 > **Coming Soon:** This section will be expanded with detailed definitions and examples.
 
+

@@ -25,7 +25,7 @@ Establish a systematic referral program that incentivizes past clients and partn
 
 ## Phase 3: Client Appreciation & Retention
 
-- [ ] **Establish Client Gift Program** - Plan occasional small gifts (like holiday chocolates or project completion gifts) to show appreciation and improve retention. Determine appropriate occasions and gift types.
+- [ ] **Establish Client Gift Program** - Plan occasional small gifts (like holiday chocolates or project completion gifts) to show appreciation and improve retention. Determine appropriate occasions and gift types. See [Client Appreciation Gifts](./04-client-appreciation-gifts.md) for comprehensive gift strategies and budget guidelines.
 
 - [ ] **Implement Client Gift Delivery** - Set up process for delivering client gifts at appropriate touchpoints (project completion, holidays, anniversary of project completion).
 
@@ -37,5 +37,6 @@ Establish a systematic referral program that incentivizes past clients and partn
 
 ## Reference Documents
 
+- [Client Appreciation Gifts](./04-client-appreciation-gifts.md) - Comprehensive guide to strategic gifting for high-end remodelers and custom home builders
 - [Referral Program Guide](../08-systems-and-automation/recurring-tasks/02-referral-program-guide.md) - Quarterly task checklist for promoting referral program through email and other channels
 
