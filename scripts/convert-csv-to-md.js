@@ -135,8 +135,24 @@ title: ${title}
         md += '| ' + row.map((cell, idx) => formatCell(cell, idx === 0).replace(/\n/g, '<br/>')).join(' | ') + ' |\n';
       }
 
-      // 3. Write .md file
+      // 3. Check if a numbered version already exists to avoid duplicates
       const mdPath = file.replace(/\.csv$/, '.md');
+      const dir = path.dirname(mdPath);
+      const baseName = path.basename(mdPath);
+      const filesInDir = fs.readdirSync(dir);
+      
+      // Check if there's a numbered version (NN-filename.md) that would conflict
+      const hasNumberedVersion = filesInDir.some(f => {
+        const match = f.match(/^\d+-(.+)$/);
+        return match && match[1] === baseName;
+      });
+      
+      if (hasNumberedVersion) {
+        console.log(`Skipped: ${path.relative(docsDir, file)} (numbered version already exists)`);
+        return;
+      }
+      
+      // 4. Write .md file
       fs.writeFileSync(mdPath, md);
       console.log(`Converted: ${path.relative(docsDir, file)} -> ${path.relative(docsDir, mdPath)}`);
       
