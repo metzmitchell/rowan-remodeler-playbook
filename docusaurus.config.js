@@ -33,7 +33,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://semperfiremodeling.com',
+  url: 'https://semper-fi.rowan.build',
   // Set the /<baseUrl>/ pathname under which your site is served
   // (served at the root of the custom subdomain)
   baseUrl: '/',
