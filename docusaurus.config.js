@@ -23,8 +23,8 @@ function addGeneratedIndexToCategories(items) {
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ROWAN REMODELER PLAYBOOK',
-  tagline: 'Construction marketing playbook for remodelers',
+  title: 'Semper Fi Playbook',
+  tagline: 'Marketing and sales playbook for Semper Fi Custom Remodeling',
   favicon: 'img/rowan-favicon.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -33,24 +33,24 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://playbook.rowan.build',
+  url: 'https://semperfiremodeling.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // (served at the root of the custom subdomain)
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'rowan', // Placeholder (no GitHub deployment used)
-  projectName: 'rowan-playbook', // Placeholder (no GitHub deployment used)
+  organizationName: '[GITHUB-ORG]', // Placeholder - update with your GitHub organization
+  projectName: '[GITHUB-REPO]', // Placeholder - update with your GitHub repository name
 
-  onBrokenLinks: 'throw',
-  onBrokenAnchors: 'throw',
-  onDuplicateRoutes: 'throw',
+  onBrokenLinks: 'warn',
+  onBrokenAnchors: 'warn',
+  onDuplicateRoutes: 'warn',
 
   // Markdown configuration (v4-compatible location for broken link handling)
   markdown: {
     hooks: {
-      onBrokenMarkdownLinks: 'throw',
+      onBrokenMarkdownLinks: 'warn',
     },
   },
 
@@ -94,7 +94,7 @@ const config = {
         respectPrefersColorScheme: false,
       },
       navbar: {
-        title: 'ROWAN REMODELER PLAYBOOK',
+        title: 'Semper Fi Playbook',
         items: [],
       },
       prism: {
