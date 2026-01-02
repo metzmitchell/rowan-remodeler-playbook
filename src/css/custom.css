@@ -165,3 +165,23 @@ html.is-link-preview .container {
 a {
   -webkit-user-drag: none;
 }
+
+/* n8n Chat Widget Styling */
+#n8n-chat {
+  z-index: 9999 !important;
+}
+
+.n8n-chat-button {
+  position: fixed !important;
+  bottom: 24px !important;
+  right: 24px !important;
+  z-index: 9999 !important;
+}
+
+.n8n-chat-window {
+  position: fixed !important;
+  bottom: 90px !important;
+  right: 24px !important;
+  z-index: 9998 !important;
+  max-height: calc(100vh - 120px) !important;
+}

@@ -1,20 +1,21 @@
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment'
 
 export default function N8nChatWidget() {
+  const [loaded, setLoaded] = useState(false)
+  
   useEffect(() => {
-    if (!ExecutionEnvironment.canUseDOM) return
+    if (!ExecutionEnvironment.canUseDOM || loaded) return
     
-    // Extract username from basic auth (if available in cookie or session)
-    // For now, we'll use a simpler approach - get it from a meta tag or cookie
     const getUsername = () => {
-      // Try to get from cookie
-      const authCookie = document.cookie
+      // Get username from playbook_user cookie (set by middleware)
+      const playbookUser = document.cookie
         .split('; ')
-        .find(row => row.startsWith('auth_user='))
+        .find(row => row.startsWith('playbook_user='))
+        ?.split('=')[1]
       
-      if (authCookie) {
-        return authCookie.split('=')[1]
+      if (playbookUser) {
+        return playbookUser
       }
       
       // Fallback to generating a session ID
@@ -33,17 +34,43 @@ export default function N8nChatWidget() {
     
     const username = getUsername()
     
-    // Load n8n chat widget script
-    import('@n8n/chat').then(({ createChat }) => {
-      createChat({
-        webhookUrl: 'https://n8n.srv1192969.hstgr.cloud/webhook/a2e11700-0b35-4c77-bec3-d970131fa70f/chat',
-        loadPreviousSession: true,
-        metadata: { user: username },
+    // Load CSS first
+    const loadCSS = () => {
+      if (!document.getElementById('n8n-chat-css')) {
+        const link = document.createElement('link')
+        link.id = 'n8n-chat-css'
+        link.rel = 'stylesheet'
+        link.href = 'https://cdn.jsdelivr.net/npm/@n8n/chat/dist/style.css'
+        document.head.appendChild(link)
+      }
+    }
+    
+    loadCSS()
+    
+    // Add a small delay to ensure CSS is loaded
+    setTimeout(() => {
+      // Load n8n chat widget
+      import('@n8n/chat').then(({ createChat }) => {
+        console.log('Initializing n8n chat widget for user:', username)
+        
+        createChat({
+          webhookUrl: 'https://n8n.srv1192969.hstgr.cloud/webhook/a2e11700-0b35-4c77-bec3-d970131fa70f/chat',
+          loadPreviousSession: true,
+          metadata: { user: username },
+          initialMessages: ['Hello! How can I help you with the playbook today?'],
+          mode: 'window',
+          chatInputKey: 'chatInput',
+          chatSessionKey: `session_${username}`,
+          showWelcomeScreen: true,
+        })
+        
+        setLoaded(true)
+        console.log('n8n chat widget initialized successfully')
+      }).catch(error => {
+        console.error('Failed to load n8n chat widget:', error)
       })
-    }).catch(error => {
-      console.error('Failed to load n8n chat widget:', error)
-    })
-  }, [])
+    }, 500)
+  }, [loaded])
   
   return null
 }
