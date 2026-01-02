@@ -9,7 +9,7 @@ last_updated: "2025-12-18"
 
 **Use for:** All external-facing content including emails, marketing copy, social media, proposals, client communications, website content, and any writing that will be shared with others.
 
-**Cross-reference:** Always consult [communication-style.md](./communication-style.md) (GLOBAL WRITING STANDARD) first, then apply these specific rules for marketing and external communication.
+**Cross-reference:** Always consult [communication-style.md](./communication-style) (GLOBAL WRITING STANDARD) first, then apply these specific rules for marketing and external communication.
 
 ---
 
@@ -139,8 +139,8 @@ When writing marketing copy, use this structure:
 
 ## Cross-References
 
-- [Communication Style Guide](./communication-style.md) - GLOBAL WRITING STANDARD (mandatory reference)
+- [Communication Style Guide](./communication-style) - GLOBAL WRITING STANDARD (mandatory reference)
 
 ---
 
-*This document contains detailed rules for marketing and external communication. Always start with the [Communication Style Guide](./communication-style.md) for core voice principles, then apply these specific rules for external-facing content.*
+*This document contains detailed rules for marketing and external communication. Always start with the [Communication Style Guide](./communication-style) for core voice principles, then apply these specific rules for external-facing content.*

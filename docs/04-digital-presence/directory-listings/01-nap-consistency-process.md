@@ -68,7 +68,7 @@ Regular consistency checks ensure NAP remains accurate:
    - If you move, change phone numbers, or rebrand
    - Update Google Business Profile first
    - Then systematically update all directory listings
-   - Use the [Listing Management Template](./02-listing-management-template.md) to track updates
+   - Use the [Listing Management Template](./02-listing-management-template) to track updates
 
 3. **Use Consistency Tools**
    - BrightLocal Citation Tracker

@@ -64,4 +64,4 @@ Inputs: - The LinkedIn post content to comment on ("[paste post]")
 - Any specific thoughts or reactions to include in the comment
 - Personal experiences related to the post (if applicable)
 - Any closing thoughts or questions to ask in the comment
-Parent item: LinkedIn Comment Writing Assistant (LinkedIn%20Comment%20Writing%20Assistant%20218a968141c881dcba0ece9573666cc3.md)
+Parent item: LinkedIn Comment Writing Assistant (LinkedIn%20Comment%20Writing%20Assistant%20218a968141c881dcba0ece9573666cc3)

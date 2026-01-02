@@ -9,7 +9,7 @@ last_updated: "2025-12-18"
 
 This checklist organizes all recurring marketing activities by frequency to help you maintain consistent marketing operations. Complete tasks according to their schedule to ensure your marketing systems stay active and effective.
 
-**Note:** Before starting recurring tasks, ensure you've completed initial setup through the [Onboarding Checklist](../../templates/getting-started/00-onboarding-checklist.md) and [Systems and Automation Checklist](../00-systems-and-automation-checklist.md).
+**Note:** Before starting recurring tasks, ensure you've completed initial setup through the [Onboarding Checklist](../../templates/getting-started/00-onboarding-checklist) and [Systems and Automation Checklist](../00-systems-and-automation-checklist).
 
 ## Daily Tasks
 
@@ -47,7 +47,7 @@ This checklist organizes all recurring marketing activities by frequency to help
 
 ## Quarterly Tasks
 
-- [ ] **Promote Referral Program** - Remind existing clients about the referral program. See [Referral Program Guide](./02-referral-program-guide.md) for detailed checklist.
+- [ ] **Promote Referral Program** - Remind existing clients about the referral program. See [Referral Program Guide](./02-referral-program-guide) for detailed checklist.
 
 - [ ] **Implement Key Projects** - Execute at least three major projects identified in the marketing playbook.
 
@@ -65,11 +65,11 @@ This checklist organizes all recurring marketing activities by frequency to help
 
 - [ ] **Audit Industry Directories** - Review and update all listings in major industry directories for accuracy.
 
-- [ ] **Search Keywords & Check Rankings** - Search main keywords on Google and identify opportunities for increased visibility. See [Keyword Search Guide](./03-keyword-search-guide.md) for detailed process.
+- [ ] **Search Keywords & Check Rankings** - Search main keywords on Google and identify opportunities for increased visibility. See [Keyword Search Guide](./03-keyword-search-guide) for detailed process.
 
-- [ ] **Winback Campaign** - Reach out to past clients and invite them back. See [Winback Campaign Guide](./04-winback-campaign-guide.md) for process details.
+- [ ] **Winback Campaign** - Reach out to past clients and invite them back. See [Winback Campaign Guide](./04-winback-campaign-guide) for process details.
 
-- [ ] **Raise the Dead Campaign** - Re-engage past leads who were previously marked as dead. See [Raise the Dead Campaign Guide](./05-raise-the-dead-campaign-guide.md) for process details.
+- [ ] **Raise the Dead Campaign** - Re-engage past leads who were previously marked as dead. See [Raise the Dead Campaign Guide](./05-raise-the-dead-campaign-guide) for process details.
 
 - [ ] **Send Member Survey/NPS** - Send out client feedback or NPS surveys to monitor satisfaction levels. See [Using Surveys to Improve Your Business & Marketing](https://nation.everspaces.com/courses/fundamentals/182127-phase-4-organized-systemized-optimized-and-full/536217-using-surveys-to-improve-your-business-and-marketing) for guidance.
 
@@ -85,14 +85,14 @@ This checklist organizes all recurring marketing activities by frequency to help
 
 - [ ] **Review Annual Performance** - Evaluate performance and set strategic goals for the upcoming year.
 
-- [ ] **Create Annual Marketing Plan** - Create a roadmap for everything you wish to accomplish this year. See [Annual Marketing Plan Guide](./06-annual-marketing-plan-guide.md) for process details.
+- [ ] **Create Annual Marketing Plan** - Create a roadmap for everything you wish to accomplish this year. See [Annual Marketing Plan Guide](./06-annual-marketing-plan-guide) for process details.
 
 ## Reference Documents
 
-- [Planning Recurring Tasks Guide](./01-planning-recurring-tasks-guide.md) - Guide for establishing daily, weekly, and monthly marketing activities
-- [Referral Program Guide](./02-referral-program-guide.md) - Detailed checklist for promoting referral program
-- [Keyword Search Guide](./03-keyword-search-guide.md) - Process for searching keywords and checking rankings
-- [Winback Campaign Guide](./04-winback-campaign-guide.md) - Process for re-engaging past clients
-- [Raise the Dead Campaign Guide](./05-raise-the-dead-campaign-guide.md) - Process for re-engaging past leads
-- [Annual Marketing Plan Guide](./06-annual-marketing-plan-guide.md) - Process for creating annual marketing roadmap
+- [Planning Recurring Tasks Guide](./01-planning-recurring-tasks-guide) - Guide for establishing daily, weekly, and monthly marketing activities
+- [Referral Program Guide](./02-referral-program-guide) - Detailed checklist for promoting referral program
+- [Keyword Search Guide](./03-keyword-search-guide) - Process for searching keywords and checking rankings
+- [Winback Campaign Guide](./04-winback-campaign-guide) - Process for re-engaging past clients
+- [Raise the Dead Campaign Guide](./05-raise-the-dead-campaign-guide) - Process for re-engaging past leads
+- [Annual Marketing Plan Guide](./06-annual-marketing-plan-guide) - Process for creating annual marketing roadmap
 

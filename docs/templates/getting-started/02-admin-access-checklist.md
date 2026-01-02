@@ -68,4 +68,4 @@ Use this table to audit all existing assets.
 
 ## Related Documents
 
-- [Tools and Stack](../../08-systems-and-automation/07-tools-and-stack.md)
+- [Tools and Stack](../../08-systems-and-automation/07-tools-and-stack)

@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment';
-import LinkPreviewProvider from '@site/src/components/LinkPreview/LinkPreviewProvider';
+import N8nChatWidget from '@site/src/components/N8nChatWidget';
 
 export default function Root({ children }) {
   useEffect(() => {
@@ -37,8 +37,9 @@ export default function Root({ children }) {
   }, []);
 
   return (
-    <LinkPreviewProvider>
+    <>
       {children}
-    </LinkPreviewProvider>
+      <N8nChatWidget />
+    </>
   );
 }

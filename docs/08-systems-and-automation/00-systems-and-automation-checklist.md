@@ -9,6 +9,8 @@ last_updated: "2025-12-18"
 
 This checklist guides you through establishing the foundational systems, tools, and operational processes needed for effective marketing operations. Follow these steps in order to build a complete marketing infrastructure.
 
+**Systems Philosophy:** Systematize repeatable processes to free up time for high-value relationship building. Automate lead nurturing, follow-ups, and content distribution while keeping trust-critical touchpoints (discovery calls, proposals, client check-ins) human. The goal is efficiency without losing the personal connection that wins builder business.
+
 ## Phase 1: Foundation Setup
 
 ### Initial Infrastructure
@@ -29,7 +31,7 @@ This checklist guides you through establishing the foundational systems, tools, 
   **Agency / Marketing Lead:**
   - [ ] KPI Document
   - [ ] Strategy Document
-  - [ ] Project Management Dashboard (see [Project Management Dashboard Template](./08-project-management-dashboard.md))
+  - [ ] Project Management Dashboard (see [Project Management Dashboard Template](./08-project-management-dashboard))
   - [ ] Login Credentials
 
 - [ ] **Customize KPI Dashboard** - Tailor the standard KPI template to include specific metrics most important to the business owner. Customize to suit your needs.
@@ -45,6 +47,10 @@ This checklist guides you through establishing the foundational systems, tools, 
   - What their goals are
   - Why they chose you
   - What you can do to make the experience exceptional
+
+- [ ] **Establish Lead Qualification Process** - Set up lead scoring system in CRM to prioritize best-fit, ready-to-buy opportunities. Score leads based on project fit (budget, timeline, scope), engagement level (content consumed, responses), and qualification criteria. Focus sales time on highest-potential leads.
+
+- [ ] **Define Handoff and Follow-up Process** - Create clear handoff process from marketing to sales, including lead qualification criteria, notification triggers, and follow-up timelines. Ensure no leads fall through cracks between marketing nurture and sales outreach.
 
 ### Communication and Documentation
 
@@ -76,21 +82,29 @@ This checklist guides you through establishing the foundational systems, tools, 
   - Klaviyo (ecommerce)
   - Drip (ecommerce)
 
+### Marketing Automation
+
+- [ ] **Set Up Trigger-Based Workflows** - Configure event-driven automations for form fills, page visits, and quote requests to keep buyers moving without manual lag. Examples: welcome sequence after form fill, follow-up after pricing page visit, reminder after abandoned quote.
+
+- [ ] **Create Email Sequences** - Build welcome, nurture, and re-engagement email sequences that stay in touch without sounding automated. Use conversational tone and provide value in each message.
+
+- [ ] **Establish Lead Nurturing Program** - Set up long-term nurture campaigns for leads not ready to buy. Provide helpful, non-pushy follow-up content that keeps you top-of-mind during their 3-18 month research period.
+
 ## Phase 3: Advanced Systems
 
 ### Documentation and Organization
 
 - [ ] **Document Systems and Processes** - Actively document all repeatable marketing systems and operational processes for future reference and team onboarding.
 
-- [ ] **Set Up Project Management Dashboard** - Create central hub for managing marketing projects, tracking tasks, and recording meeting notes. See [Project Management Dashboard Template](./08-project-management-dashboard.md) for structure.
+- [ ] **Set Up Project Management Dashboard** - Create central hub for managing marketing projects, tracking tasks, and recording meeting notes. See [Project Management Dashboard Template](./08-project-management-dashboard) for structure.
 
 ## Phase 4: Specialized Tools
 
 ### AI and Prompt Engineering
 
-- [ ] **Create Context Documents** - Build usable context pack for the business using the specialized workflow. See [Prompt: Creating Context Documents](./09-prompt-creating-context-documents.md) for complete workflow and prompt templates.
+- [ ] **Create Context Documents** - Build usable context pack for the business using the specialized workflow. See [Prompt: Creating Context Documents](./09-prompt-creating-context-documents) for complete workflow and prompt templates.
 
-- [ ] **Review Prompt Writing Guidelines** - Understand principles and specialized guidelines for writing effective AI prompts for research, copywriting, and analysis. See [Prompt Writing Guidelines](./10-prompt-writing-guidelines.md) for comprehensive guide.
+- [ ] **Review Prompt Writing Guidelines** - Understand principles and specialized guidelines for writing effective AI prompts for research, copywriting, and analysis. See [Prompt Writing Guidelines](./10-prompt-writing-guidelines) for comprehensive guide.
 
 ## Phase 5: Offboarding (When Needed)
 
@@ -100,7 +114,7 @@ This checklist guides you through establishing the foundational systems, tools, 
 
 ## Reference Documents
 
-- [Project Management Dashboard Template](./08-project-management-dashboard.md) - Template for central project hub
-- [Prompt: Creating Context Documents](./09-prompt-creating-context-documents.md) - Workflow and prompt templates for context packs
-- [Prompt Writing Guidelines](./10-prompt-writing-guidelines.md) - Comprehensive guide for effective AI prompts
+- [Project Management Dashboard Template](./08-project-management-dashboard) - Template for central project hub
+- [Prompt: Creating Context Documents](./09-prompt-creating-context-documents) - Workflow and prompt templates for context packs
+- [Prompt Writing Guidelines](./10-prompt-writing-guidelines) - Comprehensive guide for effective AI prompts
 - Offboarding SOP - Maintained in internal operations (outside client playbook)

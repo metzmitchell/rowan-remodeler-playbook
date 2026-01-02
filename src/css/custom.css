@@ -42,12 +42,6 @@
   font-family: 'South Korea Serif', 'Times New Roman', Merriweather, serif;
 }
 
-/* Playbook Mindmap */
-.markmap-container {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
-}
-
 /* ===== TASK LIST STYLING FOR CATEGORY PAGES ===== */
 
 /* DocCardList renders: .theme-doc-markdown > section.row > article.col > a.card */

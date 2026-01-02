@@ -65,4 +65,4 @@ Inputs: - The LinkedIn post text to comment on
 - Your personal experience related to the post (if applicable)
 - Any specific praise or acknowledgment for the author (if applicable)
 Type: Text Generation
-Versions: Comment Generation Guidelines for LinkedIn Posts  (Comment%20Generation%20Guidelines%20for%20LinkedIn%20Posts%20218a968141c8811a907aff63946f5d96.md)
+Versions: Comment Generation Guidelines for LinkedIn Posts  (Comment%20Generation%20Guidelines%20for%20LinkedIn%20Posts%20218a968141c8811a907aff63946f5d96)

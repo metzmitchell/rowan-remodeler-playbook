@@ -1,19 +1,11 @@
 {
-  "name": "scaffold-temp",
+  "name": "semper-fi-playbook",
   "version": "0.0.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
-    "prestart": "node scripts/convert-csv-to-md.js",
     "start": "docusaurus start",
-    "prebuild": "node scripts/convert-csv-to-md.js",
     "build": "docusaurus build",
-    "validate": "node scripts/validate-docs.js",
-    "fix": "node scripts/fix-docs.js",
-    "fix:all": "npm run fix && npm run validate",
-    "check": "npm run fix && npm run validate && npm run build",
-    "precommit": "npm run fix:all",
-    "prepare": "husky install || true",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
@@ -24,24 +16,19 @@
   "dependencies": {
     "@docusaurus/core": "3.9.2",
     "@docusaurus/preset-classic": "3.9.2",
+    "@docusaurus/theme-search-algolia": "3.9.2",
     "@mdx-js/react": "^3.0.0",
+    "@n8n/chat": "^0.20.0",
+    "@vercel/kv": "^2.0.0",
     "clsx": "^2.0.0",
-    "csv-parse": "^6.1.0",
-    "d3": "^7.9.0",
-    "markmap-lib": "^0.18.12",
-    "markmap-view": "^0.18.12",
     "prism-react-renderer": "^2.3.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "vue": "^3.4.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.9.2",
-    "@docusaurus/types": "3.9.2",
-    "husky": "^9.0.10",
-    "lint-staged": "^15.2.10"
-  },
-  "lint-staged": {
-    "*.{md,mdx}": "node scripts/validate-docs.js"
+    "@docusaurus/types": "3.9.2"
   },
   "browserslist": {
     "production": [

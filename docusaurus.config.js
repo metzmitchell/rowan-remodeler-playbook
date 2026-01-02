@@ -8,19 +8,6 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
-function addGeneratedIndexToCategories(items) {
-  return items.map((item) => {
-    if (item.type === 'category') {
-      return {
-        ...item,
-        link: item.link ?? {type: 'generated-index'},
-        items: addGeneratedIndexToCategories(item.items),
-      };
-    }
-    return item;
-  });
-}
-
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Semper Fi Playbook',
@@ -70,10 +57,6 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           routeBasePath: '/',
-          async sidebarItemsGenerator({defaultSidebarItemsGenerator, ...args}) {
-            const items = await defaultSidebarItemsGenerator(args);
-            return addGeneratedIndexToCategories(items);
-          },
         },
         blog: false,
         theme: {
@@ -95,13 +78,19 @@ const config = {
       },
       navbar: {
         title: 'Semper Fi Playbook',
-        items: [],
+        items: [
+          {
+            type: 'search',
+            position: 'right',
+          },
+        ],
       },
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
       },
     }),
+  
 };
 
 export default config;

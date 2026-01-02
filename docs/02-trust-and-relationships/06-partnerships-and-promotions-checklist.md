@@ -27,6 +27,8 @@ Build strategic partnerships and referral programs that generate qualified leads
 
 - [ ] **Monitor Community Engagement** - Regularly check community groups for opportunities to provide value and build awareness of your services.
 
+- [ ] **Join Local Associations** - Consider joining Home Builders Associations (HBAs), chambers of commerce, and industry groups to build reputation, partnerships, and deal flow through in-person relationships and events.
+
 ## Phase 3: Realtor Referral Program
 
 - [ ] **Design Realtor Referral Structure** - Establish formal referral program with clear commission structure or referral fees for real estate agents who refer clients.
@@ -39,7 +41,7 @@ Build strategic partnerships and referral programs that generate qualified leads
 
 ## Phase 4: Trade Partner Relationships
 
-- [ ] **Identify Potential Trade Partners** - Research local businesses that serve similar clientele and could benefit from mutual referrals. See [Trade Partners and Perks Guide](./08-trade-partners-and-perks.md) for examples and relationship-building strategies.
+- [ ] **Identify Potential Trade Partners** - Research local businesses that serve similar clientele and could benefit from mutual referrals. See [Trade Partners and Perks Guide](./08-trade-partners-and-perks) for examples and relationship-building strategies.
 
 - [ ] **Develop Partnership Proposals** - Create mutually beneficial referral arrangements with local businesses. Consider offering client perks (discounts, special offers) while receiving referrals in return.
 
@@ -49,7 +51,7 @@ Build strategic partnerships and referral programs that generate qualified leads
 
 ## Phase 5: Strategic Promotions
 
-- [ ] **Develop Bundle Strategy** - Instead of discounting services, create value bundles or bonus offerings that maintain perceived value. See [Bundles and Bonuses Guide](./09-bundles-and-bonuses.md) for strategic guidance.
+- [ ] **Develop Bundle Strategy** - Instead of discounting services, create value bundles or bonus offerings that maintain perceived value. See [Bundles and Bonuses Guide](./09-bundles-and-bonuses) for strategic guidance.
 
 - [ ] **Design Seasonal Promotions** - Plan promotional bundles or bonuses for peak seasons or slower periods to maintain consistent lead flow.
 
@@ -67,6 +69,6 @@ Build strategic partnerships and referral programs that generate qualified leads
 
 ## Reference Documents
 
-- [Trade Partners and Perks Guide](./08-trade-partners-and-perks.md) - Examples and strategies for building mutually beneficial relationships with local businesses
-- [Bundles and Bonuses Guide](./09-bundles-and-bonuses.md) - Strategic guidance on offering value bundles instead of direct discounts
+- [Trade Partners and Perks Guide](./08-trade-partners-and-perks) - Examples and strategies for building mutually beneficial relationships with local businesses
+- [Bundles and Bonuses Guide](./09-bundles-and-bonuses) - Strategic guidance on offering value bundles instead of direct discounts
 

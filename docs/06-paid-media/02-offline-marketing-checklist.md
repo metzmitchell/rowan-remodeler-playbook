@@ -29,11 +29,11 @@ Establish offline marketing presence to complement digital efforts. These tactic
 
 ## Phase 4: Local Advertising Channels
 
-- [ ] **Local Posters and Sandwich Boards** - Utilize posters and sandwich boards in high-traffic local areas for increased visibility. Place strategically near job sites, in community centers, or at local gathering spots. See [Offline Marketing Channels Reference](./05-offline-marketing-channels-reference.md) for additional channel options.
+- [ ] **Local Posters and Sandwich Boards** - Utilize posters and sandwich boards in high-traffic local areas for increased visibility. Place strategically near job sites, in community centers, or at local gathering spots. See [Offline Marketing Channels Reference](./05-offline-marketing-channels-reference) for additional channel options.
 
-- [ ] **Evaluate Additional Offline Channels** - Review and consider additional offline advertising opportunities based on your target market and budget. See [Offline Marketing Channels Reference](./05-offline-marketing-channels-reference.md) for comprehensive list including billboards, transit advertising, newspaper, and industry publications.
+- [ ] **Evaluate Additional Offline Channels** - Review and consider additional offline advertising opportunities based on your target market and budget. See [Offline Marketing Channels Reference](./05-offline-marketing-channels-reference) for comprehensive list including billboards, transit advertising, newspaper, and industry publications.
 
 ## Reference Documents
 
-- [Offline Marketing Channels Reference](./05-offline-marketing-channels-reference.md) - Comprehensive checklist of traditional offline advertising channels and opportunities
+- [Offline Marketing Channels Reference](./05-offline-marketing-channels-reference) - Comprehensive checklist of traditional offline advertising channels and opportunities
 

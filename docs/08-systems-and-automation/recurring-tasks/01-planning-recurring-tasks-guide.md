@@ -18,7 +18,7 @@ Use this guide to establish your daily, weekly, and monthly marketing activities
 
 ## Setting Up Your System
 
-1. Review the [Recurring Tasks Checklist](./00-recurring-tasks-checklist.md) to understand all available tasks
+1. Review the [Recurring Tasks Checklist](./00-recurring-tasks-checklist) to understand all available tasks
 2. Identify which tasks are most critical for your business
 3. Set realistic frequencies based on your capacity
 4. Add tasks to your calendar or project management system

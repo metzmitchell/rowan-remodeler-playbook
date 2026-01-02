@@ -11,11 +11,11 @@ This checklist covers the complete workflow for setting up and optimizing a mark
 
 ## Phase 1: Foundation & Design
 
-- [ ] **Design Standards** - Ensure website meets brand standards, accessibility, and quality design principles. See [Design Standards Reference](./01-design-standards.md) for detailed checklist.
+- [ ] **Design Standards** - Ensure website meets brand standards, accessibility, and quality design principles. See [Design Standards Reference](./01-design-standards) for detailed checklist.
 
-- [ ] **Key Pages** - Create all essential website pages including service pages, location pages, and audience pages. See [Key Pages Reference](./02-key-pages.md) for complete list.
+- [ ] **Key Pages** - Create all essential website pages including service pages, location pages, and audience pages. See [Key Pages Reference](./02-key-pages) for complete list.
 
-- [ ] **User Experience Standards** - Verify intuitive navigation, legibility, and social proof elements. See [User Experience Standards Reference](./03-user-experience-standards.md) for detailed checklist.
+- [ ] **User Experience Standards** - Verify intuitive navigation, legibility, and social proof elements. See [User Experience Standards Reference](./03-user-experience-standards) for detailed checklist.
 
 ## Phase 2: Technical Infrastructure
 
@@ -23,7 +23,7 @@ This checklist covers the complete workflow for setting up and optimizing a mark
 
 - [ ] **URL Structure** - Ensure proper URL hierarchy and site structure for SEO.
 
-- [ ] **Privacy Policy** - Create and implement privacy policy (required for paid advertising). See [Privacy Policy Reference](./04-privacy-policy.md) for resources.
+- [ ] **Privacy Policy** - Create and implement privacy policy (required for paid advertising). See [Privacy Policy Reference](./04-privacy-policy) for resources.
 
 - [ ] **Sitemap.xml** - Ensure sitemap.xml is properly installed and submitted to search engines.
 
@@ -47,9 +47,9 @@ This checklist covers the complete workflow for setting up and optimizing a mark
 
 - [ ] **Page Speed Check** - Monitor website page speed and ensure it meets industry performance standards.
 
-- [ ] **Performance Scan** - Run comprehensive site performance scans via tools like GTMetrix and Pingdom. See [Performance Scan Reference](./05-performance-scan.md) for tools.
+- [ ] **Performance Scan** - Run comprehensive site performance scans via tools like GTMetrix and Pingdom. See [Performance Scan Reference](./05-performance-scan) for tools.
 
-- [ ] **Mobile-Friendly Check** - Verify website is mobile-responsive and performs well across all devices. See [Mobile-Friendly Check Reference](./06-mobile-friendly-check.md) for testing tool.
+- [ ] **Mobile-Friendly Check** - Verify website is mobile-responsive and performs well across all devices. See [Mobile-Friendly Check Reference](./06-mobile-friendly-check) for testing tool.
 
 ## Phase 5: Technical Audit
 
@@ -69,15 +69,15 @@ This checklist covers the complete workflow for setting up and optimizing a mark
 
 - [ ] **Bot Traffic Check** - Monitor to ensure no significant bot or spam traffic is impacting analytics accuracy.
 
-- [ ] **Live Chat Widget** - Install live chat widget to improve conversion and tracking. See [Live Chat Widget Reference](./07-live-chat-widget.md) for options.
+- [ ] **Live Chat Widget** - Install live chat widget to improve conversion and tracking. See [Live Chat Widget Reference](./07-live-chat-widget) for options.
 
 ## Reference Documents
 
-- [Design Standards Reference](./01-design-standards.md) - Detailed checklist for brand standards, accessibility, and design quality
-- [Key Pages Reference](./02-key-pages.md) - Complete list of essential website pages
-- [User Experience Standards Reference](./03-user-experience-standards.md) - Detailed UX checklist including navigation and social proof
-- [Privacy Policy Reference](./04-privacy-policy.md) - Resources for creating privacy policy
-- [Performance Scan Reference](./05-performance-scan.md) - Tools and resources for performance testing
-- [Mobile-Friendly Check Reference](./06-mobile-friendly-check.md) - Mobile responsiveness testing tool
-- [Live Chat Widget Reference](./07-live-chat-widget.md) - Recommended live chat widget options
+- [Design Standards Reference](./01-design-standards) - Detailed checklist for brand standards, accessibility, and design quality
+- [Key Pages Reference](./02-key-pages) - Complete list of essential website pages
+- [User Experience Standards Reference](./03-user-experience-standards) - Detailed UX checklist including navigation and social proof
+- [Privacy Policy Reference](./04-privacy-policy) - Resources for creating privacy policy
+- [Performance Scan Reference](./05-performance-scan) - Tools and resources for performance testing
+- [Mobile-Friendly Check Reference](./06-mobile-friendly-check) - Mobile responsiveness testing tool
+- [Live Chat Widget Reference](./07-live-chat-widget) - Recommended live chat widget options
 

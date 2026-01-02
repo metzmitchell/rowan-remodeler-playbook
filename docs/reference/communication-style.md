@@ -99,4 +99,4 @@ last_updated: "2025-12-18"
 
 ## Related docs in this playbook
 
-- [Marketing & Communication Writing Rules](./marketing-communication-rules.md)
+- [Marketing & Communication Writing Rules](./marketing-communication-rules)

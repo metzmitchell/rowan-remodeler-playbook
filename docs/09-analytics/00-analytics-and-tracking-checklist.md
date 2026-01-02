@@ -27,7 +27,7 @@ This checklist guides you through setting up comprehensive analytics and trackin
   - [ ] Sign-ups/registrations
   - [ ] Email newsletter subscribers
 
-- [ ] **Set Up UTM Parameter Tracking** - Establish UTM parameter usage for all external links. See [UTM Usage SOP](./02-utm-usage-sop.md) for guidelines and resources.
+- [ ] **Set Up UTM Parameter Tracking** - Establish UTM parameter usage for all external links. See [UTM Usage SOP](./02-utm-usage-sop) for guidelines and resources.
 
 - [ ] **Add UTM Parameters to Existing Links** - Audit and update all external links (email newsletters, ad campaigns, Google My Business, etc.) to include UTM parameters for accurate source tracking.
 
@@ -51,10 +51,10 @@ This checklist guides you through setting up comprehensive analytics and trackin
   - Marketing costs as a % of revenue
 
 - [ ] **Customize KPI Dashboard** - Select and customize the appropriate KPI dashboard template to suit your business needs. Choose from:
-  - [Remodeling Dashboard Template](./dashboards/02-remodeling-dashboard-template.md) - For remodeling companies
-  - [Custom Home Dashboard Template](./dashboards/03-custom-home-dashboard-template.md) - For custom home builders
-  - [General Business KPI Dashboard Template](./dashboards/00-general-business-kpi-dashboard-template.md) - For general businesses
-  - [Marketing Dashboard Template](./dashboards/01-marketing-dashboard-template.md) - Framework for organizing KPIs from leadership to platform level
+  - [Remodeling Dashboard Template](./dashboards/02-remodeling-dashboard-template) - For remodeling companies
+  - [Custom Home Dashboard Template](./dashboards/03-custom-home-dashboard-template) - For custom home builders
+  - [General Business KPI Dashboard Template](./dashboards/00-general-business-kpi-dashboard-template) - For general businesses
+  - [Marketing Dashboard Template](./dashboards/01-marketing-dashboard-template) - Framework for organizing KPIs from leadership to platform level
 
 - [ ] **Set Up KPI Document** - Create shared KPI tracking document and establish regular update schedule. Update metrics consistently to track performance over time.
 
@@ -73,14 +73,14 @@ This checklist guides you through setting up comprehensive analytics and trackin
   - On-site behavior by source (time on page, bounce rate, pages per session)
   - Campaign performance (using UTM parameters)
 
-- [ ] **Calculate Allowable CPA** - Determine allowable Cost Per Acquisition based on business model and margins. See [Allowable CPA Reference](./05-allowable-cpa.md) for spreadsheet tool.
+- [ ] **Calculate Allowable CPA** - Determine allowable Cost Per Acquisition based on business model and margins. See [Allowable CPA Reference](./05-allowable-cpa) for spreadsheet tool.
 
 ## Reference Documents
 
-- [UTM Usage SOP](./02-utm-usage-sop.md) - Guidelines on when and how to use UTM parameters for tracking
-- [Remodeling Dashboard Template](./dashboards/02-remodeling-dashboard-template.md) - KPI dashboard template for remodeling companies
-- [Custom Home Dashboard Template](./dashboards/03-custom-home-dashboard-template.md) - KPI dashboard template for custom home builders
-- [General Business KPI Dashboard Template](./dashboards/00-general-business-kpi-dashboard-template.md) - General business KPI dashboard template
-- [Marketing Dashboard Template](./dashboards/01-marketing-dashboard-template.md) - Framework for organizing marketing KPIs from leadership to platform level
-- [Allowable CPA Reference](./05-allowable-cpa.md) - Spreadsheet tool for calculating allowable Cost Per Acquisition
+- [UTM Usage SOP](./02-utm-usage-sop) - Guidelines on when and how to use UTM parameters for tracking
+- [Remodeling Dashboard Template](./dashboards/02-remodeling-dashboard-template) - KPI dashboard template for remodeling companies
+- [Custom Home Dashboard Template](./dashboards/03-custom-home-dashboard-template) - KPI dashboard template for custom home builders
+- [General Business KPI Dashboard Template](./dashboards/00-general-business-kpi-dashboard-template) - General business KPI dashboard template
+- [Marketing Dashboard Template](./dashboards/01-marketing-dashboard-template) - Framework for organizing marketing KPIs from leadership to platform level
+- [Allowable CPA Reference](./05-allowable-cpa) - Spreadsheet tool for calculating allowable Cost Per Acquisition
 

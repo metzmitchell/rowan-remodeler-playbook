@@ -89,7 +89,7 @@ For efficiency, consider using citation building services:
 
 ## Tracking Citations
 
-Use the [Listing Management Template](./02-listing-management-template.md) to track:
+Use the [Listing Management Template](./02-listing-management-template) to track:
 - Directory name and URL
 - Login credentials
 - Submission status

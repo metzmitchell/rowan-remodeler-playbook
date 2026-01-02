@@ -1,6 +1,6 @@
 ---
 title: "Build, QC, and Future Content"
-description: "How to verify the playbook, run builds, and what content to add next (per Organization-prd.md)."
+description: "How to verify the playbook, run builds, and what content to add next (per Organization-prd)."
 tags: ["reference", "qc", "process"]
 ---
 
