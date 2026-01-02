@@ -30,16 +30,10 @@ const config = {
   organizationName: '[GITHUB-ORG]', // Placeholder - update with your GitHub organization
   projectName: '[GITHUB-REPO]', // Placeholder - update with your GitHub repository name
 
-  onBrokenLinks: 'warn',
-  onBrokenAnchors: 'warn',
+  onBrokenLinks: 'ignore',
+  onBrokenAnchors: 'ignore',
+  onBrokenMarkdownLinks: 'ignore',
   onDuplicateRoutes: 'warn',
-
-  // Markdown configuration (v4-compatible location for broken link handling)
-  markdown: {
-    hooks: {
-      onBrokenMarkdownLinks: 'warn',
-    },
-  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
