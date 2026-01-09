@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Semper Fi Playbook',
-  tagline: 'Marketing and sales playbook for Semper Fi Custom Remodeling',
+  title: 'ROWAN REMODELER PLAYBOOK',
+  tagline: 'Construction marketing playbook for remodelers',
   favicon: 'img/rowan-favicon.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -20,7 +20,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://semper-fi.rowan.build',
+  url: 'https://playbook.rowan.build',
   // Set the /<baseUrl>/ pathname under which your site is served
   // (served at the root of the custom subdomain)
   baseUrl: '/',
@@ -30,10 +30,16 @@ const config = {
   organizationName: '[GITHUB-ORG]', // Placeholder - update with your GitHub organization
   projectName: '[GITHUB-REPO]', // Placeholder - update with your GitHub repository name
 
-  onBrokenLinks: 'ignore',
-  onBrokenAnchors: 'ignore',
-  onBrokenMarkdownLinks: 'ignore',
+  onBrokenLinks: 'warn',
+  onBrokenAnchors: 'warn',
   onDuplicateRoutes: 'warn',
+
+  // Markdown configuration (v4-compatible location for broken link handling)
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -60,21 +66,6 @@ const config = {
     ],
   ],
 
-  themes: [
-    [
-      require.resolve("@easyops-cn/docusaurus-search-local"),
-      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
-      ({
-        hashed: true,
-        language: ["en"],
-        indexDocs: true,
-        indexBlog: false,
-        indexPages: false,
-        docsRouteBasePath: "/",
-        highlightSearchTermsOnTargetPage: true,
-      }),
-    ],
-  ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -87,13 +78,8 @@ const config = {
         respectPrefersColorScheme: false,
       },
       navbar: {
-        title: 'Semper Fi Playbook',
-        items: [
-          {
-            type: 'search',
-            position: 'right',
-          },
-        ],
+        title: 'ROWAN REMODELER PLAYBOOK',
+        items: [],
       },
       prism: {
         theme: prismThemes.github,

@@ -1,5 +1,5 @@
 {
-  "name": "semper-fi-playbook",
+  "name": "rowan-remodeler-playbook",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -16,7 +16,6 @@
   "dependencies": {
     "@docusaurus/core": "3.9.2",
     "@docusaurus/preset-classic": "3.9.2",
-    "@easyops-cn/docusaurus-search-local": "^0.45.0",
     "@mdx-js/react": "^3.0.0",
     "@n8n/chat": "^0.20.0",
     "@vercel/kv": "^2.0.0",
