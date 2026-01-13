@@ -16,13 +16,13 @@ Before creating any new listings, establish your exact NAP format:
 1. **Business Name**: Choose one official name and use it consistently everywhere
    - If your legal name differs from your marketing name, decide which to use publicly
    - Avoid variations like "LLC" vs "Inc" unless legally required
-   - Example: "Semper Fi Custom Remodeling" (not "Semper Fi Remodeling" or "Semper Fi Custom Remodeling, LLC")
+   - Example: "ABC Custom Remodeling" (not "ABC Remodeling" or "ABC Custom Remodeling, LLC")
 
 2. **Address Format**: Standardize your address format
    - Include or exclude suite/unit numbers consistently
    - Use the same abbreviation style (St. vs Street, Ave vs Avenue)
    - Match exactly what appears on your Google Business Profile
-   - Example: "29 Montford Avenue, Ste 200, Asheville, NC 28801"
+   - Example: "123 Main Street, Ste 200, [Your City], [State] [ZIP]"
 
 3. **Phone Number**: Use one primary phone number
    - Include area code consistently

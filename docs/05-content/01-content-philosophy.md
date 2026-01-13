@@ -7,7 +7,7 @@ last_updated: "2025-01-01"
 
 # Content Philosophy
 
-**Owner:** MM (Strategy), SE (Execution), JH (Production)  
+**Owner:** Marketing Lead (Strategy), Content Manager (Execution), Video Producer (Production)  
 **Frameworks:** Marcus Sheridan Big 5, Gary Vee Day Trading Attention
 
 ---
@@ -68,8 +68,8 @@ Map content to all 5 stages: Awareness • Research • Consideration • Decisi
 - Build authority
 - Shorten sales cycles
 
-**SE's job:** Organize content so RJ can quickly find and assign the right piece  
-**RJ's job:** Share which content helps close deals → informs what SE creates more
+**Content Manager's job:** Organize content so Sales can quickly find and assign the right piece  
+**Sales' job:** Share which content helps close deals → informs what Content creates more
 
 ---
 
@@ -100,9 +100,9 @@ Map content to all 5 stages: Awareness • Research • Consideration • Decisi
 **Track:** Content-influenced leads, Assignment Selling completion rate, close rate by engagement level
 
 **In Revenue Team meetings:**
-- RJ: "What content helped close deals?"
-- SE: "Top-performing content by engagement"
-- MM: "What topics/formats are working?"
+- Sales: "What content helped close deals?"
+- Content: "Top-performing content by engagement"
+- Marketing: "What topics/formats are working?"
 - Team: "What should we create more of?"
 
 ---

@@ -7,7 +7,7 @@ last_updated: "2025-01-02"
 
 # KPIs That Matter
 
-**Owner:** MM (Strategy), Owner (Business Goals)  
+**Owner:** Marketing Lead (Strategy), Business Owner (Goals)  
 **Purpose:** Track metrics that tie marketing to revenue outcomes
 
 ---

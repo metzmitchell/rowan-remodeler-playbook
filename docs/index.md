@@ -1,16 +1,16 @@
 ---
-title: "Semper Fi Custom Remodeling Playbook"
-description: "Marketing and sales playbook for revenue team execution"
+title: "Remodeler Marketing Playbook"
+description: "Marketing and sales playbook for remodeling companies"
 hide_table_of_contents: false
 ---
 
-# Semper Fi Custom Remodeling Playbook
+# Remodeler Marketing Playbook
 
-Welcome to the Semper Fi marketing playbook. This is your complete guide to building the most known and trusted remodeling brand in Western North Carolina and Greenville.
+Welcome to the Remodeler Marketing Playbook. This is your complete guide to building the most known and trusted remodeling brand in your market.
 
 ## Mission
 
-Become the most known and trusted remodeler in Western North Carolina and Greenville.
+Become the most known and trusted remodeler in your market.
 
 ## Core Frameworks
 
@@ -45,22 +45,7 @@ This playbook is built on two proven frameworks:
 - **[Reference](reference/build-and-qc)** - Full books, benchmarks, glossary
 - **[Templates](templates/)** - Ready-to-use frameworks and documents
 
-## Active Priorities (Q1 2026)
-
-1. **Fix Attribution & Tracking** - HubSpot tracking audit, Google/Meta integration, UTM parameters
-2. **Build HubSpot System of Record** - Lead stages, deal pipelines, automated routing
-3. **Big 5 Content Audit** - Pricing, problems, comparisons, reviews, process content gaps
-4. **Assignment Selling Launch** - Content library, consumption tracking, MQL thresholds
-
-## Team
-
-- **MM** (CMO) - Strategy, analytics, systems
-- **RJ** (Sales) - Assignment Selling execution
-- **JH** (Video) - Content creation, footage utilization
-- **SE** (Content/SEO) - Big 5 content, AI workflows
-- **Vendor Partners** - Specialized execution support
-
 ---
 
-*This playbook synthesizes proven frameworks with Semper Fi's org structure and 2026 strategy. Use it as your operating system for marketing and sales execution.*
+*This playbook synthesizes proven marketing frameworks for remodeling companies. Use it as your operating system for marketing and sales execution.*
 

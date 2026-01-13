@@ -7,7 +7,7 @@ last_updated: "2025-01-01"
 
 # Sales-Marketing Alignment
 
-**Owner:** MM (Facilitator), RJ (Sales Lead), SE (Marketing Execution)  
+**Owner:** Marketing Lead (Facilitator), Sales Lead, Content Manager (Marketing Execution)  
 **Framework:** Revenue Team Model
 
 ---
@@ -17,11 +17,11 @@ last_updated: "2025-01-01"
 **Bi-weekly Revenue Team Meeting** is where alignment happens.
 
 **Standing Agenda:**
-1. **RJ shares:** Buyer questions, objections, what prospects are asking
-2. **SE/MM report:** Content performance, what's working in Assignment Selling
+1. **Sales shares:** Buyer questions, objections, what prospects are asking
+2. **Content/Marketing report:** Content performance, what's working in Assignment Selling
 3. **Team plans:** Editorial calendar based on sales intel
-4. **RJ reports:** Pipeline review, where deals stall
-5. **MM reports:** Marketing metrics (leads, CAC, attribution)
+4. **Sales reports:** Pipeline review, where deals stall
+5. **Marketing reports:** Marketing metrics (leads, CAC, attribution)
 6. **Team aligns:** Action items for next 2 weeks
 
 **See:** [Revenue Team Model](../01-foundations/01-the-revenue-team-model) for complete framework
@@ -41,45 +41,44 @@ last_updated: "2025-01-01"
 
 **Lead Flow:**
 ```
-Marketing generates lead (MM/SE/JH)
+Marketing generates lead
   ↓
-HubSpot capture + nurture (SE)
+CRM capture + nurture (Content Manager)
   ↓
-Assignment Selling content (SE/CRM Vendor)
+Assignment Selling content (Content/CRM Vendor)
   ↓
-Lead qualifies (passes to RJ)
+Lead qualifies (passes to Sales)
   ↓
-RJ continues Assignment Selling
+Sales continues Assignment Selling
   ↓
 Close
 ```
 
 **Content Flow:**
 ```
-RJ shares buyer question
+Sales shares buyer question
   ↓
-MM prioritizes
+Marketing Lead prioritizes
   ↓
-SE writes or JH films
+Content Manager writes or Video Producer films
   ↓
-SE adds to Assignment Selling library
+Content Manager adds to Assignment Selling library
   ↓
-RJ uses with prospects
+Sales uses with prospects
   ↓
-RJ reports what works
+Sales reports what works
   ↓
 Repeat
 ```
 
-**See:** [Semper Fi Org Structure](../../Org Structure/Semper Fi Marketing Org Structure) for complete process flows
 
 ---
 
 ## Marketing Makes Sales Look Great
 
 **Marketing provides:**
-- Educational content RJ assigns prospects (bio videos, process guides, Big 5 articles)
-- Sales kit materials (JH designs)
+- Educational content Sales assigns prospects (bio videos, process guides, Big 5 articles)
+- Sales kit materials (Video Producer designs)
 - CRM automation for follow-ups
 - Lead qualification before handoff
 - Data on which content helps close

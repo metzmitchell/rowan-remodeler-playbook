@@ -7,14 +7,14 @@ last_updated: "2025-01-01"
 
 # Blog Content Strategy
 
-**Owner:** SE (Content Creation), MM (Strategy)  
+**Owner:** Content Manager (Content Creation), Marketing Lead (Strategy)  
 **Framework:** Marcus Sheridan Big 5 + SEO Best Practices
 
 ---
 
 ## Blog Strategy Overview
 
-**Goal:** Become the #1 resource for remodeling questions in WNC and Greenville through comprehensive Big 5 content.
+**Goal:** Become the #1 resource for remodeling questions in your market through comprehensive Big 5 content.
 
 **Publishing frequency:** 1-2 posts/week (4-8/month)  
 **Length:** 1,500-2,500 words (comprehensive, SEO-optimized)
@@ -61,8 +61,8 @@ last_updated: "2025-01-01"
 ## SEO Optimization
 
 **Keyword targeting:**
-- Local: "kitchen remodel Asheville," "bathroom renovation Greenville SC"
-- Long-tail: "how much does kitchen remodel cost in Asheville"
+- Local: "kitchen remodel [Your City]," "bathroom renovation [Your City]"
+- Long-tail: "how much does kitchen remodel cost in [Your City]"
 - Big 5 aligned: "kitchen remodel mistakes," "quartz vs granite countertops"
 
 **Tools:**
@@ -79,7 +79,7 @@ last_updated: "2025-01-01"
 - Pageviews (top 10 posts drive 80% of traffic)
 - Time on page (target: 2+ min)
 - Leads generated per post
-- Assignment Selling usage (RJ tracks which posts he sends prospects)
+- Assignment Selling usage (Sales tracks which posts they send prospects)
 
 **In Revenue Team meetings:** Which posts helped close deals?
 

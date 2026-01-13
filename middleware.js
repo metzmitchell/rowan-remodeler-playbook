@@ -55,6 +55,6 @@ export default function middleware(req) {
   
   return new Response('Authentication required', {
     status: 401,
-    headers: { 'WWW-Authenticate': 'Basic realm="Semper Fi Playbook"' },
+    headers: { 'WWW-Authenticate': 'Basic realm="Remodeler Playbook"' },
   })
 }

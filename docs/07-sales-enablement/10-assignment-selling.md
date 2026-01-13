@@ -7,7 +7,7 @@ last_updated: "2025-01-01"
 
 # Assignment Selling
 
-**Owner:** RJ (Execution), SE (Content Library), MM (Strategy)  
+**Owner:** Sales Lead (Execution), Content Manager (Content Library), Marketing Lead (Strategy)  
 **Framework:** Marcus Sheridan's *Endless Customers*
 
 ---
@@ -28,15 +28,15 @@ last_updated: "2025-01-01"
 
 ## The 3 Ws of Assignment Selling
 
-1. **WHAT** to assign — Which content (SE creates/organizes)
-2. **WHEN** to assign it — Which sales stage (RJ defines)
-3. **WHY** it matters — How you communicate importance (RJ executes)
+1. **WHAT** to assign — Which content (Content Manager creates/organizes)
+2. **WHEN** to assign it — Which sales stage (Sales defines)
+3. **WHY** it matters — How you communicate importance (Sales executes)
 
 ---
 
-## Content Library Structure (SE Manages)
+## Content Library Structure (Content Manager Manages)
 
-**Organized in HubSpot by:**
+**Organized in CRM by:**
 - **Sales stage** (pre-discovery, pre-estimate, pre-contract, objection-handling)
 - **Topic** (pricing, process, reviews, comparisons, problems)
 - **Format** (video, blog, PDF guide, case study)
@@ -67,7 +67,7 @@ last_updated: "2025-01-01"
 
 ---
 
-## Assignment Selling Script (RJ Uses)
+## Assignment Selling Script (Sales Uses)
 
 **First inquiry response email:**
 
@@ -91,13 +91,13 @@ last_updated: "2025-01-01"
 
 ## Tracking Assignment Completion
 
-**In HubSpot:**
+**In CRM:**
 - Track which content each prospect opens/watches
 - Lead scoring based on engagement
 - Automated reminders if not completed
 - MQL → SQL trigger when threshold met (e.g., 3 of 4 pieces consumed)
 
-**RJ reviews:** Who's completing assignments (prioritize these leads), who's not (follow up or deprioritize)
+**Sales reviews:** Who's completing assignments (prioritize these leads), who's not (follow up or deprioritize)
 
 ---
 
@@ -119,9 +119,9 @@ last_updated: "2025-01-01"
 
 1. **Not requiring it** — "Hey, check this out if you want" doesn't work. Require it.
 2. **Assigning too much** — 20 min of content max, not 2 hours
-3. **Poor organization** — SE must make library searchable for RJ
-4. **Not tracking** — If HubSpot doesn't track engagement, you can't measure effectiveness
-5. **Sales doesn't actually use it** — RJ adoption is critical
+3. **Poor organization** — Content Manager must make library searchable for Sales
+4. **Not tracking** — If CRM doesn't track engagement, you can't measure effectiveness
+5. **Sales doesn't actually use it** — Sales adoption is critical
 
 ---
 

@@ -7,7 +7,7 @@ last_updated: "2025-01-02"
 
 # Objection Handling
 
-**Owner:** Sales Lead (RJ), Marketing (SE for content support)  
+**Owner:** Sales Lead, Marketing (Content for support)  
 **Purpose:** Address common objections with trust-first responses
 
 ---

@@ -7,7 +7,7 @@ last_updated: "2025-01-01"
 
 # Performance Creative
 
-**Owner:** Performance Media Vendor, JH (Assets), SE (Insights)  
+**Owner:** Performance Media Vendor, Video Producer (Assets), Content Manager (Insights)  
 **Framework:** Gary Vaynerchuk's Day Trading Attention
 
 ---
@@ -49,9 +49,9 @@ last_updated: "2025-01-01"
 
 ---
 
-## Asset Requirements from Semper Fi Team
+## Asset Requirements from Your Team
 
-### JH Provides (Creative Library)
+### Video Producer Provides (Creative Library)
 
 - Raw footage from every project (before, during, after)
 - Multiple angles and moments per project
@@ -62,7 +62,7 @@ last_updated: "2025-01-01"
 
 **Delivery:** Weekly batch to Performance Media Vendor
 
-### SE Provides (Insights)
+### Content Manager Provides (Insights)
 
 - Top-performing organic content (what resonated on TikTok, Instagram)
 - Trending formats/sounds/hooks
@@ -75,7 +75,7 @@ last_updated: "2025-01-01"
 
 ## Testing Process
 
-**Week 1:** Performance Media Vendor creates 20 variations from JH assets  
+**Week 1:** Performance Media Vendor creates 20 variations from Video assets  
 **Week 2:** Test all with small budget ($5-10 per variation)  
 **Week 3:** Kill bottom 50%, increase spend on top 50%  
 **Week 4:** Kill next bottom half, scale top 5  
@@ -121,22 +121,21 @@ last_updated: "2025-01-01"
 
 ## Vendor Requirements
 
-**See:** [Semper Fi Org Structure](../../Org Structure/Semper Fi Marketing Org Structure.md#vendor-requirements)
+**Performance Media Vendor Requirements:**
 
 **Performance Media Vendor must:**
 - Have Gary Vee "Day Trading Attention" mindset
 - Be comfortable testing 20-50+ variations constantly
 - Strong social media advertising expertise
 - Data-driven creative iteration
-- Work closely with JH (assets) and SE (organic insights)
+- Work closely with Video Producer (assets) and Content Manager (organic insights)
 
 ---
 
 ## Learn More
 
 - **Read:** [Paid Media Philosophy](00-paid-media-philosophy) — Organic-first strategy
-- **Resource:** [Gary Vee's Day Trading Attention](../Day_Trading_Attention_-_Gary_Vaynerchuk) — Chapters on creative and amplification
-- **Reference:** [Org Structure - Performance Media Vendor section](../../Org Structure/Semper Fi Marketing Org Structure.md#priority-1-performance-media-vendor)
+- **Resource:** Gary Vee's *Day Trading Attention* — Chapters on creative and amplification
 
 ---
 

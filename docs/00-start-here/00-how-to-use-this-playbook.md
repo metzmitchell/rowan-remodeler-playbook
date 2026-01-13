@@ -7,19 +7,19 @@ last_updated: "2025-01-01"
 
 # How to Use This Playbook
 
-**Audience:** Everyone on the Semper Fi Revenue Team (MM, RJ, JH, SE) and vendor partners  
+**Audience:** Everyone on your Revenue Team and vendor partners  
 **Purpose:** Get aligned fast, understand your role, know where to find what you need
 
 ---
 
 ## This Playbook Is Your Operating System
 
-This isn't a reference document you read once and forget. This is the **shared operating system** for how Semper Fi executes marketing and sales as a unified Revenue Team.
+This isn't a reference document you read once and forget. This is the **shared operating system** for how remodelers execute marketing and sales as a unified Revenue Team.
 
 Every strategy, process, and tactic documented here comes from:
 - **Marcus Sheridan's** *Endless Customers* framework (Revenue Team, Big 5, Assignment Selling)
 - **Gary Vaynerchuk's** *Day Trading Attention* approach (creative velocity, platform fluency, organic-first)
-- **Semper Fi's** org structure, 2026 budget, and market context (WNC, Greenville, Restoration)
+- Proven remodeling industry best practices and market context
 
 **Core philosophy:** Become the most known and trusted remodeler in your markets through transparent, educational content and exceptional client experience.
 
@@ -82,9 +82,11 @@ Every strategy, process, and tactic documented here comes from:
 
 ## Role-Based Quick Start
 
-### If You're MM (Fractional CMO)
+This playbook assumes a Revenue Team structure. Adapt the roles below to match your organization — you may have one person wearing multiple hats, or dedicated specialists for each function.
 
-**Your role:** Strategy, vendor management, Revenue Team facilitation, KPI oversight
+### Marketing Leadership (CMO/Marketing Director)
+
+**Responsibilities:** Strategy, vendor management, Revenue Team facilitation, KPI oversight
 
 **Start here:**
 1. [Marketing Philosophy](../01-foundations/00-marketing-philosophy) — Understand core principles
@@ -92,21 +94,21 @@ Every strategy, process, and tactic documented here comes from:
 3. [Marketing Readiness Assessment](01-marketing-readiness-assessment) — Baseline current state
 4. [Strategy Checklist](../03-strategy/00-strategy-checklist) — Ensure strategic foundation is solid
 
-**Your workflow:**
+**Typical workflow:**
 - **Weekly:** Check content calendar, review vendor deliverables, analyze performance data
-- **Bi-weekly:** Facilitate Revenue Team meeting with RJ and SE
+- **Bi-weekly:** Facilitate Revenue Team meeting with sales and content team
 - **Monthly:** KPI reporting, budget review, strategic adjustments
 - **Quarterly:** Comprehensive analysis, next quarter planning
 
-**Key docs you'll use constantly:**
+**Key docs:**
 - [Revenue Team Model](../01-foundations/01-the-revenue-team-model)
 - [Big 5 Content (Answering Hard Questions)](../05-content/16-answering-hard-questions)
-- [Assignment Selling](../07-sales-enablement/assignment-selling) (create this)
+- [Assignment Selling](../07-sales-enablement/assignment-selling)
 - [KPIs That Matter](../09-analytics/03-kpis-that-matter)
 
-### If You're RJ (Project Development Director)
+### Sales Leadership (Sales Director/Project Development)
 
-**Your role:** Sales leadership, Assignment Selling execution, client experience, sharing buyer intel
+**Responsibilities:** Sales process, Assignment Selling execution, client experience, sharing buyer intel
 
 **Start here:**
 1. [Revenue Team Model](../01-foundations/01-the-revenue-team-model) — Your partnership with marketing
@@ -114,39 +116,39 @@ Every strategy, process, and tactic documented here comes from:
 3. [Sales-Marketing Alignment](../07-sales-enablement/01-sales-marketing-alignment) — Handoff processes
 4. [Discovery Questions Template](../07-sales-enablement/04-sales-discovery-questions-template) — Big 5-aligned questions
 
-**Your workflow:**
-- **Daily:** Use Assignment Selling content with prospects, track in HubSpot
+**Typical workflow:**
+- **Daily:** Use Assignment Selling content with prospects, track in CRM
 - **Bi-weekly:** Participate in Revenue Team meeting, share buyer questions & objections
 - **Monthly:** Review close rates by content engagement, provide feedback on what's working
 
-**Key docs you'll use constantly:**
-- [Assignment Selling](../07-sales-enablement/assignment-selling) content library in HubSpot
+**Key docs:**
+- [Assignment Selling](../07-sales-enablement/assignment-selling) content library
 - [Objection Handling](../07-sales-enablement/06-objection-handling)
 - [Proposal and Pricing](../07-sales-enablement/07-proposal-and-pricing)
 
-### If You're JH (Video & Creative Production)
+### Video & Creative Production
 
-**Your role:** High-volume video production, creative assets, documenting projects
+**Responsibilities:** High-volume video production, creative assets, documenting projects
 
 **Start here:**
 1. [Content Philosophy](../05-content/01-content-philosophy) — What content builds trust
-2. [Video Footage Utilization](../05-content/12-video-footage-utilization-sop) — Your production workflow
+2. [Video Footage Utilization](../05-content/12-video-footage-utilization-sop) — Production workflow
 3. [AI in Marketing](../01-foundations/03-ai-in-marketing) — Tools to speed up editing (Descript, Opus Clip)
 4. [Social Media Strategy](../05-content/06-social-media-strategy) — Platform-specific content needs
 
-**Your workflow:**
-- **Weekly:** Film 2-3 project site visits, batch-edit content for SE to distribute
+**Typical workflow:**
+- **Weekly:** Film 2-3 project site visits, batch-edit content for distribution
 - **Bi-weekly:** Produce 1-2 long-form videos (case studies, educational), extract 10+ short clips
 - **Monthly:** Capture client testimonials, update portfolio content
 
-**Key docs you'll use constantly:**
+**Key docs:**
 - [Video Footage Utilization SOP](../05-content/12-video-footage-utilization-sop)
 - [Content Repurposing](../05-content/14-content-repurposing)
-- Gary Vee's *Day Trading Attention* (in docs folder) — Creative velocity mindset
+- Gary Vee's *Day Trading Attention* — Creative velocity mindset
 
-### If You're SE (SEO, Content & Coordination)
+### Content & SEO
 
-**Your role:** Content creation, HubSpot operations, Assignment Selling content library, social posting
+**Responsibilities:** Content creation, CRM operations, Assignment Selling content library, social posting
 
 **Start here:**
 1. [Content Philosophy](../05-content/01-content-philosophy) — Strategic foundation
@@ -155,24 +157,24 @@ Every strategy, process, and tactic documented here comes from:
 4. [AI in Marketing](../01-foundations/03-ai-in-marketing) — Use ChatGPT to draft faster
 5. [Social Media Strategy](../05-content/06-social-media-strategy) — Platform-specific posting
 
-**Your workflow:**
-- **Daily:** Post across social platforms (11x/day per Gary Vee approach), respond to inquiries
-- **Weekly:** Publish 1-2 blog posts (Big 5 topics), repurpose JH videos into social content
+**Typical workflow:**
+- **Daily:** Post across social platforms, respond to inquiries
+- **Weekly:** Publish 1-2 blog posts (Big 5 topics), repurpose videos into social content
 - **Bi-weekly:** Participate in Revenue Team meeting, add new content to Assignment Selling library
 - **Monthly:** SEO audit, content performance review
 
-**Key docs you'll use constantly:**
+**Key docs:**
 - [Big 5 Content](../05-content/16-answering-hard-questions)
 - [Blog Content Strategy](../05-content/04-blog-content-strategy)
 - [AI Content Workflows](../01-foundations/03-ai-in-marketing.md#ai-content-workflows)
 - [Email Marketing](../05-content/09-email-marketing)
 
-### If You're a Vendor Partner
+### Vendor Partners
 
-**Your role:** Specialized execution (Paid Ads, Performance Media, CRM Integration, Tech/Data)
+**Responsibilities:** Specialized execution (Paid Ads, Performance Media, CRM Integration, Tech/Data)
 
 **Start here:**
-1. [Marketing Philosophy](../01-foundations/00-marketing-philosophy) — Understand Semper Fi's approach
+1. [Marketing Philosophy](../01-foundations/00-marketing-philosophy) — Understand the approach
 2. [Revenue Team Model](../01-foundations/01-the-revenue-team-model) — How you fit into the system
 3. Your specialty section (Paid Media, Systems, Analytics)
 
@@ -188,27 +190,27 @@ Every strategy, process, and tactic documented here comes from:
 
 ### Week 1: Foundation & Assessment
 - [ ] **Everyone:** Read [Marketing Philosophy](../01-foundations/00-marketing-philosophy) and [Revenue Team Model](../01-foundations/01-the-revenue-team-model)
-- [ ] **MM:** Run [Marketing Readiness Assessment](01-marketing-readiness-assessment)
-- [ ] **MM:** Schedule first Revenue Team meeting with RJ and SE
+- [ ] **Marketing Lead:** Run [Marketing Readiness Assessment](01-marketing-readiness-assessment)
+- [ ] **Marketing Lead:** Schedule first Revenue Team meeting with sales and content team
 - [ ] **Everyone:** Review [Why Builders Are Different](../01-foundations/02-why-builders-are-different)
 
 ### Week 2: Quick Wins & Process Setup
 - [ ] **Team:** Execute [Quick Wins](02-quick-wins) for early momentum
-- [ ] **SE:** Claim and optimize all listings (Google, Bing, Foursquare per [AI in Marketing](../01-foundations/03-ai-in-marketing.md#aeo-strategy-for-semper-fi))
-- [ ] **JH:** Set up video production workflow per [Video Footage Utilization SOP](../05-content/12-video-footage-utilization-sop)
-- [ ] **RJ:** Map current sales process to identify Assignment Selling opportunities
+- [ ] **Content/SEO:** Claim and optimize all listings (Google, Bing, Foursquare per [AI in Marketing](../01-foundations/03-ai-in-marketing.md#aeo-strategy-for-remodelers))
+- [ ] **Video:** Set up video production workflow per [Video Footage Utilization SOP](../05-content/12-video-footage-utilization-sop)
+- [ ] **Sales Lead:** Map current sales process to identify Assignment Selling opportunities
 
 ### Week 3: Content & Strategy
-- [ ] **MM + SE:** Create 90-day content calendar based on [Big 5 framework](../05-content/16-answering-hard-questions)
-- [ ] **SE:** Set up AI workflows per [AI in Marketing](../01-foundations/03-ai-in-marketing.md#ai-content-workflows)
-- [ ] **JH:** Film first round of content (bio video, what to expect video, portfolio updates)
-- [ ] **RJ:** Identify top buyer objections to inform content priorities
+- [ ] **Marketing + Content:** Create 90-day content calendar based on [Big 5 framework](../05-content/16-answering-hard-questions)
+- [ ] **Content/SEO:** Set up AI workflows per [AI in Marketing](../01-foundations/03-ai-in-marketing.md#ai-content-workflows)
+- [ ] **Video:** Film first round of content (bio video, what to expect video, portfolio updates)
+- [ ] **Sales Lead:** Identify top buyer objections to inform content priorities
 
 ### Week 4: Systems & Measurement
-- [ ] **SE:** Organize Assignment Selling content library in HubSpot
-- [ ] **MM:** Set up KPI dashboard per [KPIs That Matter](../09-analytics/03-kpis-that-matter)
+- [ ] **Content/SEO:** Organize Assignment Selling content library in CRM
+- [ ] **Marketing Lead:** Set up KPI dashboard per [KPIs That Matter](../09-analytics/03-kpis-that-matter)
 - [ ] **Team:** Hold first official Revenue Team meeting using [meeting agenda](../templates/getting-started/revenue-team-meeting-agenda)
-- [ ] **MM:** Begin vendor onboarding (Performance Media, Paid Ads, etc.)
+- [ ] **Marketing Lead:** Begin vendor onboarding (Performance Media, Paid Ads, etc.)
 
 ---
 
@@ -230,7 +232,7 @@ Every strategy, process, and tactic documented here comes from:
 - This ensures everyone follows the same process
 
 **4. Add implementation notes**
-- When you apply a strategy, note how you customized it for Semper Fi
+- When you apply a strategy, note how you customized it for your company
 - Helps future team members understand context
 
 **5. Don't edit templates directly**
@@ -273,12 +275,6 @@ Every strategy, process, and tactic documented here comes from:
 - **Marcus Sheridan:** [*Endless Customers* summary](../../Marketing Thinking Jay/Marcus Sheridan) and full book in docs
 - **Gary Vaynerchuk:** [*Day Trading Attention* summary](../../Marketing Thinking Jay/Gary V) and full book in docs
 
-### Org Structure Reference
-- [Semper Fi Marketing Org Structure](../../Org Structure/Semper Fi Marketing Org Structure) — Complete team & vendor roles
-
-### 2026 Strategic Context
-- [2026 Marketing Budget](../../Marketing Strategy From OneDrive/2026 Semper Fi Marketing Budget - Complete) — $241K across WNC, GVL, Restoration
-- [AI Search Optimization Guide](../../Marketing Strategy From OneDrive/Complete Marketing Strategy and AI Search Optimization Guide) — Detailed AEO strategy
 
 ---
 

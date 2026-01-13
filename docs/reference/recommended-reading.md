@@ -7,7 +7,7 @@ last_updated: "2025-01-01"
 
 # Recommended Reading
 
-**Purpose:** Core resources that inform the Semper Fi marketing and sales approach
+**Purpose:** Core resources that inform this playbook's marketing and sales approach
 
 ---
 
@@ -27,7 +27,7 @@ last_updated: "2025-01-01"
 - [Full book in docs folder](endless-customers-full-book)
 - [Summary with key takeaways](../../Marketing Thinking Jay/Marcus Sheridan)
 
-**Most relevant for:** MM (strategy), RJ (Assignment Selling), SE (Big 5 content)
+**Most relevant for:** Marketing Lead (strategy), Sales Lead (Assignment Selling), Content Manager (Big 5 content)
 
 ---
 
@@ -46,24 +46,9 @@ last_updated: "2025-01-01"
 - [Full book in docs folder](../Day_Trading_Attention_-_Gary_Vaynerchuk)
 - [Summary with key quotes](../../Marketing Thinking Jay/Gary V)
 
-**Most relevant for:** JH (creative production), SE (social posting), Performance Media Vendor (amplification)
+**Most relevant for:** Video Producer (creative production), Content Manager (social posting), Performance Media Vendor (amplification)
 
 ---
-
-## Org Structure & Strategy Context
-
-### Semper Fi-Specific Resources
-
-**Org structure:**
-- [Semper Fi Marketing Org Structure](../../Org Structure/Semper Fi Marketing Org Structure) — Complete team roles, vendor requirements, process flows
-
-**2026 Strategy:**
-- [2026 Marketing Budget - Complete](../../Marketing Strategy From OneDrive/2026 Semper Fi Marketing Budget - Complete) — $241K budget across WNC, GVL, Restoration
-- [Complete Marketing Strategy and AI Search Optimization Guide](../../Marketing Strategy From OneDrive/Complete Marketing Strategy and AI Search Optimization Guide) — AEO tactics
-
-**Discovery & Onboarding:**
-- [Discovery Questionnaire](../../Onboarding Semper Fi/Discovery Questionnaire Semper Fi)
-- [Onboarding Notes](../../Onboarding Semper Fi/Onboarding Semper Fi Notes)
 
 ---
 

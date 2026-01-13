@@ -1,13 +1,13 @@
 ---
 title: "AI-Powered Experiences"
-description: "Automated lead assistance tools: self-pricing, design visualizers, AI concierge, and personalized content recommendations."
+description: "Automated lead assistance tools: self-pricing, design visualizers, and personalized content recommendations."
 tags: ["content", "buyer-resources", "ai", "active"]
 last_updated: "2025-01-02"
 ---
 
 # AI-Powered Experiences
 
-**Owner:** MM (Strategy), SE (Implementation), Tech Vendor (Development)
+**Owner:** Marketing Lead (Strategy), Content Manager (Implementation), Tech Vendor (Development)
 
 **Goal:** Help leads with their projects automatically — without requiring human time for every interaction.
 
@@ -52,7 +52,7 @@ AI has commoditized what used to require custom software development. Tools that
 - Addresses the #1 Big 5 question immediately
 - Pre-qualifies leads (budget fit identified before first call)
 - Builds trust through transparency
-- Positions Semper Fi as the "no BS" contractor
+- Positions you as the "no BS" contractor
 
 ### Implementation
 
@@ -61,16 +61,16 @@ AI has commoditized what used to require custom software development. Tools that
 - Square footage or room size
 - Scope (cosmetic refresh, partial remodel, full gut)
 - Material tier preference (good, better, best)
-- Location (Asheville area, Greenville area)
+- Location (your service areas)
 
 **Output:**
-- Price range (e.g., "$45,000 - $65,000 for a mid-range kitchen remodel in Asheville")
+- Price range (e.g., "$45,000 - $65,000 for a mid-range kitchen remodel in [Your City]")
 - Breakdown by category (cabinets, countertops, labor, design)
 - Next step CTA: "Schedule a consultation for an exact quote"
 
 **Example logic:**
 ```
-Kitchen remodel in Asheville:
+Kitchen remodel example:
 - Base: $25,000 (cosmetic) / $50,000 (partial) / $85,000+ (full gut)
 - Material tier: +15% for "better," +30% for "best"
 - Size adjustment: +/- $500 per cabinet over/under 20 linear feet
@@ -105,7 +105,7 @@ Kitchen remodel in Asheville:
 **Option B: AI image generation (medium lift)**
 - Use tools like Midjourney, DALL-E, or specialized interior design AI
 - Lead uploads photo → AI generates design options
-- Requires workflow: SE processes images, returns designs via email
+- Requires workflow: Content Manager processes images, returns designs via email
 - Semi-automated: AI does heavy lifting, human does delivery
 
 **Option C: Custom integration (high lift, high impact)**
@@ -117,7 +117,7 @@ Kitchen remodel in Asheville:
 
 1. Create "Design Inspiration" landing page
 2. Collect photos via form ("Upload your kitchen, we'll show you possibilities")
-3. SE uses AI tools (Midjourney, Interior AI) to generate 3-5 design concepts
+3. Content Manager uses AI tools (Midjourney, Interior AI) to generate 3-5 design concepts
 4. Send personalized email with designs within 24-48 hours
 5. Include CTA: "Love these ideas? Let's talk about making it real."
 
@@ -125,65 +125,7 @@ Kitchen remodel in Asheville:
 
 ---
 
-## Tool 3: AI Project Advisor (Chatbot)
-
-**What it does:** Answers specific project questions 24/7 without human involvement.
-
-**Why it matters:**
-- Assignment Selling on autopilot
-- Captures leads outside business hours
-- Answers common questions instantly
-- Keeps human time for high-value conversations
-
-### Questions the Advisor Handles
-
-**Process questions:**
-- "How long does a kitchen remodel take?"
-- "What's your design process like?"
-- "How do I prepare for living through a renovation?"
-
-**Practical questions:**
-- "Should I do cabinets before or after flooring?"
-- "What permits do I need in Asheville?"
-- "Can I finance my remodel?"
-
-**Buying questions:**
-- "How do I compare contractors?"
-- "What should I ask before hiring?"
-- "What's included in your estimates?"
-
-**Lead capture:**
-- "Want to talk to someone about your project?"
-- "Leave your info and we'll reach out"
-- Integrates with HubSpot for immediate follow-up
-
-### Implementation
-
-**Phase 1: Knowledge-based chatbot**
-- Train on Semper Fi content (Big 5 articles, process pages, FAQs)
-- Use platform like Intercom, Drift, or custom GPT
-- Set clear escalation path to human (RJ or SE)
-
-**Phase 2: Personalized responses**
-- "I see you're looking at kitchen content. Here's what you should know..."
-- Recommends specific articles/videos based on browsing
-- Tracks conversation in HubSpot
-
-**Phase 3: Full AI concierge**
-- Knows lead's project type, timeline, budget range
-- Provides personalized guidance throughout journey
-- Follows up automatically when lead goes quiet
-
-### Tone Guidelines
-
-- Helpful, not salesy
-- Knowledgeable, not robotic
-- Transparent about being AI ("I'm an AI assistant, but I can connect you with the team")
-- Admits limitations ("That's a great question — let me get a human to help with specifics")
-
----
-
-## Tool 4: Client Image Utilization
+## Tool 3: Client Image Utilization
 
 **What it does:** Uses photos the client provides to personalize the entire experience.
 
@@ -197,13 +139,13 @@ Kitchen remodel in Asheville:
 
 **Workflow:**
 
-1. Lead uploads photos via form or chatbot
+1. Lead uploads photos via form
 2. Photos stored in HubSpot (associated with contact)
-3. SE or AI processes photos:
+3. Content Manager or AI processes photos:
    - Generates design concepts
    - Identifies project scope
    - Creates personalized follow-up
-4. RJ references in sales call: "I saw your kitchen photos — here's what I noticed..."
+4. Sales references in call: "I saw your kitchen photos — here's what I noticed..."
 
 **AI tools for image processing:**
 - Interior AI (design generation)
@@ -214,7 +156,7 @@ Kitchen remodel in Asheville:
 
 ---
 
-## Tool 5: AI Sales Concierge
+## Tool 4: AI Sales Concierge
 
 **What it does:** Personalized automated follow-up based on lead behavior.
 
@@ -235,7 +177,7 @@ Kitchen remodel in Asheville:
 
 **Personalization tokens:**
 - Project type (kitchen, bathroom, whole-home)
-- Market (Asheville, Greenville)
+- Market (your service areas)
 - Estimated budget range
 - Content consumption history
 
@@ -246,17 +188,17 @@ Trigger: Contact viewed kitchen pricing page
 Wait: 1 day
 Action: Send email "Planning Your Kitchen Budget"
   - Include: budget calculator link
-  - Include: "How Much Does a Kitchen Remodel Cost in Asheville?" article
+  - Include: "How Much Does a Kitchen Remodel Cost in [Your City]?" article
   - CTA: "Ready to talk numbers? Schedule a consultation"
 ```
 
 ---
 
-## Tool 6: Personalized Content Recommendations
+## Tool 5: Personalized Content Recommendations
 
 **What it does:** Surfaces the right Assignment Selling content based on lead profile.
 
-**The problem:** RJ can't manually pick content for every lead at every stage.
+**The problem:** Sales can't manually pick content for every lead at every stage.
 
 **The solution:** AI recommends content automatically based on:
 - Project type
@@ -278,28 +220,28 @@ Action: Send email "Planning Your Kitchen Budget"
 IF project_type = "kitchen" AND stage = "pre-consultation"
   RECOMMEND:
     1. "What to Expect: Kitchen Remodel Process" (video)
-    2. "Kitchen Remodel Costs in Asheville" (blog)
+    2. "Kitchen Remodel Costs in [Your City]" (blog)
     3. "Meet Our Team" (bio video)
     4. Reviews page (filtered to kitchen projects)
 ```
 
 **Integration with Assignment Selling:**
-- SE sets up content library with tags (topic, stage, format)
-- HubSpot recommends based on contact properties
-- RJ gets notification: "This lead consumed 3/4 required content — ready for call"
+- Content Manager sets up content library with tags (topic, stage, format)
+- CRM recommends based on contact properties
+- Sales gets notification: "This lead consumed 3/4 required content — ready for call"
 
 ---
 
 ## Implementation Roadmap
 
-| Quarter | Tool | Owner | Effort |
-|---------|------|-------|--------|
-| **Q1 2026** | AI Project Advisor (basic chatbot) | SE + MM | Low |
-| **Q1 2026** | Personalized content recommendations | SE | Low |
-| **Q2 2026** | Self-pricing estimator (simple) | SE + Dev | Medium |
-| **Q2 2026** | AI Sales Concierge (HubSpot workflows) | SE | Medium |
-| **Q3 2026** | Design visualizer (semi-automated) | SE + JH | Medium |
-| **Q4 2026** | Client image integration | Tech Vendor | High |
+| Phase | Tool | Owner | Effort |
+|-------|------|-------|--------|
+| **Phase 1** | AI Project Advisor (basic chatbot) | Content + Marketing | Low |
+| **Phase 1** | Personalized content recommendations | Content | Low |
+| **Phase 2** | Self-pricing estimator (simple) | Content + Dev | Medium |
+| **Phase 2** | AI Sales Concierge (CRM workflows) | Content | Medium |
+| **Phase 3** | Design visualizer (semi-automated) | Content + Video | Medium |
+| **Phase 4** | Client image integration | Tech Vendor | High |
 
 ---
 
@@ -307,7 +249,6 @@ IF project_type = "kitchen" AND stage = "pre-consultation"
 
 **Engagement metrics:**
 - Pricing calculator usage (completions, drop-offs)
-- Chatbot conversations (resolved vs. escalated)
 - Design visualizer submissions
 
 **Lead quality metrics:**
@@ -328,7 +269,7 @@ IF project_type = "kitchen" AND stage = "pre-consultation"
 
 **Most contractors:** Lead fills out form → wait for call → explain basics → qualify
 
-**Semper Fi with AI tools:** Lead gets personalized experience → answers own questions → sees their own kitchen transformed → arrives at call already trusting, already educated, already excited
+**Remodelers with AI tools:** Lead gets personalized experience → answers own questions → sees their own kitchen transformed → arrives at call already trusting, already educated, already excited
 
 ---
 

@@ -24,7 +24,7 @@ Reference: Organization-prd.md (repo root)
 - Paid Media: paid-media-philosophy, performance-creative, retargeting.
 - Sales Enablement: sales-marketing-alignment, objection-handling, proposal-and-pricing.
 - Systems & Automation (root): systems-philosophy, lead-qualification, handoffs-and-follow-up, vendor-selection.
-- Automation subfolder: automation-philosophy, email-sequences, lead-nurturing, personalization-at-scale, chatbots-and-ai, trigger-based-workflows.
+- Automation subfolder: automation-philosophy, email-sequences, lead-nurturing, personalization-at-scale, trigger-based-workflows.
 - Analytics: kpis-that-matter, tracking-setup.
 - Reference: glossary, recommended-reading, industry-benchmarks, changelog (keep logging updates).
 

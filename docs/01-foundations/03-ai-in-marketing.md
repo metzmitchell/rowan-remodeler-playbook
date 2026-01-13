@@ -7,7 +7,7 @@ last_updated: "2025-01-01"
 
 # AI in Marketing
 
-**Owner:** MM (Strategy), SE (Execution)  
+**Owner:** Marketing Leadership (Strategy), Content Team (Execution)  
 **Key Tools:** ChatGPT, Claude, Gemini, AI-powered platforms
 
 ---
@@ -48,7 +48,7 @@ From *Endless Customers*:
 Use AI for the **first 60-70% of content creation**, then add:
 - Real project examples from your business
 - Personal stories and experiences
-- Local market context (WNC, Greenville specifics)
+- Local market context (your market specifics)
 - Company voice and personality
 - Expert insights that only you know
 
@@ -60,7 +60,7 @@ Use AI for the **first 60-70% of content creation**, then add:
 
 **Use AI to:**
 
-- **Generate content outlines** — "Create a blog post outline about kitchen remodeling costs in Asheville NC"
+- **Generate content outlines** — "Create a blog post outline about kitchen remodeling costs in [Your City]"
 - **Draft initial content** — "Write a 1500-word blog post on [topic] for homeowners researching remodelers"
 - **Brainstorm ideas** — "Give me 10 social media post ideas about bathroom remodeling mistakes"
 - **Research competitor content** — "Analyze top-ranking blog posts for 'kitchen remodel timeline'"
@@ -68,13 +68,13 @@ Use AI for the **first 60-70% of content creation**, then add:
 
 **Example workflow:**
 
-1. **MM or SE:** Use ChatGPT to create blog post outline on Big 5 topic
+1. **Marketing or Content Lead:** Use ChatGPT to create blog post outline on Big 5 topic
 2. **ChatGPT:** Generates structure with headers, key points, suggested word counts
-3. **SE:** Reviews outline, adds Semper Fi-specific angles, requests draft
+3. **Content Manager:** Reviews outline, adds company-specific angles, requests draft
 4. **ChatGPT:** Writes initial 1500-word draft
-5. **SE:** Edits to add local context, real project examples, company voice
-6. **MM:** Reviews for accuracy and brand alignment
-7. **SE:** Publishes with proper SEO optimization
+5. **Content Manager:** Edits to add local context, real project examples, company voice
+6. **Marketing Lead:** Reviews for accuracy and brand alignment
+7. **Content Manager:** Publishes with proper SEO optimization
 
 **Time saved:** 3-4 hours reduced to 1 hour for a comprehensive blog post.
 
@@ -82,7 +82,7 @@ Use AI for the **first 60-70% of content creation**, then add:
 
 **Use AI to:**
 
-- **SEO optimization** — "Optimize this content for the keyword 'best kitchen remodeler Asheville NC'"
+- **SEO optimization** — "Optimize this content for the keyword 'best kitchen remodeler [Your City]'"
 - **Readability improvement** — "Make this paragraph clearer and more conversational"
 - **Tone adjustment** — "Rewrite this in a more empathetic, customer-focused tone"
 - **Personalization** — "Create 3 versions of this email for different buyer personas"
@@ -90,16 +90,16 @@ Use AI for the **first 60-70% of content creation**, then add:
 
 **Example: Content Repurposing**
 
-Start with one JH video of a kitchen remodel completion:
+Start with one video of a kitchen remodel completion:
 
-1. **SE:** Uploads video transcript to ChatGPT
+1. **Content Manager:** Uploads video transcript to ChatGPT
 2. **ChatGPT:** Creates:
    - Blog post summarizing the project
    - 5 Instagram captions highlighting different aspects
    - 3 LinkedIn posts with business lessons
    - 10 short-form video script ideas
    - Email announcement to prospect list
-3. **SE:** Customizes each piece, adds Semper Fi voice, publishes across platforms
+3. **Content Manager:** Customizes each piece, adds company voice, publishes across platforms
 
 **Result:** One video becomes 20+ pieces of content.
 
@@ -115,11 +115,11 @@ Start with one JH video of a kitchen remodel completion:
 
 **Example: Big 5 Content Gap Analysis**
 
-1. **MM:** "ChatGPT, analyze our blog and identify which Big 5 topics we're missing"
+1. **Marketing Lead:** "ChatGPT, analyze our blog and identify which Big 5 topics we're missing"
 2. **ChatGPT:** Reviews site, identifies: "You have strong pricing content, weak on comparisons and problems"
-3. **MM:** "Generate 10 blog post ideas on comparison topics for remodelers"
+3. **Marketing Lead:** "Generate 10 blog post ideas on comparison topics for remodelers"
 4. **ChatGPT:** Provides list (e.g., "Design-Build vs. General Contractor: What's the Difference?")
-5. **MM → SE:** Prioritizes topics for content calendar
+5. **Marketing Lead → Content Manager:** Prioritizes topics for content calendar
 
 ---
 
@@ -130,7 +130,7 @@ Traditional SEO focused on ranking in Google search results. **AEO** focuses on 
 ### Why AEO Matters for Remodelers
 
 When someone asks ChatGPT or Google AI:
-- "Who is the best remodeler in Asheville NC?"
+- "Who is the best remodeler in [Your City]?"
 - "How much does a kitchen remodel cost in Western North Carolina?"
 - "What should I ask a remodeling contractor before hiring?"
 
@@ -157,7 +157,7 @@ From the [Complete Marketing Strategy and AI Search Optimization Guide](../../Ma
 - **Structured data** (schema markup on website)
 - **High-quality, authoritative content**
 
-### AEO Strategy for Semper Fi
+### AEO Strategy for Remodelers
 
 **Immediate Actions:**
 
@@ -190,7 +190,7 @@ From the [Complete Marketing Strategy and AI Search Optimization Guide](../../Ma
 > "Welcome to our blog! Today we're talking about kitchen remodeling costs. There are many factors that go into pricing a kitchen remodel, and we're going to explore them in detail..."
 
 **Good (AEO-optimized):**
-> "A kitchen remodel in Asheville, NC typically costs $30,000-$75,000, with most homeowners spending around $50,000. This includes cabinets, countertops, appliances, labor, and design services. Below, we break down where your investment goes."
+> "A kitchen remodel in [Your City] typically costs $30,000-$75,000, with most homeowners spending around $50,000. This includes cabinets, countertops, appliances, labor, and design services. Below, we break down where your investment goes."
 
 **Why it works:** AI can extract and cite the direct answer immediately.
 
@@ -204,7 +204,7 @@ Beyond content creation, AI creates a massive opportunity to **help leads with t
 
 AI has commoditized what used to require custom software development. Tools that cost $50k+ to build are now accessible for hundreds per month — or can be assembled with off-the-shelf AI tools.
 
-**What this means for Semper Fi:**
+**What this means for remodelers:**
 - Self-service experiences that used to be impossible are now table stakes
 - Competitors without these tools will feel dated
 - Every interaction can be personalized without human effort
@@ -223,13 +223,6 @@ AI has commoditized what used to require custom software development. Tools that
 - Factors: square footage, scope (cosmetic vs. full gut), materials tier, market
 - **Value:** Addresses Big 5 pricing question immediately, pre-qualifies leads, builds trust
 
-**AI Project Advisor**
-- Chatbot that answers specific project questions 24/7
-- "Should I do cabinets before or after flooring?"
-- "What permits do I need for a bathroom remodel in Asheville?"
-- "How should I prepare for living through a kitchen renovation?"
-- **Value:** Assignment Selling on autopilot — educates leads without human time
-
 **Client Image Utilization**
 - Lead uploads photos of their current space
 - AI generates: potential designs, problem identification, scope assessment
@@ -245,14 +238,13 @@ AI has commoditized what used to require custom software development. Tools that
 **Personalized Content Recommendations**
 - "Based on your project, here are the 3 articles you should read before our call"
 - Dynamic Assignment Selling based on lead profile
-- Surfaces right content at right time without RJ having to think about it
+- Surfaces right content at right time without Sales needing to manually track
 - **Value:** Scales Assignment Selling beyond what humans can track
 
 ### Implementation Priority
 
 | Tool | Complexity | Impact | Timeline |
 |------|------------|--------|----------|
-| AI Project Advisor (chatbot) | Low | High | Now |
 | Personalized content recommendations | Low | High | Now (HubSpot) |
 | Self-pricing estimator | Medium | Very High | Q2 2026 |
 | Design visualizer | Medium | High | Q3 2026 |
@@ -263,7 +255,7 @@ AI has commoditized what used to require custom software development. Tools that
 
 **Most remodelers:** Static website, contact form, wait for phone call
 
-**Semper Fi with AI tools:**
+**Remodelers with AI tools:**
 - Lead arrives at site → gets personalized experience
 - Answers their questions without waiting
 - Shows designs using THEIR photos
@@ -294,37 +286,37 @@ While Anewgo focuses on new home builders, the principles apply directly to remo
 
 ---
 
-## AI Tools for the Semper Fi Team
+## AI Tools for Your Team
 
 ### Content Creation & Strategy
 
 | Tool | Primary Use | Owner | Cost |
 |------|-------------|-------|------|
-| **ChatGPT Plus** | Content drafting, ideation, optimization | SE, MM | $20/mo |
-| **Claude** | Long-form content, detailed analysis | SE | Free tier |
-| **Gemini** | Google integration, research | SE | Free tier |
+| **ChatGPT Plus** | Content drafting, ideation, optimization | Content, Marketing | ~$20/mo |
+| **Claude** | Long-form content, detailed analysis | Content | Free tier |
+| **Gemini** | Google integration, research | Content | Free tier |
 
-### Content Production (JH)
+### Content Production (Video)
 
 | Tool | Primary Use | Owner | Cost |
 |------|-------------|-------|------|
-| **Descript** | Video transcription, editing, captions | JH | ~$24/mo |
-| **CapCut** | AI-assisted video editing, auto-captions | JH | Free/Pro |
-| **Opus Clip** | Extract short clips from long videos | JH | ~$29/mo |
+| **Descript** | Video transcription, editing, captions | Video Producer | ~$24/mo |
+| **CapCut** | AI-assisted video editing, auto-captions | Video Producer | Free/Pro |
+| **Opus Clip** | Extract short clips from long videos | Video Producer | ~$29/mo |
 
 ### Visual & Design
 
 | Tool | Primary Use | Owner | Cost |
 |------|-------------|-------|------|
-| **Canva Pro** (already budgeted) | Social graphics, templates | SE, JH | $149.90/yr |
-| **Midjourney** (optional) | Design inspiration, mood boards | JH | ~$30/mo |
+| **Canva Pro** | Social graphics, templates | Content, Video | ~$150/yr |
+| **Midjourney** (optional) | Design inspiration, mood boards | Video Producer | ~$30/mo |
 
 ### Automation & Operations
 
 | Tool | Primary Use | Owner | Cost |
 |------|-------------|-------|------|
-| **HubSpot AI features** (already budgeted) | Email subject lines, content suggestions | SE | Included |
-| **Make/Zapier** (if needed) | Workflow automation | SE | $0-20/mo |
+| **CRM AI features** | Email subject lines, content suggestions | Content | Varies |
+| **Make/Zapier** (if needed) | Workflow automation | Content | $0-20/mo |
 
 ---
 
@@ -336,20 +328,20 @@ While Anewgo focuses on new home builders, the principles apply directly to remo
 
 **Process:**
 
-1. **SE** identifies topic from content calendar (e.g., "Kitchen Remodel Timeline in Asheville")
-2. **SE → ChatGPT:** "Create an outline for a 2000-word blog post on kitchen remodel timelines for Asheville homeowners. Include typical timeline stages, common delays, and how to prepare."
+1. **Content Manager** identifies topic from content calendar (e.g., "Kitchen Remodel Timeline")
+2. **Content Manager → ChatGPT:** "Create an outline for a 2000-word blog post on kitchen remodel timelines for homeowners. Include typical timeline stages, common delays, and how to prepare."
 3. **ChatGPT** generates outline with headers, key points, suggested sections
-4. **SE** reviews outline, adds Semper Fi-specific angles ("mention our pre-construction meeting process")
-5. **SE → ChatGPT:** "Write the full blog post based on this outline"
+4. **Content Manager** reviews outline, adds company-specific angles ("mention our pre-construction meeting process")
+5. **Content Manager → ChatGPT:** "Write the full blog post based on this outline"
 6. **ChatGPT** generates draft (~60-70% quality)
-7. **SE** edits to add:
-   - Real Semper Fi project examples
-   - Local context (WNC permitting, seasonal weather considerations)
+7. **Content Manager** edits to add:
+   - Real project examples from your company
+   - Local context (permitting, seasonal weather considerations)
    - Company voice and personality
    - Internal links to other content
-8. **SE** optimizes for SEO (keywords, meta description, headers)
-9. **MM** reviews for accuracy and brand alignment
-10. **SE** publishes with images/video from JH
+8. **Content Manager** optimizes for SEO (keywords, meta description, headers)
+9. **Marketing Lead** reviews for accuracy and brand alignment
+10. **Content Manager** publishes with images/video from Video Producer
 
 **Time:** ~1 hour total (vs. 3-4 hours without AI)
 
@@ -359,29 +351,29 @@ While Anewgo focuses on new home builders, the principles apply directly to remo
 
 **Process:**
 
-1. **JH** films project site visit, captures 5 minutes of footage
-2. **JH** uploads transcript to Descript, extracts key moments
-3. **SE → ChatGPT:** "Turn this video transcript into 10 social media posts: 3 for TikTok (15-30 sec hooks), 3 for Instagram (visual + caption), 2 for Facebook (longer storytelling), 2 for LinkedIn (business lessons)"
+1. **Video Producer** films project site visit, captures 5 minutes of footage
+2. **Video Producer** uploads transcript to Descript, extracts key moments
+3. **Content Manager → ChatGPT:** "Turn this video transcript into 10 social media posts: 3 for TikTok (15-30 sec hooks), 3 for Instagram (visual + caption), 2 for Facebook (longer storytelling), 2 for LinkedIn (business lessons)"
 4. **ChatGPT** generates post ideas with captions
-5. **SE** customizes each, adds hashtags, schedules in Buffer/Later
-6. **JH** creates video clips matching each post concept
-7. **SE** publishes throughout the week
+5. **Content Manager** customizes each, adds hashtags, schedules in Buffer/Later
+6. **Video Producer** creates video clips matching each post concept
+7. **Content Manager** publishes throughout the week
 
 **Result:** 1 video → 10+ social posts across platforms
 
 ### Workflow 3: Assignment Selling Content Library
 
-**Goal:** Maintain organized, searchable content library for RJ to assign to prospects
+**Goal:** Maintain organized, searchable content library for Sales to assign to prospects
 
 **Process:**
 
-1. **RJ** shares common buyer objection in Revenue Team meeting ("Prospects worried about timeline overruns")
-2. **MM** prioritizes content creation
-3. **SE → ChatGPT:** "Write an email for a remodeling contractor to send to prospects explaining how we prevent timeline overruns, including our scheduling process, contingency planning, and communication protocols"
+1. **Sales Lead** shares common buyer objection in Revenue Team meeting ("Prospects worried about timeline overruns")
+2. **Marketing Lead** prioritizes content creation
+3. **Content Manager → ChatGPT:** "Write an email for a remodeling contractor to send to prospects explaining how we prevent timeline overruns, including our scheduling process, contingency planning, and communication protocols"
 4. **ChatGPT** drafts email
-5. **SE** customizes with Semper Fi specifics (pre-construction meetings, weekly updates, dedicated coordinator)
-6. **SE** adds to Assignment Selling content library in HubSpot with tags: "objection-handling, timeline, pre-call"
-7. **RJ** can now quickly find and send this content when prospects raise timeline concerns
+5. **Content Manager** customizes with company specifics (pre-construction meetings, weekly updates, dedicated coordinator)
+6. **Content Manager** adds to Assignment Selling content library in CRM with tags: "objection-handling, timeline, pre-call"
+7. **Sales** can now quickly find and send this content when prospects raise timeline concerns
 
 ---
 
@@ -404,7 +396,7 @@ Use AI to create content variations for different buyer personas:
 - **Mid-range buyer:** Focus on value, smart investments, ROI
 - **First-timer:** Focus on process transparency, education, hand-holding
 
-**SE** then uses appropriate version for each prospect based on HubSpot segmentation.
+**Content Manager** then uses appropriate version for each prospect based on CRM segmentation.
 
 ---
 
@@ -431,7 +423,7 @@ Use AI to create content variations for different buyer personas:
 
 Before publishing AI-assisted content, ask:
 
-1. **Does this sound like us?** (Semper Fi voice and personality)
+1. **Does this sound like us?** (Your company voice and personality)
 2. **Is this accurate?** (Real examples, correct pricing, honest advice)
 3. **Does this build trust?** (Transparent, helpful, not salesy)
 4. **Would a prospect know we used AI?** If yes, add more human touch
@@ -467,8 +459,8 @@ Track these metrics to assess AI's contribution to marketing efficiency:
 - **SEO improvement** — Rankings for target keywords, organic traffic growth
 - **AEO visibility** — Are you cited by ChatGPT/Perplexity/Google AI for key queries?
 
-**Baseline (pre-AI):** SE spends 20 hours/week on content, produces 4 blog posts/month  
-**Goal (with AI):** SE spends 20 hours/week, produces 8-10 blog posts/month at same quality
+**Baseline (pre-AI):** Content Manager spends 20 hours/week on content, produces 4 blog posts/month  
+**Goal (with AI):** Content Manager spends 20 hours/week, produces 8-10 blog posts/month at same quality
 
 ---
 
@@ -487,7 +479,7 @@ Track these metrics to assess AI's contribution to marketing efficiency:
    **Fix:** Use detailed prompts with context, audience, goals, examples
 
 5. **No quality control** — Assuming AI knows your business  
-   **Fix:** MM and RJ review content that references company processes, pricing, guarantees
+   **Fix:** Marketing and Sales review content that references company processes, pricing, guarantees
 
 ---
 

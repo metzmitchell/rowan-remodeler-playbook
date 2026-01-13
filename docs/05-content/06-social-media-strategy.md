@@ -7,7 +7,7 @@ last_updated: "2025-01-01"
 
 # Social Media Strategy
 
-**Owner:** SE (Posting), JH (Creative Production)  
+**Owner:** Content Manager (Posting), Video Producer (Creative Production)  
 **Framework:** Gary Vaynerchuk's *Day Trading Attention*
 
 ---
@@ -73,10 +73,10 @@ last_updated: "2025-01-01"
 
 ## High-Volume Production Workflow
 
-**Monday:** Plan (SE identifies topics, prepares captions)  
-**Tuesday:** Capture (JH films 2-3 locations, 5-10 min each)  
-**Wednesday-Thursday:** Batch create (JH edits into 15-20 pieces, SE writes captions)  
-**Friday:** Schedule (SE loads week's content)
+**Monday:** Plan (Content Manager identifies topics, prepares captions)  
+**Tuesday:** Capture (Video Producer films 2-3 locations, 5-10 min each)  
+**Wednesday-Thursday:** Batch create (Video edits into 15-20 pieces, Content writes captions)  
+**Friday:** Schedule (Content Manager loads week's content)
 
 **Result:** 1 filming session → 15-20 pieces of scheduled content
 
@@ -91,7 +91,7 @@ last_updated: "2025-01-01"
 3. Identify top 10% by engagement
 4. Amplify only winners with paid ads
 
-**SE tracks, Performance Media Vendor amplifies**
+**Content Manager tracks, Performance Media Vendor amplifies**
 
 **See:** [Paid Media Philosophy](../06-paid-media/00-paid-media-philosophy)
 

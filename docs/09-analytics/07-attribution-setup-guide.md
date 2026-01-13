@@ -1,6 +1,6 @@
 ---
 title: "Attribution Setup Guide"
-description: "Step-by-step HubSpot tracking and attribution implementation for Semper Fi's multi-brand, multi-market structure."
+description: "Step-by-step HubSpot tracking and attribution implementation for multi-brand, multi-market structures."
 tags: ["analytics", "attribution", "hubspot", "active"]
 last_updated: "2025-01-01"
 ---
@@ -8,7 +8,7 @@ last_updated: "2025-01-01"
 # Attribution Setup Guide
 
 **Timeline:** Months 1-3 (Critical Priority)  
-**Owner:** MM (Strategy), Technical Vendor (Implementation)
+**Owner:** Marketing Lead (Strategy), Technical Vendor (Implementation)
 
 **Goal:** Know which ads produce qualified leads and at what cost.
 
@@ -40,7 +40,7 @@ Without attribution:
 **Technical requirements:**
 - HubSpot tracking code in `<head>` tag
 - Fires before other analytics (Google Tag Manager, etc.)
-- Works across all subdomains (semperfiremodeling.com, etc.)
+- Works across all subdomains (yourcompany.com, etc.)
 
 ### Week 2: UTM Parameter Setup
 
@@ -75,8 +75,8 @@ utm_content=granite-countertop-ad
 - [ ] Map form fields to properties
 
 **Custom Contact Properties:**
-- `Brand/Service Line` (dropdown): Asheville Remodeling, Asheville Restorations, Greenville Remodeling
-- `Market` (dropdown): WNC, Greenville
+- `Brand/Service Line` (dropdown): [Your Brand(s), e.g., Primary Remodeling, Restoration Division, Market 2]
+- `Market` (dropdown): [Your Markets, e.g., Primary Market, Secondary Market]
 - `Project Type` (dropdown): Kitchen, Bathroom, Whole-Home, Storm Damage, etc.
 - `Funding Source` (dropdown): Cash, Insurance, Financing
 - `Lead Source - First Touch` (auto-populated from UTM)
@@ -196,7 +196,7 @@ utm_content=granite-countertop-ad
 ### Billboard Tracking
 
 **Options:**
-1. **Unique vanity URLs** (preferred): `SemperFiKitchens.com/billboard-west-asheville`
+1. **Unique vanity URLs** (preferred): `YourCompany.com/billboard-west-asheville`
 2. **Unique phone numbers:** CallRail or similar for each billboard location
 3. **QR codes:** Track scans by location
 
@@ -224,7 +224,7 @@ utm_content=kitchen-remodel-creative
 
 **Example:**
 - Neighborhood: Biltmore Forest
-- Landing page: `semperfiremodeling.com/biltmore-spring-offer`
+- Landing page: `yourcompany.com/neighborhood-spring-offer`
 - Promo code: `BILTMORE2026`
 
 ### Referral Partner Tracking
@@ -249,8 +249,8 @@ utm_content=kitchen-remodel-creative
 
 1. **Lead Volume Report**
    - Leads by source (last 7 days, last 30 days)
-   - Leads by brand (Asheville Remodeling, Asheville Restorations, Greenville)
-   - Leads by market (WNC, Greenville)
+   - Leads by brand (if multiple brands/service lines)
+   - Leads by market (if multiple markets)
 
 2. **Qualified Leads Report**
    - MQL (Marketing Qualified Lead) by source
@@ -315,9 +315,9 @@ utm_content=kitchen-remodel-creative
 - Referrals: $[X]
 
 **Close Rate:**
-- Asheville Remodeling: [X]%
-- Asheville Restorations: [X]%
-- Greenville Remodeling: [X]%
+- Primary Remodeling: [X]%
+- Restoration Division: [X]%
+- Secondary Market: [X]%
 
 **Gaps Identified:**
 - [Channel] has poor attribution

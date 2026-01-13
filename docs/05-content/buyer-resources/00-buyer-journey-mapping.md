@@ -7,7 +7,7 @@ last_updated: "2025-01-01"
 
 # Buyer Journey Mapping
 
-**Owner:** MM (Strategy), SE (Content)  
+**Owner:** Marketing Lead (Strategy), Content Manager  
 **Purpose:** Map content to buyer stages for right information at right time
 
 ---
@@ -23,7 +23,7 @@ last_updated: "2025-01-01"
 **Content needs:** Inspiration (before/afters, design trends), basic education, ROI content
 
 **Platforms:** Pinterest, Instagram, blog  
-**Owner:** SE (inspiration content), JH (stunning portfolio)
+**Owner:** Content Manager (inspiration content), Video Producer (stunning portfolio)
 
 ---
 
@@ -36,7 +36,7 @@ last_updated: "2025-01-01"
 **Content needs:** Big 5 content (pricing, problems, comparisons, process, reviews)
 
 **Platforms:** Blog (SEO), YouTube, email  
-**Owner:** SE (writing), JH (educational videos)
+**Owner:** Content Manager (writing), Video Producer (educational videos)
 
 ---
 
@@ -48,8 +48,8 @@ last_updated: "2025-01-01"
 
 **Content needs:** Comparison frameworks, differentiators, extensive proof, Assignment Selling content
 
-**Platforms:** Website, email, HubSpot sequences  
-**Owner:** SE (library organization), RJ (Assignment Selling usage)
+**Platforms:** Website, email, CRM sequences  
+**Owner:** Content Manager (library organization), Sales Lead (Assignment Selling usage)
 
 ---
 
@@ -61,8 +61,8 @@ last_updated: "2025-01-01"
 
 **Content needs:** Trust signals, process transparency, proof of delivery, problem handling
 
-**Platforms:** Direct email from RJ, website trust pages  
-**Owner:** RJ (strategic content assignment), SE (ensure content updated)
+**Platforms:** Direct email from Sales, website trust pages  
+**Owner:** Sales Lead (strategic content assignment), Content Manager (ensure content updated)
 
 ---
 
@@ -75,7 +75,7 @@ last_updated: "2025-01-01"
 **Content needs:** Prep guides, updates, maintenance, referral prompts, testimonial requests
 
 **Platforms:** Email automation, in-person  
-**Owner:** Coordinator (automation), JH (testimonial capture)
+**Owner:** Coordinator (automation), Video Producer (testimonial capture)
 
 ---
 
@@ -105,7 +105,7 @@ last_updated: "2025-01-01"
 
 Review coverage by stage — identify gaps, prioritize filling weak stages.
 
-**See:** [Semper Fi Org Structure](../../Org Structure/Semper Fi Marketing Org Structure) for complete content creation flow
+Review coverage by stage — identify gaps, prioritize filling weak stages.
 
 ---
 

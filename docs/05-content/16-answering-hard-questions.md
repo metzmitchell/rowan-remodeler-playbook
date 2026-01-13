@@ -7,7 +7,7 @@ last_updated: "2025-01-01"
 
 # Answering Hard Questions: The Big 5
 
-**Owner:** SE (Content), MM (Strategy), JH (Video)  
+**Owner:** Content Manager, Marketing Lead (Strategy), Video Producer  
 **Framework:** Marcus Sheridan's *They Ask, You Answer*
 
 ---
@@ -39,7 +39,7 @@ last_updated: "2025-01-01"
 **Why it's #1:** Homeowners' top question, contractors' most-avoided topic.
 
 **What to create:**
-- "How Much Does a Kitchen Remodel Cost in Asheville, NC?" (overall ranges)
+- "How Much Does a Kitchen Remodel Cost in [Your City]?" (overall ranges)
 - "Where Your Remodel Budget Actually Goes" (breakdown by category)
 - "Why Our Remodels Cost More (And Why That's Good)" (value positioning)
 - Budget calculators (interactive tools if possible)
@@ -135,12 +135,12 @@ last_updated: "2025-01-01"
 
 ## Assignment Selling Content Library
 
-SE organizes Big 5 content in HubSpot by:
+Content Manager organizes Big 5 content in CRM by:
 - Sales stage (pre-discovery, pre-estimate, pre-contract)
 - Topic (pricing, process, reviews)
 - Format (blog, video, guide)
 
-RJ can quickly find and assign relevant content to address objections.
+Sales can quickly find and assign relevant content to address objections.
 
 **See:** [Assignment Selling](../07-sales-enablement/assignment-selling)
 
@@ -148,7 +148,7 @@ RJ can quickly find and assign relevant content to address objections.
 
 ## Quarterly Big 5 Audit
 
-**Every quarter, MM and SE review:**
+**Every quarter, Marketing and Content review:**
 
 - [ ] Comprehensive pricing content for each service?
 - [ ] Top 10 problems/mistakes addressed?

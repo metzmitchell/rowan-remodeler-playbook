@@ -7,7 +7,7 @@ last_updated: "2025-01-01"
 
 # Sales Discovery Questions
 
-**Owner:** RJ (Uses in calls), MM (Refines based on feedback)  
+**Owner:** Sales Lead (Uses in calls), Marketing Lead (Refines based on feedback)  
 **Purpose:** Uncover buyer priorities and map to Big 5 content
 
 ---
@@ -83,7 +83,7 @@ Based on call, assign pre-estimate content:
 - Process documentation
 - Value/pricing explainer (if needed)
 
-**RJ:** "Before our estimate meeting, I'd like you to watch this case study of a project similar to yours. It'll help you see what's possible."
+**Sales:** "Before our estimate meeting, I'd like you to watch this case study of a project similar to yours. It'll help you see what's possible."
 
 ---
 
@@ -92,7 +92,6 @@ Based on call, assign pre-estimate content:
 - **Read:** [Assignment Selling](10-assignment-selling) — Full framework
 - **Read:** [Big 5 Content](../05-content/16-answering-hard-questions) — What content to assign
 - **Tool:** Full discovery call script template (create in templates)
-- **Resource:** [Semper Fi Org Structure](../../Org Structure/Semper Fi Marketing Org Structure) — Sales process flow
 
 ---
 

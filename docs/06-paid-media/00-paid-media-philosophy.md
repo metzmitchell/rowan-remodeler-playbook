@@ -7,7 +7,7 @@ last_updated: "2025-01-01"
 
 # Paid Media Philosophy
 
-**Owner:** MM (Strategy), Performance Media Vendor (Execution)  
+**Owner:** Marketing Leadership (Strategy), Performance Media Vendor (Execution)  
 **Framework:** Gary Vaynerchuk's Day Trading Attention
 
 ---
@@ -45,7 +45,7 @@ last_updated: "2025-01-01"
 
 **Critical requirement:** Comfortable with rapid testing, data-driven iteration
 
-**Works closely with:** JH (creative assets), SE (organic performance data)
+**Works closely with:** Video Producer (creative assets), Content Manager (organic performance data)
 
 **See:** [Performance Creative](12-performance-creative)
 
@@ -56,15 +56,13 @@ last_updated: "2025-01-01"
 **Platforms:** Google Ads, Bing Ads  
 **Approach:** Keyword targeting, conversion optimization
 
-**Works closely with:** MM (strategy), SE (landing pages)
+**Works closely with:** Marketing Lead (strategy), Content Manager (landing pages)
 
 ---
 
-## Budget Allocation (2026)
+## Budget Allocation Guidelines
 
-**WNC:** $27,300/year digital ads  
-**GVL:** $18,000/year digital ads  
-**Restoration:** $12,000/year
+**Typical allocation for remodelers ($50k-100k+ annual revenue in marketing):**
 
 **Split guidance:**
 - Google Search: 50% (highest intent)
@@ -72,9 +70,7 @@ last_updated: "2025-01-01"
 - YouTube: 15% (video, awareness)
 - Other: 5%
 
-**Flex based on performance** — shift budget to winners monthly
-
-**See:** [2026 Marketing Budget](../../Marketing Strategy From OneDrive/2026 Semper Fi Marketing Budget - Complete)
+**Flex based on performance** — shift budget to winners monthly. Adjust allocation based on what's working in your market.
 
 ---
 
@@ -84,7 +80,7 @@ last_updated: "2025-01-01"
 **Do:** Tight targeting, clear offers, test small, scale winners
 
 **For remodelers:**
-- Target homeowners 45-75 in WNC/Greenville
+- Target homeowners 45-75 in your market area
 - In-market signals (home improvement interest, homeowner)
 - Geographic radius (20-30 miles)
 - Lookalike audiences from existing clients
@@ -98,8 +94,8 @@ last_updated: "2025-01-01"
 **Quick reference:**
 - Test hooks, angles, formats
 - Organic performance informs paid creative
-- JH provides creative assets
-- SE provides organic insights
+- Video Producer provides creative assets
+- Content Manager provides organic insights
 - Vendor tests and optimizes
 
 ---
@@ -107,8 +103,7 @@ last_updated: "2025-01-01"
 ## Learn More
 
 - **Read:** [Performance Creative](12-performance-creative) — High-volume testing strategy
-- **Reference:** [Semper Fi Org Structure](../../Org Structure/Semper Fi Marketing Org Structure) — Vendor roles and responsibilities
-- **Resource:** [Gary Vee's Day Trading Attention](../Day_Trading_Attention_-_Gary_Vaynerchuk) — Amplification framework
+- **Resource:** Gary Vee's *Day Trading Attention* — Amplification framework
 
 ---
 

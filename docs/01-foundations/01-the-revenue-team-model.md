@@ -7,8 +7,8 @@ last_updated: "2025-01-01"
 
 # The Revenue Team Model
 
-**Owner:** MM (Fractional CMO)  
-**Key Participants:** RJ (Project Development Director), SE (Content/SEO)
+**Owner:** Marketing Leadership  
+**Key Participants:** Sales Leadership, Content Team
 
 ---
 
@@ -24,20 +24,18 @@ last_updated: "2025-01-01"
 
 ---
 
-## The Semper Fi Revenue Team
+## Your Revenue Team
 
 ### Team Structure
 
 **Marketing Function:**
-- MM (Fractional CMO) — Strategy, vendors, KPIs, facilitation
-- JH (Video) — Production, creative assets
-- SE (Content/SEO) — Writing, HubSpot, Assignment Selling library
+- Fractional CMO — Strategy, vendors, KPIs, facilitation
+- Video Producer — Production, creative assets
+- Content/SEO Lead — Writing, HubSpot, Assignment Selling library
 
 **Sales Function:**
-- RJ Craig (Project Development Director) — Sales leadership, Assignment Selling execution
+- Sales Director — Sales leadership, Assignment Selling execution
 - Estimators, Interior Design, Coordinator — Support roles
-
-**See:** [Semper Fi Marketing Org Structure](../../Org Structure/Semper Fi Marketing Org Structure) for complete role definitions
 
 ---
 
@@ -45,11 +43,11 @@ last_updated: "2025-01-01"
 
 ### Bi-Weekly Revenue Team Meeting
 
-**Attendees:** MM, RJ, SE  
+**Attendees:** Marketing Lead, Sales Lead, Content Manager  
 **Duration:** 60-90 min
 
 **Standing Agenda:**
-1. Buyer questions & objections (RJ shares → informs content)
+1. Buyer questions & objections (Sales shares → informs content)
 2. Content performance review (what's working in Assignment Selling?)
 3. Editorial calendar planning
 4. Pipeline & conversion review
@@ -71,10 +69,10 @@ Both teams measured on:
 
 | Element | Owner | Support |
 |---------|-------|---------|
-| Sales process definition | RJ | MM |
-| Content-to-stage mapping | MM | RJ, SE |
-| Content library organization | SE | RJ feedback |
-| Tracking & measurement | MM | RJ data |
+| Sales process definition | Sales Lead | Marketing Lead |
+| Content-to-stage mapping | Marketing Lead | Sales, Content |
+| Content library organization | Content Manager | Sales feedback |
+| Tracking & measurement | Marketing Lead | Sales data |
 
 **See:** [Assignment Selling](../07-sales-enablement/assignment-selling) for full framework
 
@@ -102,7 +100,6 @@ Both teams measured on:
 - **Read:** [Answering Hard Questions (Big 5)](../05-content/16-answering-hard-questions) — Content sales team needs
 - **Read:** Marcus Sheridan's [*Endless Customers* summary](../../Marketing Thinking Jay/Marcus Sheridan) or [full book](../endless-customers-full-book)
 - **Tool:** [Revenue Team Meeting Agenda](../templates/getting-started/revenue-team-meeting-agenda)
-- **Reference:** Complete [Semper Fi Org Structure](../../Org Structure/Semper Fi Marketing Org Structure) with process flows
 
 ---
 

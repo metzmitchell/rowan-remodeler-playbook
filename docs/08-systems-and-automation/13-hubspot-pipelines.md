@@ -1,24 +1,36 @@
 ---
-title: "HubSpot Pipelines Setup"
-description: "Brand-specific deal pipelines for Asheville Remodeling, Asheville Restorations, and Greenville Remodeling."
-tags: ["systems", "hubspot", "pipelines", "active"]
+title: "CRM Pipelines Setup"
+description: "Template for configuring deal pipelines for remodeling companies with multiple brands, markets, or service lines."
+tags: ["systems", "crm", "pipelines", "active"]
 last_updated: "2025-01-01"
 ---
 
-# HubSpot Pipelines Setup
+# CRM Pipelines Setup
 
 **Timeline:** Months 2-3  
-**Owner:** MM (Configuration), RJ (Sales Process Input)
+**Owner:** Marketing Lead (Configuration), Sales Lead (Sales Process Input)
 
-**Why separate pipelines:** Each brand has different sales processes, timelines, and close rates. Track them separately for accurate forecasting.
+**Why separate pipelines:** Each brand, market, or service line may have different sales processes, timelines, and close rates. Track them separately for accurate forecasting.
 
 ---
 
-## Three-Pipeline Structure
+## Pipeline Structure Options
 
-### Pipeline 1: Asheville Remodeling
+Choose the structure that fits your business:
 
-**Focus:** Kitchen, bathroom, whole-home remodels in Western North Carolina
+### Option A: Single Pipeline (Simpler)
+Best for: Single brand, single market, consistent service offerings
+
+### Option B: Multi-Pipeline (Recommended for growth)
+Best for: Multiple brands, multiple markets, or distinct service lines (e.g., remodeling + restoration)
+
+---
+
+## Example Multi-Pipeline Structure
+
+### Pipeline 1: Primary Remodeling
+
+**Focus:** Kitchen, bathroom, whole-home remodels in your primary market
 
 **Deal Stages:**
 
@@ -29,7 +41,7 @@ last_updated: "2025-01-01"
 
 2. **Qualified Lead**
    - Probability: 20%
-   - Description: Budget confirmed ($50k+), timeline realistic, in service area
+   - Description: Budget confirmed, timeline realistic, in service area
    - Action: Schedule in-home consultation
 
 3. **Consultation Scheduled**
@@ -57,12 +69,13 @@ last_updated: "2025-01-01"
    - Description: Lost to competitor, budget, timing, or other reason
    - Action: Log lost reason, add to nurture campaign
 
-**Average Deal Size:** $80,000  
-**Average Sales Cycle:** 45-60 days
+**Typical metrics:** Adjust based on your business
+- Average Deal Size: $50,000-$100,000
+- Average Sales Cycle: 45-60 days
 
 ---
 
-### Pipeline 2: Asheville Restorations
+### Pipeline 2: Restoration/Insurance Work (If Applicable)
 
 **Focus:** Storm damage, water damage, mold remediation (insurance-funded projects)
 
@@ -103,54 +116,25 @@ last_updated: "2025-01-01"
    - Description: Insurance denied, homeowner chose DIY, competitor won
    - Action: Log reason, maintain relationship for future claims
 
-**Average Deal Size:** $60,000  
-**Average Sales Cycle:** 30-45 days (faster due to urgency)
+**Typical metrics:**
+- Average Deal Size: $40,000-$80,000
+- Average Sales Cycle: 30-45 days (faster due to urgency)
 
 ---
 
-### Pipeline 3: Greenville Remodeling
+### Pipeline 3: Expansion Market (If Applicable)
 
-**Focus:** Expansion market - kitchen, bathroom, whole-home remodels in Greenville, SC
+**Focus:** New market with lower brand awareness
 
-**Deal Stages:**
+**Key differences from primary market:**
+- Qualification more aggressive (brand awareness lower)
+- Include extra Assignment Selling content early (more education needed)
+- Lower probability percentages initially
+- Track separately to measure market penetration
 
-1. **Suspect** (New Market Lead)
-   - Probability: 10%
-   - Description: Inquiry from Greenville market
-   - Action: Qualify aggressively (brand awareness lower in new market)
-
-2. **Qualified Lead**
-   - Probability: 20%
-   - Description: Budget confirmed, timeline realistic, understands Semper Fi value
-   - Action: Schedule consultation, emphasize reputation and process
-
-3. **Consultation Scheduled**
-   - Probability: 35%
-   - Description: Appointment on calendar
-   - Action: Send Assignment Selling content + case studies from AVL market
-
-4. **Proposal Sent**
-   - Probability: 55%
-   - Description: Detailed proposal delivered
-   - Action: Address "Why choose Semper Fi over local competitors?"
-
-5. **Negotiation/Review**
-   - Probability: 70%
-   - Description: Discussing terms
-   - Action: Leverage AVL testimonials, emphasize process
-
-6. **Closed Won** ✅
-   - Probability: 100%
-   - Description: Contract signed
-   - Action: Use as case study for future GVL marketing
-
-7. **Closed Lost** ❌
-   - Probability: 0%
-   - Description: Lost to local competitor, brand unfamiliarity, budget
-   - Action: Log reason, add to long-term nurture (GVL awareness building)
-
-**Average Deal Size:** $75,000 (slightly lower than AVL while building market presence)  
-**Average Sales Cycle:** 60-75 days (longer in new market)
+**Typical metrics:**
+- Average Sales Cycle: 60-75 days (longer in new market)
+- Close rate improves as brand awareness grows
 
 ---
 
@@ -181,35 +165,35 @@ last_updated: "2025-01-01"
 **Quality & Notes:**
 - `Lead Quality Score` (dropdown): A (hot), B (warm), C (cold)
 - `Lost Reason` (dropdown): Price, Timeline, Competitor, Not Ready, Other
-- `Sales Notes` (long text): RJ's notes on objections, concerns, preferences
+- `Sales Notes` (long text): Notes on objections, concerns, preferences
 
 ---
 
-## Automated Workflows by Pipeline
+## Automated Workflows
 
-### Asheville Remodeling Workflows
+### Essential Workflows
 
 **1. New Lead → Assign & Notify**
 - Trigger: Deal enters "Suspect" stage
 - Actions:
-  - Assign deal to RJ Craig
-  - Send email notification to RJ
+  - Assign deal to Sales Lead
+  - Send email notification
   - Create task: "Qualify lead within 24 hours"
 
 **2. Consultation Scheduled → Send Assignment Selling Content**
 - Trigger: Deal moves to "Consultation Scheduled"
 - Actions:
   - Send email sequence with:
-    - Process video ("What to Expect: Kitchen Remodel")
+    - Process video ("What to Expect")
     - Pricing guide
     - Team bio video
-  - Create task for RJ: "Review content consumption before consultation"
+  - Create task: "Review content consumption before consultation"
 
 **3. Proposal Sent → Follow-Up Reminder**
 - Trigger: Deal moves to "Proposal Sent"
 - Actions:
   - Wait 48 hours
-  - Create task for RJ: "Follow up on proposal"
+  - Create task: "Follow up on proposal"
   - Send homeowner email: "Questions about your proposal?"
 
 **4. Closed Won → Hand Off to Production**
@@ -217,39 +201,7 @@ last_updated: "2025-01-01"
 - Actions:
   - Notify project management team
   - Create project folder in shared drive
-  - Send offline conversion to Google Ads (for attribution)
-
-### Asheville Restorations Workflows
-
-**1. Emergency Lead → Rapid Response**
-- Trigger: Deal enters pipeline (restoration)
-- Actions:
-  - High-priority notification to RJ (SMS + email)
-  - Auto-reply to homeowner: "Emergency response team notified"
-  - Create task: "Respond within 2 hours"
-
-**2. Insurance Approved → Contract Prep**
-- Trigger: Deal moves to "Insurance Approved"
-- Actions:
-  - Send contract template to RJ
-  - Notify homeowner: "Insurance approved, let's finalize"
-  - Create task: "Finalize contract within 3 days"
-
-### Greenville Remodeling Workflows
-
-**1. New GVL Lead → Qualify Aggressively**
-- Trigger: Deal enters "Suspect" (Greenville)
-- Actions:
-  - Assign to [GVL Sales Rep]
-  - Send assignment selling content immediately (brand awareness lower)
-  - Create task: "Qualify within 12 hours (new market)"
-
-**2. Closed Won → Case Study Trigger**
-- Trigger: Deal marked "Closed Won" (Greenville)
-- Actions:
-  - Notify MM (marketing): "New GVL project for case study"
-  - Tag deal: "GVL Case Study Candidate"
-  - Schedule follow-up for testimonial video request
+  - Send offline conversion to ad platforms (for attribution)
 
 ---
 
@@ -273,36 +225,32 @@ last_updated: "2025-01-01"
 - Lost reasons (top 3 per pipeline)
 - Pipeline value (weighted by probability)
 
-**Target:** 40+ leads/month total across all three pipelines, 25-35% close rate
-
 ---
 
 ## Setup Instructions
 
-### Step 1: Create Pipelines in HubSpot
+### Step 1: Create Pipelines in CRM
 
-1. Navigate to: Settings > Objects > Deals > Pipelines
-2. Click "Create Pipeline"
-3. Name: "Asheville Remodeling"
-4. Add deal stages (as listed above)
-5. Set probability % for each stage
-6. Repeat for "Asheville Restorations" and "Greenville Remodeling"
+1. Navigate to pipeline settings
+2. Create pipeline with your brand/market name
+3. Add deal stages (as listed above)
+4. Set probability % for each stage
+5. Repeat for additional pipelines if needed
 
 ### Step 2: Configure Deal Properties
 
-1. Navigate to: Settings > Properties > Deal Properties
+1. Navigate to deal property settings
 2. Create custom properties (listed above)
 3. Make required fields mandatory for stage progression
 
 ### Step 3: Set Up Automation Workflows
 
-1. Navigate to: Automation > Workflows
-2. Create workflows (as listed above)
-3. Test with sample deals before going live
+1. Create workflows based on templates above
+2. Test with sample deals before going live
 
 ### Step 4: Train Sales Team
 
-- Walk RJ through each pipeline
+- Walk through each pipeline
 - Practice moving deals between stages
 - Review automation triggers and what happens at each stage
 - Establish weekly pipeline review cadence
@@ -311,16 +259,13 @@ last_updated: "2025-01-01"
 
 ## Common Questions
 
-**Q: Why not use one pipeline for all brands?**
-A: Each brand has different close rates, timelines, and processes. Separate pipelines provide accurate forecasting.
+**Q: Why not use one pipeline for all brands/markets?**
+A: Each brand/market may have different close rates, timelines, and processes. Separate pipelines provide accurate forecasting.
 
 **Q: Can a deal move between pipelines?**
-A: Rarely. If a remodeling inquiry turns into a restoration project, create a new deal in the correct pipeline.
+A: Rarely. If an inquiry changes type, create a new deal in the correct pipeline.
 
-**Q: How do we handle deals with multiple project types (e.g., kitchen + bathroom)?**
-A: Use the primary project type for categorization, note secondary work in Sales Notes field.
-
-**Q: What if Greenville close rates improve?**
+**Q: What if close rates improve in a new market?**
 A: Update stage probabilities quarterly based on actual data.
 
 ---
@@ -336,8 +281,4 @@ Once pipelines are live:
 
 ---
 
-*Separate pipelines by brand = accurate forecasting. Track what's different, optimize what matters.*
-
-
-
-
+*Separate pipelines by brand/market = accurate forecasting. Track what's different, optimize what matters.*

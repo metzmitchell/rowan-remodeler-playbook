@@ -1,6 +1,5 @@
 import React, { useEffect } from 'react';
 import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment';
-import N8nChatWidget from '@site/src/components/N8nChatWidget';
 
 export default function Root({ children }) {
   useEffect(() => {
@@ -39,7 +38,6 @@ export default function Root({ children }) {
   return (
     <>
       {children}
-      <N8nChatWidget />
     </>
   );
 }
